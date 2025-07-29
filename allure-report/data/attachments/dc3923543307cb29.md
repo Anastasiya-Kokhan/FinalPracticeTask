@@ -1,0 +1,1401 @@
+# Page snapshot
+
+```yaml
+- navigation "Shortcuts menu":
+  - heading "Skip to" [level=2]
+  - list "Skip to":
+    - listitem:
+      - link "main content":
+        - /url: "#skippedLink"
+        - text: Main content
+  - heading "Keyboard shortcuts" [level=2]
+  - list "Keyboard shortcuts":
+    - listitem:
+      - link "Search, alt, forward slash"
+    - listitem:
+      - link "Cart, shift, alt, c"
+    - listitem:
+      - link "Home, shift, alt, h"
+    - listitem:
+      - link "Your orders, shift, alt, o"
+    - listitem:
+      - button "Show/hide shortcuts, shift, alt, z"
+  - text: To move between items, use your keyboard's up or down arrows.
+- banner:
+  - navigation "Primary":
+    - link "Amazon":
+      - /url: /ref=nav_logo
+    - button "Deliver to Poland"
+    - search:
+      - text: All
+      - combobox "Select the department you want to search in":
+        - option "All Departments" [selected]
+        - option "Arts & Crafts"
+        - option "Automotive"
+        - option "Baby"
+        - option "Beauty & Personal Care"
+        - option "Books"
+        - option "Boys' Fashion"
+        - option "Computers"
+        - option "Deals"
+        - option "Digital Music"
+        - option "Electronics"
+        - option "Girls' Fashion"
+        - option "Health & Household"
+        - option "Home & Kitchen"
+        - option "Industrial & Scientific"
+        - option "Kindle Store"
+        - option "Luggage"
+        - option "Men's Fashion"
+        - option "Movies & TV"
+        - option "Music, CDs & Vinyl"
+        - option "Pet Supplies"
+        - option "Prime Video"
+        - option "Software"
+        - option "Sports & Outdoors"
+        - option "Tools & Home Improvement"
+        - option "Toys & Games"
+        - option "Video Games"
+        - option "Women's Fashion"
+      - searchbox "Search Amazon"
+      - button "Go"
+    - link "Choose a language for shopping in Amazon United States. The current selection is English (EN).":
+      - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang_ais
+      - img "United States"
+      - text: EN
+    - button "Expand to Change Language or Country"
+    - link "Hello, sign in Account & Lists":
+      - /url: https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3Fref_%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+    - button "Expand Account and Lists"
+    - link "Returns & Orders":
+      - /url: /gp/css/order-history?ref_=nav_orders_first
+    - link "0 items in cart":
+      - /url: /gp/cart/view.html?ref_=nav_cart
+    - alertdialog "International Shopping Transition Alert":
+      - text: We're showing you items that ship to
+      - strong: Poland
+      - text: . To see items that ship to a different country, change your delivery address.
+      - button "Submit"
+      - button "Submit"
+    - button "Open All Categories Menu": All
+    - list:
+      - listitem:
+        - link "Today's Deals":
+          - /url: /gp/goldbox?ref_=nav_cs_gb
+      - listitem:
+        - link "Registry":
+          - /url: /gp/browse.html?node=16115931011&ref_=nav_cs_registry
+      - listitem:
+        - link "Prime Video":
+          - /url: /Amazon-Video/b/?ie=UTF8&node=2858778011&ref_=nav_cs_prime_video
+      - listitem:
+        - link "Gift Cards":
+          - /url: /gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc
+      - listitem:
+        - link "Customer Service":
+          - /url: /gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_customerservice
+      - listitem:
+        - link "Sell":
+          - /url: /b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell
+      - link "Click to call our Disability Customer Support line, or reach us directly at 1-888-283-1678":
+        - /url: /gp/help/customer/accessibility
+        - text: Disability Customer Support
+- main:
+  - banner:
+    - group "Featured content":
+      - link "Previous slide" [disabled]:
+        - /url: "#"
+      - group:
+        - list:
+          - listitem:
+            - link "Learn more. Save more. Shop the new class of deals":
+              - /url: /b/?_encoding=UTF8&node=121171061011&pd_rd_w=Nufpr&content-id=amzn1.sym.72a9b3ad-a5d7-43a3-98f0-863a08af168f&pf_rd_p=72a9b3ad-a5d7-43a3-98f0-863a08af168f&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=ea8Ht&pd_rd_r=8833914a-885d-4281-b19c-74c1183cc45d&ref_=pd_hp_d_hero_unk
+              - img "Learn more. Save more. Shop the new class of deals"
+      - link "Next slide":
+        - /url: "#"
+  - heading "Shop for your home essentials" [level=2]
+  - link "Cleaning Tools":
+    - /url: /s/?_encoding=UTF8&k=cleaning%20tools&pd_rd_w=yPbJb&content-id=amzn1.sym.4da186f5-145b-4e27-9ae2-777c48d6d9cd&pf_rd_p=4da186f5-145b-4e27-9ae2-777c48d6d9cd&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Cleaning Tools"
+    - text: Cleaning Tools
+  - link "Home Storage":
+    - /url: /s/?_encoding=UTF8&k=home%20storage&pd_rd_w=yPbJb&content-id=amzn1.sym.4da186f5-145b-4e27-9ae2-777c48d6d9cd&pf_rd_p=4da186f5-145b-4e27-9ae2-777c48d6d9cd&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Home Storage"
+    - text: Home Storage
+  - link "Home Decor":
+    - /url: /s/?_encoding=UTF8&k=home%20decor&pd_rd_w=yPbJb&content-id=amzn1.sym.4da186f5-145b-4e27-9ae2-777c48d6d9cd&pf_rd_p=4da186f5-145b-4e27-9ae2-777c48d6d9cd&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Home Decor"
+    - text: Home Decor
+  - link "Bedding":
+    - /url: /s/?_encoding=UTF8&k=bedding&pd_rd_w=yPbJb&content-id=amzn1.sym.4da186f5-145b-4e27-9ae2-777c48d6d9cd&pf_rd_p=4da186f5-145b-4e27-9ae2-777c48d6d9cd&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Bedding"
+    - text: Bedding
+  - link "Shop for your home essentials - Discover more in Home":
+    - /url: /s/?_encoding=UTF8&k=home&pd_rd_w=yPbJb&content-id=amzn1.sym.4da186f5-145b-4e27-9ae2-777c48d6d9cd&pf_rd_p=4da186f5-145b-4e27-9ae2-777c48d6d9cd&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - text: Discover more in Home
+  - heading "Get your game on" [level=2]
+  - link "Get your game on Shop gaming":
+    - /url: /s/?_encoding=UTF8&k=gaming&pd_rd_w=t135q&content-id=amzn1.sym.edf433e2-b6d4-408e-986d-75239a5ced10&pf_rd_p=edf433e2-b6d4-408e-986d-75239a5ced10&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Get your game on"
+    - text: Shop gaming
+  - heading "Fashion trends you like" [level=2]
+  - link "Dresses":
+    - /url: /s/?_encoding=UTF8&k=Dresses&crid=1PW0S93CC85GY&sprefix=dresses%2Caps%2C146&ref=nb_sb_noss_1&pd_rd_w=GY4Gg&content-id=amzn1.sym.bc6e892c-a9fc-4672-99a1-592a1c3e66ca&pf_rd_p=bc6e892c-a9fc-4672-99a1-592a1c3e66ca&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Dresses"
+    - text: Dresses
+  - link "Knits":
+    - /url: /s/?_encoding=UTF8&k=Knits%20clothing&crid=23OTKP0I0AQDD&sprefix=knits%20clothing%2Caps%2C147&ref=nb_sb_noss_2&pd_rd_w=GY4Gg&content-id=amzn1.sym.bc6e892c-a9fc-4672-99a1-592a1c3e66ca&pf_rd_p=bc6e892c-a9fc-4672-99a1-592a1c3e66ca&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Knits"
+    - text: Knits
+  - link "Jackets":
+    - /url: /s/?_encoding=UTF8&k=Spring%20Jackets&crid=28AAZ2JDZCYX1&sprefix=spring%20jackets%2Caps%2C140&ref=nb_sb_noss_1&pd_rd_w=GY4Gg&content-id=amzn1.sym.bc6e892c-a9fc-4672-99a1-592a1c3e66ca&pf_rd_p=bc6e892c-a9fc-4672-99a1-592a1c3e66ca&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Jackets"
+    - text: Jackets
+  - link "Jewelry":
+    - /url: /s/?_encoding=UTF8&k=jewelry&crid=3J1F4CEQCXT22&sprefix=jewelry%2Caps%2C152&ref=nb_sb_noss_1&pd_rd_w=GY4Gg&content-id=amzn1.sym.bc6e892c-a9fc-4672-99a1-592a1c3e66ca&pf_rd_p=bc6e892c-a9fc-4672-99a1-592a1c3e66ca&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Jewelry"
+    - text: Jewelry
+  - link "Fashion trends you like - Explore more":
+    - /url: /s/?_encoding=UTF8&k=Trending%20fashion&crid=2787SXJYRXDZH&sprefix=trending%20fashion%2Caps%2C142&ref=nb_sb_noss_1&pd_rd_w=GY4Gg&content-id=amzn1.sym.bc6e892c-a9fc-4672-99a1-592a1c3e66ca&pf_rd_p=bc6e892c-a9fc-4672-99a1-592a1c3e66ca&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - text: Explore more
+  - heading "Save big on school essentials" [level=2]
+  - link "Backpacks":
+    - /url: /s/?_encoding=UTF8&k=backpack%20for%20kids&pd_rd_w=6wwRG&content-id=amzn1.sym.d3f0adea-7492-4a01-9fd9-0d3d215dc91d&pf_rd_p=d3f0adea-7492-4a01-9fd9-0d3d215dc91d&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Backpacks"
+    - text: Backpacks
+  - link "Electronics":
+    - /url: /s/?_encoding=UTF8&k=electronics%20for%20college%20students&pd_rd_w=6wwRG&content-id=amzn1.sym.d3f0adea-7492-4a01-9fd9-0d3d215dc91d&pf_rd_p=d3f0adea-7492-4a01-9fd9-0d3d215dc91d&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Electronics"
+    - text: Electronics
+  - link "Stationery":
+    - /url: /s/?_encoding=UTF8&k=stationery&pd_rd_w=6wwRG&content-id=amzn1.sym.d3f0adea-7492-4a01-9fd9-0d3d215dc91d&pf_rd_p=d3f0adea-7492-4a01-9fd9-0d3d215dc91d&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Stationery"
+    - text: Stationery
+  - link "Fashion":
+    - /url: /s/?_encoding=UTF8&k=school%20kids%20clothes&pd_rd_w=6wwRG&content-id=amzn1.sym.d3f0adea-7492-4a01-9fd9-0d3d215dc91d&pf_rd_p=d3f0adea-7492-4a01-9fd9-0d3d215dc91d&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Fashion"
+    - text: Fashion
+  - link "Save big on school essentials - See more":
+    - /url: /b/?_encoding=UTF8&node=121171061011&pd_rd_w=6wwRG&content-id=amzn1.sym.d3f0adea-7492-4a01-9fd9-0d3d215dc91d&pf_rd_p=d3f0adea-7492-4a01-9fd9-0d3d215dc91d&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - text: See more
+  - separator
+  - heading "Top categories in Kitchen appliances" [level=2]
+  - link "Cooker":
+    - /url: /s/?_encoding=UTF8&k=cooker&pd_rd_w=s6768&content-id=amzn1.sym.8158743a-e3ec-4239-b3a8-31bfee7d4a15&pf_rd_p=8158743a-e3ec-4239-b3a8-31bfee7d4a15&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Cooker"
+    - text: Cooker
+  - link "Coffee":
+    - /url: /s/?_encoding=UTF8&k=coffee%20machine&pd_rd_w=s6768&content-id=amzn1.sym.8158743a-e3ec-4239-b3a8-31bfee7d4a15&pf_rd_p=8158743a-e3ec-4239-b3a8-31bfee7d4a15&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Coffee"
+    - text: Coffee
+  - link "Pots and Pans":
+    - /url: /s/?_encoding=UTF8&k=pots%20and%20pans&pd_rd_w=s6768&content-id=amzn1.sym.8158743a-e3ec-4239-b3a8-31bfee7d4a15&pf_rd_p=8158743a-e3ec-4239-b3a8-31bfee7d4a15&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Pots and Pans"
+    - text: Pots and Pans
+  - link "Kettles":
+    - /url: /s/?_encoding=UTF8&k=kettle&pd_rd_w=s6768&content-id=amzn1.sym.8158743a-e3ec-4239-b3a8-31bfee7d4a15&pf_rd_p=8158743a-e3ec-4239-b3a8-31bfee7d4a15&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Kettles"
+    - text: Kettles
+  - link "Explore all products in Kitchen":
+    - /url: /s/?_encoding=UTF8&k=kitchen%20products&pd_rd_w=s6768&content-id=amzn1.sym.8158743a-e3ec-4239-b3a8-31bfee7d4a15&pf_rd_p=8158743a-e3ec-4239-b3a8-31bfee7d4a15&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+  - heading "Shop Fashion for less" [level=2]
+  - link "Jeans under $50":
+    - /url: /s/?_encoding=UTF8&k=Jeans&rh=n%3A1040660%2Cn%3A1048188%2Cp_36%3A-5000&dc=&ds=v1%3AZrh2YeJ%2Bmo6tc5p1QJD9idnCpBDTF2pKNTUbGqlhFKk&crid=1TZCO6ZC2HZVA&qid=1684823801&rnid=2941120011&sprefix=jeans%2Caps%2C155&ref=sr_nr_n_4&pd_rd_w=h2FIV&content-id=amzn1.sym.1cb3993a-41fc-4a2a-b2ee-016e70298d9f&pf_rd_p=1cb3993a-41fc-4a2a-b2ee-016e70298d9f&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Jeans under $50"
+    - text: Jeans under $50
+  - link "Tops under $25":
+    - /url: /s/?_encoding=UTF8&k=Tops&rh=p_36%3A-2500&crid=19AKO4YZK6ZPJ&qid=1684823853&rnid=2661611011&sprefix=tops%2Caps%2C250&ref=sr_nr_p_36_5&pd_rd_w=h2FIV&content-id=amzn1.sym.1cb3993a-41fc-4a2a-b2ee-016e70298d9f&pf_rd_p=1cb3993a-41fc-4a2a-b2ee-016e70298d9f&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Tops under $25"
+    - text: Tops under $25
+  - link "Dresses under $30":
+    - /url: /s/?_encoding=UTF8&k=Dresses&rh=p_36%3A-3000&crid=Y67PJX929LXO&qid=1684823891&rnid=2661611011&sprefix=dresses%2Caps%2C149&ref=sr_nr_p_36_5&pd_rd_w=h2FIV&content-id=amzn1.sym.1cb3993a-41fc-4a2a-b2ee-016e70298d9f&pf_rd_p=1cb3993a-41fc-4a2a-b2ee-016e70298d9f&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Dresses under $30"
+    - text: Dresses under $30
+  - link "Shoes under $50":
+    - /url: /s/?_encoding=UTF8&k=Shoes&rh=p_36%3A-5000&crid=1QEZIUFPCL3YZ&qid=1684823927&rnid=2661611011&sprefix=shoes%2Caps%2C145&ref=sr_nr_p_36_5&pd_rd_w=h2FIV&content-id=amzn1.sym.1cb3993a-41fc-4a2a-b2ee-016e70298d9f&pf_rd_p=1cb3993a-41fc-4a2a-b2ee-016e70298d9f&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Shoes under $50"
+    - text: Shoes under $50
+  - link "Shop Fashion for less - See all deals":
+    - /url: /gp/goldbox/?ie=UTF8&ref_=nav_cs_gb&deals-widget=%257B%2522version%2522%253A1%252C%2522viewIndex%2522%253A0%252C%2522presetId%2522%253A%252215E8DB96732AF8CA9C14916141BB1C4C%2522%252C%2522departments%2522%253A%255B%25227147440011%2522%252C%25227192394011%2522%252C%2522679337011%2522%252C%25226358543011%2522%255D%252C%2522sorting%2522%253A%2522FEATURED%2522%257D&pd_rd_w=h2FIV&content-id=amzn1.sym.1cb3993a-41fc-4a2a-b2ee-016e70298d9f&pf_rd_p=1cb3993a-41fc-4a2a-b2ee-016e70298d9f&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66
+    - text: See all deals
+  - heading "Deals for every grade" [level=2]
+  - link "Deals for every grade See all deals":
+    - /url: /b/?_encoding=UTF8&node=121171061011&pd_rd_w=uvr6T&content-id=amzn1.sym.bf3415fa-f57b-42ad-a66b-b226405af807&pf_rd_p=bf3415fa-f57b-42ad-a66b-b226405af807&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Deals for every grade"
+    - text: See all deals
+  - heading "New home arrivals under $50" [level=2]
+  - link "Kitchen & dining":
+    - /url: /s/?_encoding=UTF8&k=kitchen%20and%20dining&rh=p_36%3A-5000&s=date-desc-rank&pd_rd_w=jq9s8&content-id=amzn1.sym.679a99a5-333c-46b8-a493-b812dbdccbc0&pf_rd_p=679a99a5-333c-46b8-a493-b812dbdccbc0&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Kitchen & dining"
+    - text: Kitchen & Dining
+  - link "Home improvement":
+    - /url: /s/?_encoding=UTF8&k=home%20improvement&i=tools&rh=n%3A228013%2Cp_36%3A-5000&dc=&ds=v1%3AU%2F9vxcfd6LLqNGLcdfGjetkk3KJGd0ZuNoxWMV3LcAk&pd_rd_w=jq9s8&content-id=amzn1.sym.679a99a5-333c-46b8-a493-b812dbdccbc0&pf_rd_p=679a99a5-333c-46b8-a493-b812dbdccbc0&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Home improvement"
+    - text: Home Improvement
+  - link "Décor":
+    - /url: /s/?_encoding=UTF8&k=home%20decor&rh=p_36%3A-5000&s=date-desc-rank&pd_rd_w=jq9s8&content-id=amzn1.sym.679a99a5-333c-46b8-a493-b812dbdccbc0&pf_rd_p=679a99a5-333c-46b8-a493-b812dbdccbc0&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Décor"
+    - text: Décor
+  - link "Bedding & bath":
+    - /url: /s/?_encoding=UTF8&k=bedding%20and%20bath&rh=p_36%3A-5000&s=date-desc-rank&pd_rd_w=jq9s8&content-id=amzn1.sym.679a99a5-333c-46b8-a493-b812dbdccbc0&pf_rd_p=679a99a5-333c-46b8-a493-b812dbdccbc0&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - img "Bedding & bath"
+    - text: Bedding & Bath
+  - link "New home arrivals under $50 - Shop the latest from Home":
+    - /url: /s/?_encoding=UTF8&k=home&i=garden&rh=n%3A1055398%2Cp_36%3A-5000&s=exact-aware-popularity-rank&dc=&pd_rd_w=jq9s8&content-id=amzn1.sym.679a99a5-333c-46b8-a493-b812dbdccbc0&pf_rd_p=679a99a5-333c-46b8-a493-b812dbdccbc0&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=FLods&pd_rd_r=1c389ebf-691e-41c5-be20-04b23b839e66&ref_=pd_hp_d_atf_unk
+    - text: Shop the latest from Home
+  - heading "Popular products in Wireless internationally" [level=2]
+  - list:
+    - listitem:
+      - link "FEEL2NICE iPhone Charger Fast Charging 2 Pack Type C Wall Charger Block with 2 Pack [6FT&10FT] Long USB C to Lightning...":
+        - /url: /Charger-charging-Certified-lightning-AirPods/dp/B0B283QP2N/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "FEEL2NICE iPhone Charger Fast Charging 2 Pack Type C Wall Charger Block with 2 Pack [6FT&10FT] Long USB C to Lightning..."
+    - listitem:
+      - link "PICURA Starlink Gen 3 Mount, 180° Adjustable Starlink Mounting Kit, Heavy Duty Pivot Starlink Wall Mount, Starlink Pole...":
+        - /url: /PICURA-Starlink-Mount-Adjustable-Mounting/dp/B0DQV4T8V7/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "PICURA Starlink Gen 3 Mount, 180° Adjustable Starlink Mounting Kit, Heavy Duty Pivot Starlink Wall Mount, Starlink Pole..."
+    - listitem:
+      - link "UGREEN 65W USB C Charger Block - Nexode 4-Port GaN Charger Type C, Fast Charging for MacBook Pro/Air, iPhone, iPad Pro,...":
+        - /url: /UGREEN-Charger-Charging-Compatible-MacBook/dp/B0CYZ52VPX/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "UGREEN 65W USB C Charger Block - Nexode 4-Port GaN Charger Type C, Fast Charging for MacBook Pro/Air, iPhone, iPad Pro,..."
+    - listitem:
+      - link "AboveTEK Tablet Wall Mount Holder - 360° Rotation iPad Wall Holder with Anti-Theft Lock System, for iPad Pro/Air/Mini,...":
+        - /url: /AboveTEK-Anti-Theft-Tablet-Mount/dp/B0DNLWRVVG/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "AboveTEK Tablet Wall Mount Holder - 360° Rotation iPad Wall Holder with Anti-Theft Lock System, for iPad Pro/Air/Mini,..."
+    - listitem:
+      - link "LISEN Retractable Car Charger, 69W USB C Car Accessories Adapter for iPhone 16 USB C Charger Fast Charging, Truck...":
+        - /url: /LISEN-Retractable-Charger-Charging-Accessories/dp/B0D4215HCX/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "LISEN Retractable Car Charger, 69W USB C Car Accessories Adapter for iPhone 16 USB C Charger Fast Charging, Truck..."
+    - listitem:
+      - link "UGREEN FineTrack Smart Finder Compatible with Apple Find My (iOS Only) 2-Year Replaceable Battery Bluetooth Tracker...":
+        - /url: /UGREEN-FineTrack-Compatible-Replaceable-Left-Behind/dp/B0D53RXMB1/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "UGREEN FineTrack Smart Finder Compatible with Apple Find My (iOS Only) 2-Year Replaceable Battery Bluetooth Tracker..."
+    - listitem:
+      - link "MoKo Case for Galaxy Tab A9+/A9 Plus 11 inch 2023, Slim Stand Protective Smart Cover with Hard PC Translucent Back Shell...":
+        - /url: /MoKo-Galaxy-Protective-Translucent-SM-X210/dp/B0CH9TT6Q4/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "MoKo Case for Galaxy Tab A9+/A9 Plus 11 inch 2023, Slim Stand Protective Smart Cover with Hard PC Translucent Back Shell..."
+    - listitem:
+      - link "Amazfit Bip 6 Smart Watch 46mm, 14 Day Battery, 1.97\" AMOLED Display, GPS & Free Maps, AI, Bluetooth Call & Text,...":
+        - /url: /Amazfit-Battery-Display-Bluetooth-Water-Resistance/dp/B0DYJKTHYF/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "Amazfit Bip 6 Smart Watch 46mm, 14 Day Battery, 1.97\" AMOLED Display, GPS & Free Maps, AI, Bluetooth Call & Text,..."
+    - listitem:
+      - link "SENBONO Smart Watch with Alexa Built-in, 1.83\" HD Touchscreen, Digital Bluetooth Calling, IP68 Waterproof Fitness...":
+        - /url: /SENBONO-Touchscreen-Digital-Bluetooth-Waterproof/dp/B0F943D5F5/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "SENBONO Smart Watch with Alexa Built-in, 1.83\" HD Touchscreen, Digital Bluetooth Calling, IP68 Waterproof Fitness..."
+    - listitem:
+      - link "OtterBox iPhone 15 (Only) Universe Series case - Black, Modular Accessories, Ultra-Sleek, Raised Edges Protect Camera &...":
+        - /url: /OtterBox-Universe-Modular-Accessories-Ultra-Sleek/dp/B0CGG1QJKM/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "OtterBox iPhone 15 (Only) Universe Series case - Black, Modular Accessories, Ultra-Sleek, Raised Edges Protect Camera &..."
+    - listitem:
+      - link "Poly Blackwire 3220 Wired Headset (Plantronics) - Noise-Canceling Mic – Stereo Design - Connect to PC/Mac via USB-C or...":
+        - /url: /Poly-Blackwire-Wired-Headset-Plantronics/dp/B0CPP272XK/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "Poly Blackwire 3220 Wired Headset (Plantronics) - Noise-Canceling Mic – Stereo Design - Connect to PC/Mac via USB-C or..."
+    - listitem:
+      - link "UGREEN Nexode 45W 3 in 1 Compact GaN Charger, Retractable USB C Fast Wall Charger with Foldable Plug, Compatable for...":
+        - /url: /UGREEN-Compact-Retractable-Foldable-Compatable/dp/B0DRP9HKKC/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "UGREEN Nexode 45W 3 in 1 Compact GaN Charger, Retractable USB C Fast Wall Charger with Foldable Plug, Compatable for..."
+    - listitem:
+      - link "65W USB C Charger Block, ARZOPA GaN Fast Charger USB C Wall Charger PPS 3-Port Foldable Plug for MacBook Pro/Air, iPad...":
+        - /url: /Charger-ARZOPA-Adapter-Compact-Foldable/dp/B0CRR7CPN2/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "65W USB C Charger Block, ARZOPA GaN Fast Charger USB C Wall Charger PPS 3-Port Foldable Plug for MacBook Pro/Air, iPad..."
+    - listitem:
+      - link "Amazfit Helio Strap Fitness Tracker Wristband, 24/7 Activity & Sleep Tracker with Heart Rate, 10 Days Battery, 27 Sports...":
+        - /url: /Amazfit-Wristband-Activity-Strength-Subscription/dp/B0F9J3TFMB/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "Amazfit Helio Strap Fitness Tracker Wristband, 24/7 Activity & Sleep Tracker with Heart Rate, 10 Days Battery, 27 Sports..."
+    - listitem:
+      - link "Samsung Galaxy Buds FE True Wireless Bluetooth Earbuds, Comfort and Secure in Ear Fit, Auto Switch Audio, Touch Control,...":
+        - /url: /SAMSUNG-Wireless-Bluetooth-Wing-Tip-Assistant/dp/B0CF7GYNW2/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "Samsung Galaxy Buds FE True Wireless Bluetooth Earbuds, Comfort and Secure in Ear Fit, Auto Switch Audio, Touch Control,..."
+    - listitem:
+      - link "UGREEN 30W USB C Charger, Nexode Foldable GaN PPS Compact Fast Wall Charger Block, USB-C Power Adapter for iPhone...":
+        - /url: /UGREEN-Charger-Foldable-Compact-Compatible/dp/B0BJ6BB44D/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "UGREEN 30W USB C Charger, Nexode Foldable GaN PPS Compact Fast Wall Charger Block, USB-C Power Adapter for iPhone..."
+    - listitem:
+      - link "TOZO E2 Wireless Earbuds 10mm Drivers with Powerful Bass, App Customize 32 EQs, with 2 Mics AI Call Noise Cancellation,...":
+        - /url: /TOZO-Cancellation-Customize-Bluetooth-Headphones/dp/B0DD3RZWR3/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "TOZO E2 Wireless Earbuds 10mm Drivers with Powerful Bass, App Customize 32 EQs, with 2 Mics AI Call Noise Cancellation,..."
+    - listitem:
+      - link "i.VALUX Invisible Desk Phone Charger,15W Fast Wireless Charging Pad,Hidden Qi-Certified Quick Charge Cordless Desktop...":
+        - /url: /i-VALUX-Wireless-Charging-Qi-Certified-Compatible/dp/B075K3131T/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "i.VALUX Invisible Desk Phone Charger,15W Fast Wireless Charging Pad,Hidden Qi-Certified Quick Charge Cordless Desktop..."
+    - listitem:
+      - link "Spigen Tempered Glass Screen Protector [GlasTR EZ FIT Pro] designed for Galaxy Z Fold 7 [Case Friendly] - 2 Pack":
+        - /url: /Spigen-Tempered-Protector-designed-Friendly/dp/B0F8RDXNY5/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "Spigen Tempered Glass Screen Protector [GlasTR EZ FIT Pro] designed for Galaxy Z Fold 7 [Case Friendly] - 2 Pack"
+    - listitem:
+      - link "Poly Blackwire 5220 Wired Headset (Plantronics) Flexible Noise-Canceling Boom Mic Ergonomic Design - PC/Mac, Mobile via...":
+        - /url: /Poly-Blackwire-Wired-Headset-Plantronics/dp/B0CPNYF89X/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "Poly Blackwire 5220 Wired Headset (Plantronics) Flexible Noise-Canceling Boom Mic Ergonomic Design - PC/Mac, Mobile via..."
+    - listitem:
+      - link "Garmin vívoactive 5, Health and Fitness GPS Smartwatch, AMOLED Display, Up to 11 Days of Battery, Ivory":
+        - /url: /Garmin-v%C3%ADvoactive-Fitness-Smartwatch-Display/dp/B0CG6NBJ61/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "Garmin vívoactive 5, Health and Fitness GPS Smartwatch, AMOLED Display, Up to 11 Days of Battery, Ivory"
+    - listitem:
+      - link "Piefly Phone Lanyard Crossbody Strap, Blue Cell Phone Lanyards for Around the Neck Wristlet Shoulder, Wrist Strap for...":
+        - /url: /Piefly-Crossbody-Adjustable-Accessories-Essentials/dp/B0DL9VZQJM/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "Piefly Phone Lanyard Crossbody Strap, Blue Cell Phone Lanyards for Around the Neck Wristlet Shoulder, Wrist Strap for..."
+    - listitem:
+      - link "Fiuned AirTag Keychain Holder - Air tag Lock Case with Wire Cable Compatible with Apple AirTags, Ultra Durable Anti-Lost...":
+        - /url: /Fiuned-AirTag-Keychain-Holder-Compatible/dp/B0CGRSG9FT/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "Fiuned AirTag Keychain Holder - Air tag Lock Case with Wire Cable Compatible with Apple AirTags, Ultra Durable Anti-Lost..."
+    - listitem:
+      - link "Qinmay Phone Case for Samsung Galaxy A25 5G Case with HD Screen Protector, Heavy Duty Shockproof & Dropproof 3-Layer...":
+        - /url: /Qinmay-Protector-Shockproof-Dropproof-WineRedPink/dp/B0CY54CXLH/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "Qinmay Phone Case for Samsung Galaxy A25 5G Case with HD Screen Protector, Heavy Duty Shockproof & Dropproof 3-Layer..."
+    - listitem:
+      - link "Key-BAK Mini-BAK Retractable Badge Holder with 36\" Nylon Cord, Steel Belt Clip":
+        - /url: /KEY-BAK-MINI-BAK-Retractable-Holder-Bulldog/dp/B004ZV473G/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "Key-BAK Mini-BAK Retractable Badge Holder with 36\" Nylon Cord, Steel Belt Clip"
+    - listitem:
+      - link "Samsung SmartTag2 (2023) Bluetooth + UWB, IP67 Water and Dust Resistant, Findable via App, 1.5 Year Battery Life - Black...":
+        - /url: /SAMSUNG-SmartTag2-Bluetooth-Resistant-Findable/dp/B0CHN2D8KM/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "Samsung SmartTag2 (2023) Bluetooth + UWB, IP67 Water and Dust Resistant, Findable via App, 1.5 Year Battery Life - Black..."
+    - listitem:
+      - link "DEERLAMN Case for iPhone 15 with Slide Camera Cover + Screen Protector (2 Packs), Rotated Ring Kickstand Military Grade...":
+        - /url: /DEERLAMN-Protector-Shockproof-Protective-Cover-Olive/dp/B0CW941429/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "DEERLAMN Case for iPhone 15 with Slide Camera Cover + Screen Protector (2 Packs), Rotated Ring Kickstand Military Grade..."
+    - listitem:
+      - link "Samsung Galaxy Buds 3 Pro AI True Wireless Bluetooth Earbuds, Noise Cancelling, Sound Optimization, Redesigned Comfort...":
+        - /url: /SAMSUNG-Cancelling-Optimization-Interpreter-Redesigned/dp/B0D9YZJ3V7/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "Samsung Galaxy Buds 3 Pro AI True Wireless Bluetooth Earbuds, Noise Cancelling, Sound Optimization, Redesigned Comfort..."
+    - listitem:
+      - link "Mini Mic Pro (Latest Model) - Professional Wireless Microphone for iPhone, iPad, Android, Lavalier Microphone for Video...":
+        - /url: /Mini-Mic-Pro-Professional-Microphone/dp/B0CMJTSVRW/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "Mini Mic Pro (Latest Model) - Professional Wireless Microphone for iPhone, iPad, Android, Lavalier Microphone for Video..."
+    - listitem:
+      - link "Portable Wireless Carplay Car Stereo, 7\" HD Touchscreen for Car with Apple CarPlay & Android Auto with Backup...":
+        - /url: /Portable-Wireless-Touchscreen-Bluetooth-Satellite/dp/B0DXK4KDDW/?_encoding=UTF8&pd_rd_w=hbfof&content-id=amzn1.sym.7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_p=7f957896-9457-4ac3-8c2b-58f2b6be2857&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_exports_top_sellers_unrec
+        - img "Portable Wireless Carplay Car Stereo, 7\" HD Touchscreen for Car with Apple CarPlay & Android Auto with Backup..."
+  - separator
+  - heading "Best Sellers in Home & Kitchen" [level=2]
+  - list:
+    - listitem:
+      - link "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Bed Sheets Set - Hotel Luxury Bedding for Women, Men, Kids &...":
+        - /url: /Queen-Size-Piece-Sheet-Set/dp/B01M16WBW1/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "Queen Size 4 Piece Sheet Set - Comfy Breathable & Cooling Bed Sheets Set - Hotel Luxury Bedding for Women, Men, Kids &..."
+    - listitem:
+      - link "Amazon Basics Lightweight Super Soft Easy Care Wrinkle Free Microfiber 3 Piece Bed Sheet Set with 14-Inch Deep Pockets,...":
+        - /url: /AmazonBasics-Microfiber-Sheet-Twin-Navy/dp/B00Q7OAW1U/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "Amazon Basics Lightweight Super Soft Easy Care Wrinkle Free Microfiber 3 Piece Bed Sheet Set with 14-Inch Deep Pockets,..."
+    - listitem:
+      - link "Zevo Flying Insect Trap & Cartridge - Plug in Fly Trap & Indoor Bug Catcher for Gnats, House & Fruit Flies - Mess-Free -...":
+        - /url: /Electric-Flying-Insect-Trap-Starter/dp/B07T869RNY/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "Zevo Flying Insect Trap & Cartridge - Plug in Fly Trap & Indoor Bug Catcher for Gnats, House & Fruit Flies - Mess-Free -..."
+    - listitem:
+      - link "Zevo Flying Insect Trap Refill - for The Zevo MAX & Standard Indoor Fly Trap - Catch Gnats, House & Fruit Flies - Easy...":
+        - /url: /ZEVO-Flying-Insect-Refills-Indoor/dp/B0C3FTCYZL/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "Zevo Flying Insect Trap Refill - for The Zevo MAX & Standard Indoor Fly Trap - Catch Gnats, House & Fruit Flies - Easy..."
+    - listitem:
+      - link "Stanley Quencher H2.0 Tumbler with Handle and Straw 30 oz | Flowstate 3-Position Lid | Cup Holder Compatible for Travel...":
+        - /url: /Flowstate-3-Position-Compatible-Insulated-Stainless/dp/B0DR9PNXX3/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "Stanley Quencher H2.0 Tumbler with Handle and Straw 30 oz | Flowstate 3-Position Lid | Cup Holder Compatible for Travel..."
+    - listitem:
+      - link "upsimples 11x14 Picture Frame, Display Pictures 8x10 with Mat or 11x14 Without Mat, Wall Hanging Photo Frame, Black, 1 Pack":
+        - /url: /upsimples-Picture-Display-Pictures-Without/dp/B0BQR2BQYZ/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "upsimples 11x14 Picture Frame, Display Pictures 8x10 with Mat or 11x14 Without Mat, Wall Hanging Photo Frame, Black, 1 Pack"
+    - listitem:
+      - link "Amazon Basics Slim, Velvet, Non-Slip Suit Clothes Hangers, Pack of 50, Black":
+        - /url: /Amazon-Basics-Non-Slip-Clothes-Hangers/dp/B00FXNAAW2/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "Amazon Basics Slim, Velvet, Non-Slip Suit Clothes Hangers, Pack of 50, Black"
+    - listitem:
+      - link "Utopia Bedding Queen Sheet Set – 4 Piece Bed Sheets for Queen Size Bed, Soft and Breathable Microfiber, Includes 1...":
+        - /url: /Utopia-Bedding-4-Piece-Queen-Sheets/dp/B00NX0WXQI/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "Utopia Bedding Queen Sheet Set – 4 Piece Bed Sheets for Queen Size Bed, Soft and Breathable Microfiber, Includes 1..."
+    - listitem:
+      - link "Zevo 2 Flying Insect Traps & 2 Cartridges - Plug In Fly Trap & Indoor Bug Catcher for Gnats, House & Fruit Flies -...":
+        - /url: /Flying-Insect-Fruit-Refill-Cartridges/dp/B0C3PDTYYX/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "Zevo 2 Flying Insect Traps & 2 Cartridges - Plug In Fly Trap & Indoor Bug Catcher for Gnats, House & Fruit Flies -..."
+    - listitem:
+      - link "OLANLY Bathroom Rugs 30x20, Extra Soft Absorbent Chenille Bath Rugs, Rubber Backing Quick Dry, Machine Washable Bath...":
+        - /url: /OLANLY-Bathroom-Absorbent-Chenille-Non-Slip/dp/B0CFGYFCYL/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "OLANLY Bathroom Rugs 30x20, Extra Soft Absorbent Chenille Bath Rugs, Rubber Backing Quick Dry, Machine Washable Bath..."
+    - listitem:
+      - link "JISULIFE Handheld Mini Fan, 3 IN 1 USB Rechargeable Portable Fan [12-19 Working Hours] with Power Bank, Flashlight,...":
+        - /url: /Rechargeable-Handheld-Portable-Operated-Flashlight/dp/B07QK9C9KT/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "JISULIFE Handheld Mini Fan, 3 IN 1 USB Rechargeable Portable Fan [12-19 Working Hours] with Power Bank, Flashlight,..."
+    - listitem:
+      - link "Utopia Bedding Throw Pillows Insert (Pack of 2, White) - 18 x 18 Inches Bed and Couch Pillows - Indoor Decorative Pillow":
+        - /url: /Utopia-Bedding-Throw-Pillows-Insert/dp/B01NBNDC1T/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "Utopia Bedding Throw Pillows Insert (Pack of 2, White) - 18 x 18 Inches Bed and Couch Pillows - Indoor Decorative Pillow"
+    - listitem:
+      - link "KitchenAid Ribbed Soft Silicone Oven Mitt Set, 7\"x13\", Milkshake 2 Count":
+        - /url: /KitchenAid-Ribbed-Soft-Silicone-Milkshake/dp/B08J8GZXKZ/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "KitchenAid Ribbed Soft Silicone Oven Mitt Set, 7\"x13\", Milkshake 2 Count"
+    - listitem:
+      - link "PlayHot Portable Handheld Turbo Fan, 5 Gear Wind, Battery Operated, Up to 12 Working Hours, 3 IN 1 Hand Fan with Air...":
+        - /url: /Portable-Handheld-PlayHot-Personal-Rechargeable/dp/B0D97YVVQ2/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "PlayHot Portable Handheld Turbo Fan, 5 Gear Wind, Battery Operated, Up to 12 Working Hours, 3 IN 1 Hand Fan with Air..."
+    - listitem:
+      - link "Chapin 20004 Made in USA 1 -Gallon Lawn and Garden Pump Pressured Sprayer, for Spraying Plants, Garden Watering, Weeds...":
+        - /url: /Chapin-20004-Pressured-Spraying-Watering/dp/B000E28UQU/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "Chapin 20004 Made in USA 1 -Gallon Lawn and Garden Pump Pressured Sprayer, for Spraying Plants, Garden Watering, Weeds..."
+    - listitem:
+      - link "Alpha Grillers Meat Thermometer Digital - Instant Read Food Thermometer for Cooking Grilling Air Fryer Griddle Probe...":
+        - /url: /Thermometer-Cooking-BACKLIGHT-WATERPROOF-Temperature/dp/B00S93EQUK/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "Alpha Grillers Meat Thermometer Digital - Instant Read Food Thermometer for Cooking Grilling Air Fryer Griddle Probe..."
+    - listitem:
+      - link "OLANLY Bathroom Rugs Mat 30x20, Extra Soft Absorbent Microfiber Bath Rugs, Rubber Backing, Quick Dry, Machine Washable...":
+        - /url: /OLANLY-Bathroom-Absorbent-Microfiber-Non-Slip/dp/B0CBP8CL71/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "OLANLY Bathroom Rugs Mat 30x20, Extra Soft Absorbent Microfiber Bath Rugs, Rubber Backing, Quick Dry, Machine Washable..."
+    - listitem:
+      - link "ALYVIA SPRING Waterproof Fabric Shower Curtain Liner with 3 Magnets - Soft Hotel Quality Cloth Shower Liner,...":
+        - /url: /ALYVIA-SPRING-Waterproof-Curtain-Magnets/dp/B08BZFRQLS/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "ALYVIA SPRING Waterproof Fabric Shower Curtain Liner with 3 Magnets - Soft Hotel Quality Cloth Shower Liner,..."
+    - listitem:
+      - link "Utopia Bedding Zippered Mattress Encasement Queen, 100% Waterproof Bed Bug and Dust Mite Proof Mattress Protector,...":
+        - /url: /Utopia-Bedding-Zippered-Mattress-Encasement/dp/B00U6HREPQ/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "Utopia Bedding Zippered Mattress Encasement Queen, 100% Waterproof Bed Bug and Dust Mite Proof Mattress Protector,..."
+    - listitem:
+      - link "KitchenAid Classic Multifunction Can Opener and Bottle Opener Easy to Use, Razor Sharp Stainless Steel Cutting Wheel,...":
+        - /url: /KitchenAid-KE199OHOBA-Classic-Multifunction-Opener/dp/B07YP2VH4B/?_encoding=UTF8&pd_rd_w=SUfZ7&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_1055398
+        - img "KitchenAid Classic Multifunction Can Opener and Bottle Opener Easy to Use, Razor Sharp Stainless Steel Cutting Wheel,..."
+  - separator
+  - heading "Elevate your Electronics" [level=2]
+  - link "Headphones":
+    - /url: /s/?_encoding=UTF8&k=headphones&pd_rd_w=PImpn&content-id=amzn1.sym.f0670b1b-e1fd-4c67-a2b1-b8a347243628&pf_rd_p=f0670b1b-e1fd-4c67-a2b1-b8a347243628&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Headphones"
+    - text: Headphones
+  - link "Tablets":
+    - /url: s/?_encoding=UTF8&k=electroinc%20tablets&pd_rd_w=PImpn&content-id=amzn1.sym.f0670b1b-e1fd-4c67-a2b1-b8a347243628&pf_rd_p=f0670b1b-e1fd-4c67-a2b1-b8a347243628&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Tablets"
+    - text: Tablets
+  - link "Gaming":
+    - /url: /s/?_encoding=UTF8&k=video%20gaming&pd_rd_w=PImpn&content-id=amzn1.sym.f0670b1b-e1fd-4c67-a2b1-b8a347243628&pf_rd_p=f0670b1b-e1fd-4c67-a2b1-b8a347243628&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Gaming"
+    - text: Gaming
+  - link "Speakers":
+    - /url: /s/?_encoding=UTF8&k=speakers&pd_rd_w=PImpn&content-id=amzn1.sym.f0670b1b-e1fd-4c67-a2b1-b8a347243628&pf_rd_p=f0670b1b-e1fd-4c67-a2b1-b8a347243628&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Speakers"
+    - text: Speakers
+  - link "Elevate your Electronics - Discover more":
+    - /url: /s/?_encoding=UTF8&k=electronics&pd_rd_w=PImpn&content-id=amzn1.sym.f0670b1b-e1fd-4c67-a2b1-b8a347243628&pf_rd_p=f0670b1b-e1fd-4c67-a2b1-b8a347243628&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - text: Discover more
+  - heading "Level up your PC here" [level=2]
+  - link "Laptops":
+    - /url: /s/?_encoding=UTF8&k=laptops&pd_rd_w=wZmPE&content-id=amzn1.sym.4d71698b-309b-46ab-ad93-6701581285d6&pf_rd_p=4d71698b-309b-46ab-ad93-6701581285d6&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Laptops"
+    - text: Laptops
+  - link "PCs":
+    - /url: /s/?_encoding=UTF8&k=PC%20computers&pd_rd_w=wZmPE&content-id=amzn1.sym.4d71698b-309b-46ab-ad93-6701581285d6&pf_rd_p=4d71698b-309b-46ab-ad93-6701581285d6&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "PCs"
+    - text: PCs
+  - link "Hard Drives":
+    - /url: /s/?_encoding=UTF8&k=hard%20drives&pd_rd_w=wZmPE&content-id=amzn1.sym.4d71698b-309b-46ab-ad93-6701581285d6&pf_rd_p=4d71698b-309b-46ab-ad93-6701581285d6&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Hard Drives"
+    - text: Hard Drives
+  - link "Monitors":
+    - /url: /s/?_encoding=UTF8&k=computer%20monitors&pd_rd_w=wZmPE&content-id=amzn1.sym.4d71698b-309b-46ab-ad93-6701581285d6&pf_rd_p=4d71698b-309b-46ab-ad93-6701581285d6&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Monitors"
+    - text: Monitors
+  - link "Level up your PC here - Discover more":
+    - /url: /s/?_encoding=UTF8&k=computers&pd_rd_w=wZmPE&content-id=amzn1.sym.4d71698b-309b-46ab-ad93-6701581285d6&pf_rd_p=4d71698b-309b-46ab-ad93-6701581285d6&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - text: Discover more
+  - heading "Wireless Tech" [level=2]
+  - link "Smartphones":
+    - /url: /s/?_encoding=UTF8&k=smartphones&pd_rd_w=6kRug&content-id=amzn1.sym.69a935ef-cee6-41d5-aefa-c36bfc7821bc&pf_rd_p=69a935ef-cee6-41d5-aefa-c36bfc7821bc&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Smartphones"
+    - text: Smartphones
+  - link "Watches":
+    - /url: /s/?_encoding=UTF8&k=smart%20watches&pd_rd_w=6kRug&content-id=amzn1.sym.69a935ef-cee6-41d5-aefa-c36bfc7821bc&pf_rd_p=69a935ef-cee6-41d5-aefa-c36bfc7821bc&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Watches"
+    - text: Watches
+  - link "Headphones":
+    - /url: /s/?_encoding=UTF8&k=headphones&pd_rd_w=6kRug&content-id=amzn1.sym.69a935ef-cee6-41d5-aefa-c36bfc7821bc&pf_rd_p=69a935ef-cee6-41d5-aefa-c36bfc7821bc&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Headphones"
+    - text: Headphones
+  - link "Tablets":
+    - /url: /s/?_encoding=UTF8&k=tablets&pd_rd_w=6kRug&content-id=amzn1.sym.69a935ef-cee6-41d5-aefa-c36bfc7821bc&pf_rd_p=69a935ef-cee6-41d5-aefa-c36bfc7821bc&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Tablets"
+    - text: Tablets
+  - link "Wireless Tech - Discover more":
+    - /url: /s/?_encoding=UTF8&k=electronics&pd_rd_w=6kRug&content-id=amzn1.sym.69a935ef-cee6-41d5-aefa-c36bfc7821bc&pf_rd_p=69a935ef-cee6-41d5-aefa-c36bfc7821bc&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - text: Discover more
+  - heading "Level up your beauty routine" [level=2]
+  - link "Makeup":
+    - /url: /s/?_encoding=UTF8&k=makeup&pd_rd_w=TvoIe&content-id=amzn1.sym.cfffd636-af52-48ff-a5dc-4f273c40ec67&pf_rd_p=cfffd636-af52-48ff-a5dc-4f273c40ec67&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Makeup"
+    - text: Makeup
+  - link "Brushes":
+    - /url: /s/?_encoding=UTF8&k=makeup%20brushes&pd_rd_w=TvoIe&content-id=amzn1.sym.cfffd636-af52-48ff-a5dc-4f273c40ec67&pf_rd_p=cfffd636-af52-48ff-a5dc-4f273c40ec67&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Brushes"
+    - text: Brushes
+  - link "Sponges":
+    - /url: /s/?_encoding=UTF8&k=makeup%20sponge&pd_rd_w=TvoIe&content-id=amzn1.sym.cfffd636-af52-48ff-a5dc-4f273c40ec67&pf_rd_p=cfffd636-af52-48ff-a5dc-4f273c40ec67&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Sponges"
+    - text: Sponges
+  - link "Mirrors":
+    - /url: /s/?_encoding=UTF8&k=makeup%20mirror&pd_rd_w=TvoIe&content-id=amzn1.sym.cfffd636-af52-48ff-a5dc-4f273c40ec67&pf_rd_p=cfffd636-af52-48ff-a5dc-4f273c40ec67&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Mirrors"
+    - text: Mirrors
+  - link "Level up your beauty routine - See more":
+    - /url: /s/?_encoding=UTF8&k=beauty%20and%20personal%20care&pd_rd_w=TvoIe&content-id=amzn1.sym.cfffd636-af52-48ff-a5dc-4f273c40ec67&pf_rd_p=cfffd636-af52-48ff-a5dc-4f273c40ec67&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - text: See more
+  - separator
+  - heading "Best Sellers in Clothing, Shoes & Jewelry" [level=2]
+  - list:
+    - listitem:
+      - link "Water Shoes for Women Men Quick-Dry Aqua Socks Swim Beach Barefoot Yoga Exercise Wear Sport Accessories Pool Camping...":
+        - /url: /ATHMILE-Quick-Dry-Barefoot-Exercise-Accessories/dp/B09Q3MYDQH/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "Water Shoes for Women Men Quick-Dry Aqua Socks Swim Beach Barefoot Yoga Exercise Wear Sport Accessories Pool Camping..."
+    - listitem:
+      - link "Crocs Unisex Adult Classic Clog":
+        - /url: /crocs-Unisex-Classic-Black-Women/dp/B0014BYHJE/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "Crocs Unisex Adult Classic Clog"
+    - listitem:
+      - link "Gildan Men's Crew T-Shirts, Multipack, Style G1100":
+        - /url: /Gildan-Mens-T-Shirt-White-Large/dp/B077ZMKWVM/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "Gildan Men's Crew T-Shirts, Multipack, Style G1100"
+    - listitem:
+      - link "Hanes Men's Beefy-t T-Shirt, Heavyweight Cotton Tee, 1 Or 2 Pack, Big & Tall":
+        - /url: /Hanes-Heavyweight-Crewneck-Available-Fashion-t-shirts/dp/B00NOY2P66/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "Hanes Men's Beefy-t T-Shirt, Heavyweight Cotton Tee, 1 Or 2 Pack, Big & Tall"
+    - listitem:
+      - link "Hanes Men's Cotton, Moisture-Wicking Crew Tee Undershirts, Multi-Packs Available":
+        - /url: /Hanes-Available-Moisture-Wicking-Undershirts-Multipack/dp/B00D1ARZMC/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "Hanes Men's Cotton, Moisture-Wicking Crew Tee Undershirts, Multi-Packs Available"
+    - listitem:
+      - link "CUSHIONAIRE Lane Cork Footbed Sandals for Women – Comfortable Double Buckle Slip-On with Genuine Suede Footbed & Arch...":
+        - /url: /CUSHIONAIRE-Womens-Slide-Sandals-Brown/dp/B075PBVR9N/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "CUSHIONAIRE Lane Cork Footbed Sandals for Women – Comfortable Double Buckle Slip-On with Genuine Suede Footbed & Arch..."
+    - listitem:
+      - link "KuaiLu Flip Flops for Women with Arch Support Yoga Mat Comfortable Summer Beach Walking Thong Cushion Sandals Slip On...":
+        - /url: /KuaiLu-Support-Comfortable-Walking-Sandals/dp/B0C5ZRQS2X/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "KuaiLu Flip Flops for Women with Arch Support Yoga Mat Comfortable Summer Beach Walking Thong Cushion Sandals Slip On..."
+    - listitem:
+      - link "Wrangler Authentics Men's Classic Cargo Stretch Short":
+        - /url: /Wrangler-Authentics-Classic-Relaxed-Stretch/dp/B07HNWNXMK/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "Wrangler Authentics Men's Classic Cargo Stretch Short"
+    - listitem:
+      - link "ANRABESS Women Athletic Dress Summer Tennis Workout Active Sports Mini Romper Dress Built in Shorts Travel Vacation Clothes":
+        - /url: /ANRABESS-Workout-Spaghetti-Underneath-1125heise-M/dp/B0C69C89BX/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "ANRABESS Women Athletic Dress Summer Tennis Workout Active Sports Mini Romper Dress Built in Shorts Travel Vacation Clothes"
+    - listitem:
+      - link "Fruit of the Loom Men's Undershirts, Moisture Wicking & Tag Free, Short Sleeve Crew T-Shirts":
+        - /url: /Fruit-Loom-Mens-Tucked-T-Shirt/dp/B00W66LQFO/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "Fruit of the Loom Men's Undershirts, Moisture Wicking & Tag Free, Short Sleeve Crew T-Shirts"
+    - listitem:
+      - link "ANRABESS Womens Short Sleeve Henley Tops V Neck Dressy Casual Loose Fit Shirts Summer Flowy Blouses 2025 Trendy Clothes":
+        - /url: /ANRABESS-Womens-Sleeve-Blouses-Clothes/dp/B0DJJMW21W/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "ANRABESS Womens Short Sleeve Henley Tops V Neck Dressy Casual Loose Fit Shirts Summer Flowy Blouses 2025 Trendy Clothes"
+    - listitem:
+      - link "Women's Floral Print Puff Sleeve Kimono Cardigan Loose Cover Up Casual Blouse Tops":
+        - /url: /Womens-Floral-Sleeve-Kimono-Cardigan/dp/B07SN9RS13/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "Women's Floral Print Puff Sleeve Kimono Cardigan Loose Cover Up Casual Blouse Tops"
+    - listitem:
+      - link "Amazon Essentials Women's Slim-Fit Tank Top, Pack of 2":
+        - /url: /Amazon-Essentials-Womens-2-Pack-Slim-Fit/dp/B0775Q1K93/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "Amazon Essentials Women's Slim-Fit Tank Top, Pack of 2"
+    - listitem:
+      - link "COOFANDY Men's Linen Shirts Short Sleeve Casual Shirts Button Down Shirt for Men Beach Summer Wedding Shirt":
+        - /url: /COOFANDY-Casual-Shirts-Button-Summer/dp/B0BV241H3F/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "COOFANDY Men's Linen Shirts Short Sleeve Casual Shirts Button Down Shirt for Men Beach Summer Wedding Shirt"
+    - listitem:
+      - link "Gildan Unisex Adult Ultra Cotton T-Shirt, Style G2000, Multipack":
+        - /url: /Gildan-G2000-Cotton-T-Shirt-2-Pack/dp/B075ZZ7XKD/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "Gildan Unisex Adult Ultra Cotton T-Shirt, Style G2000, Multipack"
+    - listitem:
+      - link "baleaf Men's Sun Protection Shirts UV SPF UPF 50+ Long Sleeve Rash Guard Fishing Running Quick Dry Lightweight":
+        - /url: /BALEAF-Lightweight-Protection-T-Shirts-Fishing/dp/B071RYCHPK/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "baleaf Men's Sun Protection Shirts UV SPF UPF 50+ Long Sleeve Rash Guard Fishing Running Quick Dry Lightweight"
+    - listitem:
+      - link "Carhartt Men's Loose Fit Heavyweight Short-Sleeve Pocket T-Shirt (Also Available in Big & Tall)":
+        - /url: /Carhartt-Workwear-Pocket-Short-Sleeve-T-Shirt/dp/B0000ANHT7/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "Carhartt Men's Loose Fit Heavyweight Short-Sleeve Pocket T-Shirt (Also Available in Big & Tall)"
+    - listitem:
+      - link "AUTOMET Womens Summer Tops Spring Shirts Trendy Vacation Outfits Short Sleeve Business Tshirts Fashion Casual Blouses":
+        - /url: /AUTOMET-Tshirts-Fashion-Business-Knitted/dp/B0CSK8T1JX/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "AUTOMET Womens Summer Tops Spring Shirts Trendy Vacation Outfits Short Sleeve Business Tshirts Fashion Casual Blouses"
+    - listitem:
+      - link "CHARMKING Compression Socks for Women & Men Circulation (3 Pairs) 15-20 mmHg is Best Support for Athletic Running Cycling":
+        - /url: /CHARMKING-Compression-Athletic-Medical-Running/dp/B075565Z2N/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "CHARMKING Compression Socks for Women & Men Circulation (3 Pairs) 15-20 mmHg is Best Support for Athletic Running Cycling"
+    - listitem:
+      - link "SEEKWAY Water Shoes Men Women Adult Quick-Dry Aqua Sock Barefoot for Beach Swim River Pool Lake Hiking Kayaking Surfing":
+        - /url: /SEEKWAY-Quick-Dry-Barefoot-SP001-407-White/dp/B081DY9881/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "SEEKWAY Water Shoes Men Women Adult Quick-Dry Aqua Sock Barefoot for Beach Swim River Pool Lake Hiking Kayaking Surfing"
+    - listitem:
+      - link "baleaf Women's 8\"/ 5\"/ 3\" Biker Shorts High Waist Yoga Workout Gym Running Volleyball Spandex Shorts with Pockets":
+        - /url: /BALEAF-Womens-Workout-Control-Pockets/dp/B074SHQ18W/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "baleaf Women's 8\"/ 5\"/ 3\" Biker Shorts High Waist Yoga Workout Gym Running Volleyball Spandex Shorts with Pockets"
+    - listitem:
+      - link "Nautica Boys' School Uniform Short Sleeve Polo Shirt, Button Closure, Moisture Wicking Performance Material":
+        - /url: /Nautica-Uniform-Sleeve-Performance-Medium/dp/B01DJZY800/?_encoding=UTF8&pd_rd_w=l333D&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_7141123011
+        - img "Nautica Boys' School Uniform Short Sleeve Polo Shirt, Button Closure, Moisture Wicking Performance Material"
+  - separator
+  - heading "Best Sellers in Computers & Accessories" [level=2]
+  - list:
+    - listitem:
+      - link "Ailun Screen Protector for iPad 11th A16 2025 [11 Inch] / 10th Generation 2022 [10.9 Inch], Tempered Glass [Face ID &...":
+        - /url: /Ailun-Protector-Generation-Compatible-Sensitive/dp/B0BJPXXM7D/?_encoding=UTF8&pd_rd_w=vtN3o&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_541966
+        - img "Ailun Screen Protector for iPad 11th A16 2025 [11 Inch] / 10th Generation 2022 [10.9 Inch], Tempered Glass [Face ID &..."
+    - listitem:
+      - link "Anker iPhone 16 Charger, 2-Pack 20W Fast USB C Charger Block, for iPhone 16/16 Pro Max/15 Series/iPad Pro and More...":
+        - /url: /iPhone-Charger-Anker-AirPods-Included/dp/B0C8HHV9DK/?_encoding=UTF8&pd_rd_w=vtN3o&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_541966
+        - img "Anker iPhone 16 Charger, 2-Pack 20W Fast USB C Charger Block, for iPhone 16/16 Pro Max/15 Series/iPad Pro and More..."
+    - listitem:
+      - link "Stylus Pen for iPad 6th-11th Generation-2X Fast Charge Active Pencil Compatible with 2018-2025 Apple iPad Pro...":
+        - /url: /Rejection-Compatible-2018-2021-Precise-Writing/dp/B0831BF1FH/?_encoding=UTF8&pd_rd_w=vtN3o&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_541966
+        - img "Stylus Pen for iPad 6th-11th Generation-2X Fast Charge Active Pencil Compatible with 2018-2025 Apple iPad Pro..."
+    - listitem:
+      - link "MoKo Case for iPad (A16) 11th Generation 11 Inch 2025, iPad 10th Generation 10.9 inch 2022, Slim Stand Protective Cover...":
+        - /url: /MoKo-Generation-Stand-Translucent-Support/dp/B0B8STRJYJ/?_encoding=UTF8&pd_rd_w=vtN3o&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_541966
+        - img "MoKo Case for iPad (A16) 11th Generation 11 Inch 2025, iPad 10th Generation 10.9 inch 2022, Slim Stand Protective Cover..."
+    - listitem:
+      - link "Nelko Label Maker Machine with Tape, P21 Bluetooth Label Printer, Wireless Mini Label Makers with Multiple Templates for...":
+        - /url: /Nelko-P21-Bluetooth-Templates-Organizing/dp/B0C3L93F2Q/?_encoding=UTF8&pd_rd_w=vtN3o&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_541966
+        - img "Nelko Label Maker Machine with Tape, P21 Bluetooth Label Printer, Wireless Mini Label Makers with Multiple Templates for..."
+    - listitem:
+      - link "JanSport Laptop Backpack - Computer Bag with 2 Compartments, Ergonomic Shoulder Straps, 15” Laptop Sleeve, Haul Handle -...":
+        - /url: /JanSport-Big-Student-Backpack-Black/dp/B07K74LDCH/?_encoding=UTF8&pd_rd_w=vtN3o&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_541966
+        - img "JanSport Laptop Backpack - Computer Bag with 2 Compartments, Ergonomic Shoulder Straps, 15” Laptop Sleeve, Haul Handle -..."
+    - listitem:
+      - link "Anker USB C Charger(Nano II 65W), PPS 3-Port Fast Compact Foldable Wall Charger for MacBook Pro/Air, iPad Pro, Galaxy...":
+        - /url: /Anker-Charger-Compact-Foldable-MacBook/dp/B09C5RG6KV/?_encoding=UTF8&pd_rd_w=vtN3o&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_541966
+        - img "Anker USB C Charger(Nano II 65W), PPS 3-Port Fast Compact Foldable Wall Charger for MacBook Pro/Air, iPad Pro, Galaxy..."
+    - listitem:
+      - link "Metapen Pencil A8 for Apple iPad 2018-2025, (2X Faster Charge), Tilt Sensitivity, Pixel Precision, Stylus Pen for iPad...":
+        - /url: /Metapen-2018-2024-Precise-Sensitivity-13-inch/dp/B09ZTXVNVD/?_encoding=UTF8&pd_rd_w=vtN3o&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_541966
+        - img "Metapen Pencil A8 for Apple iPad 2018-2025, (2X Faster Charge), Tilt Sensitivity, Pixel Precision, Stylus Pen for iPad..."
+    - listitem:
+      - link "Samsung Galaxy Tab A9+ Tablet 11” 64GB Android Tablet, Big Screen, Quad Speakers, Upgraded Chipset, Multi Window...":
+        - /url: /SAMSUNG-Android-Speakers-Upgraded-Graphite/dp/B0CLF3VPMV/?_encoding=UTF8&pd_rd_w=vtN3o&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_541966
+        - img "Samsung Galaxy Tab A9+ Tablet 11” 64GB Android Tablet, Big Screen, Quad Speakers, Upgraded Chipset, Multi Window..."
+    - listitem:
+      - link "Ailun Screen Protector for iPad 9th 8th 7th Generation (10.2 Inch, iPad 9/8/7, 2021&2020&2019) Tempered Glass/Apple...":
+        - /url: /Ailun-iPad-2021-2020-2019/dp/B07ZCZ4HRT/?_encoding=UTF8&pd_rd_w=vtN3o&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_541966
+        - img "Ailun Screen Protector for iPad 9th 8th 7th Generation (10.2 Inch, iPad 9/8/7, 2021&2020&2019) Tempered Glass/Apple..."
+    - listitem:
+      - 'link "ZORFIN 26L Black Backpack for School, College, and Travel: Water Resistant Bookbag with 8 Compartments"':
+        - /url: /ZORFIN-Backpack-School-College-Travel/dp/B0D2Q61QF4/?_encoding=UTF8&pd_rd_w=vtN3o&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_541966
+        - 'img "ZORFIN 26L Black Backpack for School, College, and Travel: Water Resistant Bookbag with 8 Compartments"'
+    - listitem:
+      - link "Mac Book Pro Charger - 118W USB C Charger Fast Charger Compatible with MacBook pro/Air, M1 M2 M3 M4, ipad Pro, Samsung...":
+        - /url: /Mac-Book-Pro-Charger-Cable%EF%BC%887-2ft/dp/B0B1HJ666G/?_encoding=UTF8&pd_rd_w=vtN3o&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_541966
+        - img "Mac Book Pro Charger - 118W USB C Charger Fast Charger Compatible with MacBook pro/Air, M1 M2 M3 M4, ipad Pro, Samsung..."
+    - listitem:
+      - link "Lamicall Car Headrest Tablet Holder - [3 in 1 Extension Arm] Adjustable Tablet Car Mount for Back Seat, Road Trip...":
+        - /url: /Lamicall-Car-Headrest-Tablet-Holder/dp/B0BRRPP5KH/?_encoding=UTF8&pd_rd_w=vtN3o&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_541966
+        - img "Lamicall Car Headrest Tablet Holder - [3 in 1 Extension Arm] Adjustable Tablet Car Mount for Back Seat, Road Trip..."
+    - listitem:
+      - link "apiker 2 Pack Screen Protector for iPad 9th 8th 7th Generation 10.2 Inch, Tempered Glass Film for iPad 9 8 7...":
+        - /url: /Protector-Generation-10-2-apiker-Compatible/dp/B07XXWZKBT/?_encoding=UTF8&pd_rd_w=vtN3o&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_541966
+        - img "apiker 2 Pack Screen Protector for iPad 9th 8th 7th Generation 10.2 Inch, Tempered Glass Film for iPad 9 8 7..."
+    - listitem:
+      - link "SUPVAN E10 Bluetooth Label Maker Machine with Tape, Continuous Waterproof Label, Versatile App with 35 Fonts and 1k+...":
+        - /url: /SUPVAN-E10-Connection-Labelmaker-Organization/dp/B09JRRBBJK/?_encoding=UTF8&pd_rd_w=vtN3o&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_541966
+        - img "SUPVAN E10 Bluetooth Label Maker Machine with Tape, Continuous Waterproof Label, Versatile App with 35 Fonts and 1k+..."
+  - separator
+  - heading "Gaming merchandise" [level=2]
+  - link "Apparel":
+    - /url: /s/?_encoding=UTF8&k=gaming%20apparel&ref=nb_sb_noss&pd_rd_w=PRiAk&content-id=amzn1.sym.09483392-9ac6-434a-a3d7-39d83662f54a&pf_rd_p=09483392-9ac6-434a-a3d7-39d83662f54a&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Apparel"
+    - text: Apparel
+  - link "Hats":
+    - /url: /s/?_encoding=UTF8&k=gaming%20hats&ref=nb_sb_noss_2&pd_rd_w=PRiAk&content-id=amzn1.sym.09483392-9ac6-434a-a3d7-39d83662f54a&pf_rd_p=09483392-9ac6-434a-a3d7-39d83662f54a&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Hats"
+    - text: Hats
+  - link "Action figures":
+    - /url: /s/?_encoding=UTF8&k=gaming%20action%20figures&i=toys-and-games-intl-ship&ref=nb_sb_noss_2&pd_rd_w=PRiAk&content-id=amzn1.sym.09483392-9ac6-434a-a3d7-39d83662f54a&pf_rd_p=09483392-9ac6-434a-a3d7-39d83662f54a&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Action figures"
+    - text: Action figures
+  - link "Mugs":
+    - /url: /s/?_encoding=UTF8&k=gaming%20mugs&i=kitchen-intl-ship&ref=nb_sb_noss&pd_rd_w=PRiAk&content-id=amzn1.sym.09483392-9ac6-434a-a3d7-39d83662f54a&pf_rd_p=09483392-9ac6-434a-a3d7-39d83662f54a&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Mugs"
+    - text: Mugs
+  - link "Gaming merchandise - See more":
+    - /url: /b/?_encoding=UTF8&node=23508887011&pd_rd_w=PRiAk&content-id=amzn1.sym.09483392-9ac6-434a-a3d7-39d83662f54a&pf_rd_p=09483392-9ac6-434a-a3d7-39d83662f54a&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - text: See more
+  - heading "Score the top PCs & Accessories" [level=2]
+  - link "Desktops":
+    - /url: /s/?_encoding=UTF8&k=desktop%20computers&pd_rd_w=WPpy7&content-id=amzn1.sym.1d3b8f55-c47a-4b7f-a127-3409d1ca6dd1&pf_rd_p=1d3b8f55-c47a-4b7f-a127-3409d1ca6dd1&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Desktops"
+    - text: Desktops
+  - link "Laptops":
+    - /url: /s/?_encoding=UTF8&k=laptops&pd_rd_w=WPpy7&content-id=amzn1.sym.1d3b8f55-c47a-4b7f-a127-3409d1ca6dd1&pf_rd_p=1d3b8f55-c47a-4b7f-a127-3409d1ca6dd1&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Laptops"
+    - text: Laptops
+  - link "Hard Drives":
+    - /url: /s/?_encoding=UTF8&k=external%20hard%20drives&pd_rd_w=WPpy7&content-id=amzn1.sym.1d3b8f55-c47a-4b7f-a127-3409d1ca6dd1&pf_rd_p=1d3b8f55-c47a-4b7f-a127-3409d1ca6dd1&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Hard Drives"
+    - text: Hard Drives
+  - link "Pc Accessories":
+    - /url: /s/?_encoding=UTF8&k=computer%20accessories&pd_rd_w=WPpy7&content-id=amzn1.sym.1d3b8f55-c47a-4b7f-a127-3409d1ca6dd1&pf_rd_p=1d3b8f55-c47a-4b7f-a127-3409d1ca6dd1&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Pc Accessories"
+    - text: PC Accessories
+  - link "Score the top PCs & Accessories - See more":
+    - /url: /s/?_encoding=UTF8&k=computers%20and%20accessories&pd_rd_w=WPpy7&content-id=amzn1.sym.1d3b8f55-c47a-4b7f-a127-3409d1ca6dd1&pf_rd_p=1d3b8f55-c47a-4b7f-a127-3409d1ca6dd1&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - text: See more
+  - heading "Most-loved watches" [level=2]
+  - link "Women":
+    - /url: /s/?_encoding=UTF8&k=women%20watch&pd_rd_w=T8MIe&content-id=amzn1.sym.db94be39-53f1-4c79-89b2-88aa81be709e&pf_rd_p=db94be39-53f1-4c79-89b2-88aa81be709e&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Women"
+    - text: Women
+  - link "Men":
+    - /url: /s/?_encoding=UTF8&k=men%20watches&pd_rd_w=T8MIe&content-id=amzn1.sym.db94be39-53f1-4c79-89b2-88aa81be709e&pf_rd_p=db94be39-53f1-4c79-89b2-88aa81be709e&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Men"
+    - text: Men
+  - link "Girls":
+    - /url: /s/?_encoding=UTF8&k=girls%20watches&pd_rd_w=T8MIe&content-id=amzn1.sym.db94be39-53f1-4c79-89b2-88aa81be709e&pf_rd_p=db94be39-53f1-4c79-89b2-88aa81be709e&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Girls"
+    - text: Girls
+  - link "Boys":
+    - /url: /s/?_encoding=UTF8&k=Boys%20watches&pd_rd_w=T8MIe&content-id=amzn1.sym.db94be39-53f1-4c79-89b2-88aa81be709e&pf_rd_p=db94be39-53f1-4c79-89b2-88aa81be709e&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Boys"
+    - text: Boys
+  - link "Most-loved watches - Discover more":
+    - /url: /s/?_encoding=UTF8&k=watches&pd_rd_w=T8MIe&content-id=amzn1.sym.db94be39-53f1-4c79-89b2-88aa81be709e&pf_rd_p=db94be39-53f1-4c79-89b2-88aa81be709e&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - text: Discover more
+  - heading "Deals on top categories" [level=2]
+  - link "Books":
+    - /url: /s/?_encoding=UTF8&k=good%20books&pd_rd_w=z7w0Z&content-id=amzn1.sym.8a64fefa-e450-4bbe-83a4-970ea696b46d&pf_rd_p=8a64fefa-e450-4bbe-83a4-970ea696b46d&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Books"
+    - text: Books
+  - link "Fashion":
+    - /url: s/?_encoding=UTF8&k=fashion&pd_rd_w=z7w0Z&content-id=amzn1.sym.8a64fefa-e450-4bbe-83a4-970ea696b46d&pf_rd_p=8a64fefa-e450-4bbe-83a4-970ea696b46d&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Fashion"
+    - text: Fashion
+  - link "PC":
+    - /url: /s/?_encoding=UTF8&k=PCs&pd_rd_w=z7w0Z&content-id=amzn1.sym.8a64fefa-e450-4bbe-83a4-970ea696b46d&pf_rd_p=8a64fefa-e450-4bbe-83a4-970ea696b46d&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "PC"
+    - text: PC
+  - link "Beauty":
+    - /url: /s/?_encoding=UTF8&k=beauty&pd_rd_w=z7w0Z&content-id=amzn1.sym.8a64fefa-e450-4bbe-83a4-970ea696b46d&pf_rd_p=8a64fefa-e450-4bbe-83a4-970ea696b46d&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Beauty"
+    - text: Beauty
+  - link "Deals on top categories - Discover more":
+    - /url: /gp/goldbox/?ie=UTF8&pd_rd_w=z7w0Z&content-id=amzn1.sym.8a64fefa-e450-4bbe-83a4-970ea696b46d&pf_rd_p=8a64fefa-e450-4bbe-83a4-970ea696b46d&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - text: Discover more
+  - separator
+  - heading "Best Sellers in Sports & Outdoors" [level=2]
+  - list:
+    - listitem:
+      - link "Seago Swim Goggles 2 Pack Anti-Fog Anti-UV Wide View Swimming Goggles for Kids 3-14":
+        - /url: /Swim-Goggles-Anti-Fog-Anti-UV-Swimming/dp/B08XQ35T47/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "Seago Swim Goggles 2 Pack Anti-Fog Anti-UV Wide View Swimming Goggles for Kids 3-14"
+    - listitem:
+      - link "ZELUS Weighted Vest, 6lb/8lb/12lb/16lb/20lb/25lb/30lb Weight Vest with Reflective Stripe for Workout, Strength Training,...":
+        - /url: /ZELUS-Weighted-Reflective-Strength-Weightlifting/dp/B07518RBH2/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "ZELUS Weighted Vest, 6lb/8lb/12lb/16lb/20lb/25lb/30lb Weight Vest with Reflective Stripe for Workout, Strength Training,..."
+    - listitem:
+      - link "Callaway Golf Supersoft Golf Balls":
+        - /url: /Callaway-Supersoft-Balls-Version-White/dp/B0BMGYT38K/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "Callaway Golf Supersoft Golf Balls"
+    - listitem:
+      - link "Stanley IceFlow Flip Straw Tumbler with Handle 30 oz | Twist On Lid and Flip Up Straw | Leak Resistant Water Bottle |...":
+        - /url: /Stanley-IceFlow-Stainless-Steel-Tumbler/dp/B0CT4BB651/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "Stanley IceFlow Flip Straw Tumbler with Handle 30 oz | Twist On Lid and Flip Up Straw | Leak Resistant Water Bottle |..."
+    - listitem:
+      - link "Fit Simplify Resistance Loop Exercise Bands with Instruction Guide and Carry Bag, Set of 5":
+        - /url: /Fit-Simplify-Resistance-Exercise-Instruction/dp/B01AVDVHTI/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "Fit Simplify Resistance Loop Exercise Bands with Instruction Guide and Carry Bag, Set of 5"
+    - listitem:
+      - link "Rainleaf Microfiber Towel Perfect Travel & Gym & Camping Towel. Quick Dry - Super Absorbent - Ultra Compact -...":
+        - /url: /Rainleaf-Microfiber-Perfect-Travel-Sports/dp/B01K1TX77W/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "Rainleaf Microfiber Towel Perfect Travel & Gym & Camping Towel. Quick Dry - Super Absorbent - Ultra Compact -..."
+    - listitem:
+      - link "Amazon Basics 1/2 Inch Extra Thick Exercise Yoga Mat with Carrying Strap, Cushioned Support, for Fitness and Gym Workouts":
+        - /url: /AmazonBasics-Extra-Thick-Exercise-Carrying/dp/B01LP0U5X0/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "Amazon Basics 1/2 Inch Extra Thick Exercise Yoga Mat with Carrying Strap, Cushioned Support, for Fitness and Gym Workouts"
+    - listitem:
+      - link "Swimming Ear Plugs for Adults,3 Pairs Waterproof Reusable Silicone Swim Earplugs for Swimming Surfing Snorkeling...":
+        - /url: /Swimming-Waterproof-Earplugs-Reusable-Snorkeling/dp/B09ZTRP3SH/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "Swimming Ear Plugs for Adults,3 Pairs Waterproof Reusable Silicone Swim Earplugs for Swimming Surfing Snorkeling..."
+    - listitem:
+      - link "BAGAIL Weighted Vest, 5lbs/8lbs/10lbs/12lbs/15lbs/20lbs/25lbs/30lbs Weight Vest with Detachable Phone Pouch, Rucking...":
+        - /url: /BAGAIL-Weighted-Detachable-Rucking-Training/dp/B0DYNN7G85/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "BAGAIL Weighted Vest, 5lbs/8lbs/10lbs/12lbs/15lbs/20lbs/25lbs/30lbs Weight Vest with Detachable Phone Pouch, Rucking..."
+    - listitem:
+      - link "Healthy Packers Ice Packs for Lunch Boxes & Coolers - Freezer Packs - Original Cool Pack | Cooler Accessories for Beach,...":
+        - /url: /Healthy-Packers-Ice-Packs-Coolers/dp/B01M06AQLF/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "Healthy Packers Ice Packs for Lunch Boxes & Coolers - Freezer Packs - Original Cool Pack | Cooler Accessories for Beach,..."
+    - listitem:
+      - link "Intex 64417ED 22in Queen Dura-Beam Comfort Plush High-Rise Inflatable Air Mattress with Built in Pump for Travel and...":
+        - /url: /Intex-Elevated-Dura-Beam-Internal-Electric/dp/B0869HGSVL/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "Intex 64417ED 22in Queen Dura-Beam Comfort Plush High-Rise Inflatable Air Mattress with Built in Pump for Travel and..."
+    - listitem:
+      - link "LHKNL Headlamp Flashlight, Lumen Ultra-Light Bright LED Rechargeable Headlight with White Red Light, 2-Pack Waterproof...":
+        - /url: /Flashlight-LHKNL-Ultra-Light-Rechargeable-Waterproof/dp/B08D66HCXW/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "LHKNL Headlamp Flashlight, Lumen Ultra-Light Bright LED Rechargeable Headlight with White Red Light, 2-Pack Waterproof..."
+    - listitem:
+      - link "Speedo Kids' Swim Goggles Sunny G Ages 3-8":
+        - /url: /Speedo-Unisex-Child-Goggles-Yarrow-Vermillion/dp/B0BR7JQH6W/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "Speedo Kids' Swim Goggles Sunny G Ages 3-8"
+    - listitem:
+      - link "Owala Disney Princess FreeSip Insulated Stainless Steel Water Bottle with Straw for Sports and Travel, BPA-Free Sports...":
+        - /url: /Owala-Princess-Insulated-Stainless-BPA-Free/dp/B0F2WPH4PF/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "Owala Disney Princess FreeSip Insulated Stainless Steel Water Bottle with Straw for Sports and Travel, BPA-Free Sports..."
+    - listitem:
+      - link "Henkelion Weighted Vest Weight Vest for Men Women Kids Weights Included, Body Weight Vests Adjustable for Running,...":
+        - /url: /Henkelion-Included-Training-Adjustable-Equipment/dp/B07Q2Q5D8Q/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "Henkelion Weighted Vest Weight Vest for Men Women Kids Weights Included, Body Weight Vests Adjustable for Running,..."
+    - listitem:
+      - link "Jump Rope, Tangle-Free Rapid Speed Jumping Rope Cable with Ball Bearings for Women, Men, and Kids, Adjustable Steel Jump...":
+        - /url: /Tangle-Free-Jumping-Bearings-Adjustable-Handles/dp/B09DF9NWC7/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "Jump Rope, Tangle-Free Rapid Speed Jumping Rope Cable with Ball Bearings for Women, Men, and Kids, Adjustable Steel Jump..."
+    - listitem:
+      - link "FootJoy Men's WeatherSof 2-Pack Golf Glove":
+        - /url: /FootJoy-WeatherSof-2-Pack-Glove-White/dp/B0CCK976HY/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "FootJoy Men's WeatherSof 2-Pack Golf Glove"
+    - listitem:
+      - link "Owala Silicone Water Bottle Boot, Anti-Slip Protective Sleeve for Water Bottle, Protects FreeSip, Twist, and Flip...":
+        - /url: /Owala-Silicone-Anti-Slip-Protective-Stainless/dp/B0B1W12C2D/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "Owala Silicone Water Bottle Boot, Anti-Slip Protective Sleeve for Water Bottle, Protects FreeSip, Twist, and Flip..."
+    - listitem:
+      - link "Fitbit Inspire 3 Health &-Fitness-Tracker with Stress Management, Workout Intensity, Sleep Tracking, 24/7 Heart Rate and...":
+        - /url: /Fitbit-Management-Intensity-Tracking-Midnight/dp/B0B5F9SZW7/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "Fitbit Inspire 3 Health &-Fitness-Tracker with Stress Management, Workout Intensity, Sleep Tracking, 24/7 Heart Rate and..."
+    - listitem:
+      - link "Nalgene Sustain Tritan BPA-Free Water Bottle Made with Material Derived From 50% Plastic Waste (using ISCC certified...":
+        - /url: /Nalgene-Sustain-BPA-Free-Material-Amethyst/dp/B0994LVB79/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "Nalgene Sustain Tritan BPA-Free Water Bottle Made with Material Derived From 50% Plastic Waste (using ISCC certified..."
+    - listitem:
+      - link "ZIONOR G1 Polarized Swimming Goggles for Unisex Adult Women Anti Fog 100% Anti UV Diving Goggles":
+        - /url: /Zionor-Polarized-Protection-Watertight-Adjustable/dp/B07P95K1ZT/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "ZIONOR G1 Polarized Swimming Goggles for Unisex Adult Women Anti Fog 100% Anti UV Diving Goggles"
+    - listitem:
+      - link "Sun Hats for Men Women Fishing Hat UPF 50+ Breathable Wide Brim Summer UV Protection Hat":
+        - /url: /Women-Fishing-Breathable-Summer-Protection/dp/B0BR9DLJ2Y/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "Sun Hats for Men Women Fishing Hat UPF 50+ Breathable Wide Brim Summer UV Protection Hat"
+    - listitem:
+      - link "MAXTOP Large Crossbody Fanny Pack with 4-Zipper Pockets,Gifts for Enjoy Sports Festival Workout Traveling Running Casual...":
+        - /url: /Headphone-4-Zipper-Pockets-Traveling-Outdoors/dp/B07WYKJXXY/?_encoding=UTF8&pd_rd_w=dxw89&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3375251
+        - img "MAXTOP Large Crossbody Fanny Pack with 4-Zipper Pockets,Gifts for Enjoy Sports Festival Workout Traveling Running Casual..."
+  - separator
+  - heading "Best Sellers in Books" [level=2]
+  - list:
+    - listitem:
+      - 'link "The Let Them Theory: A Life-Changing Tool That Millions of People Can''t Stop Talking About"':
+        - /url: /Let-Them-Theory-Life-Changing-Millions/dp/1401971369/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - 'img "The Let Them Theory: A Life-Changing Tool That Millions of People Can''t Stop Talking About"'
+    - listitem:
+      - 'link "Forgotten Home Apothecary : 250 Powerful Remedies at Your Fingertips"':
+        - /url: /Forgotten-Home-Apothecary-Powerful-Fingertips/dp/B0DJQVYV99/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - 'img "Forgotten Home Apothecary : 250 Powerful Remedies at Your Fingertips"'
+    - listitem:
+      - 'link "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"':
+        - /url: /Atomic-Habits-Proven-Build-Break/dp/0735211299/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - 'img "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"'
+    - listitem:
+      - 'link "The Nightingale: A Novel"':
+        - /url: /Nightingale-Novel-Kristin-Hannah/dp/1250080401/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - 'img "The Nightingale: A Novel"'
+    - listitem:
+      - 'link "My First Library: Boxset of 10 Board Books for Kids"':
+        - /url: /My-First-Library-Boxset-Board/dp/9387779262/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - 'img "My First Library: Boxset of 10 Board Books for Kids"'
+    - listitem:
+      - 'link "The Idaho Four: An American Tragedy"':
+        - /url: /Idaho-Four-American-Tragedy/dp/0316572853/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - 'img "The Idaho Four: An American Tragedy"'
+    - listitem:
+      - link "The Housemaid":
+        - /url: /Housemaid-Freida-McFadden/dp/1538742578/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - img "The Housemaid"
+    - listitem:
+      - link "Every Summer After":
+        - /url: /Every-Summer-After-Carley-Fortune/dp/0593438531/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - img "Every Summer After"
+    - listitem:
+      - 'link "Project Hail Mary: A Novel"':
+        - /url: /Project-Hail-Mary-Andy-Weir/dp/0593135229/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - 'img "Project Hail Mary: A Novel"'
+    - listitem:
+      - link "Sunrise on the Reaping (A Hunger Games Novel) (The Hunger Games)":
+        - /url: /Sunrise-Reaping-Hunger-Games-Novel/dp/1546171460/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - img "Sunrise on the Reaping (A Hunger Games Novel) (The Hunger Games)"
+    - listitem:
+      - 'link "My First Learn-to-Write Workbook: Practice for Kids with Pen Control, Line Tracing, Letters, and More!"':
+        - /url: /My-First-Learn-Write-Workbook/dp/1641526270/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - 'img "My First Learn-to-Write Workbook: Practice for Kids with Pen Control, Line Tracing, Letters, and More!"'
+    - listitem:
+      - 'link "The Wedding People: A Novel"':
+        - /url: /Wedding-People-Novel-Alison-Espach/dp/1250899575/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - 'img "The Wedding People: A Novel"'
+    - listitem:
+      - link "The Very Hungry Caterpillar":
+        - /url: /Very-Hungry-Caterpillar-Eric-Carle/dp/0399226907/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - img "The Very Hungry Caterpillar"
+    - listitem:
+      - link "One Golden Summer":
+        - /url: /One-Golden-Summer-Carley-Fortune/dp/0593638913/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - img "One Golden Summer"
+    - listitem:
+      - link "I Love You to the Moon and Back":
+        - /url: /I-Love-You-Moon-Back/dp/1589255518/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - img "I Love You to the Moon and Back"
+    - listitem:
+      - link "World of Eric Carle, Around the Farm 30-Button Animal Sound Book - Great for First Words - PI Kids":
+        - /url: /World-Carle-Around-Play-Sound/dp/1450805752/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - img "World of Eric Carle, Around the Farm 30-Button Animal Sound Book - Great for First Words - PI Kids"
+    - listitem:
+      - 'link "The Complete Summer I Turned Pretty Trilogy (Boxed Set): The Summer I Turned Pretty; It''s Not Summer Without You; We''ll..."':
+        - /url: /Complete-Summer-Turned-Pretty-Trilogy/dp/1442498323/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - 'img "The Complete Summer I Turned Pretty Trilogy (Boxed Set): The Summer I Turned Pretty; It''s Not Summer Without You; We''ll..."'
+    - listitem:
+      - 'link "The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness"':
+        - /url: /Anxious-Generation-Rewiring-Childhood-Epidemic/dp/0593655036/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - 'img "The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness"'
+    - listitem:
+      - 'link "Cozy Friends: Coloring Book for Adults and Teens Featuring Super Cute Animal Characters with Easy and Simple Designs for..."':
+        - /url: /Cozy-Friends-Featuring-Characters-Relaxation/dp/B0D4YLQRMP/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - 'img "Cozy Friends: Coloring Book for Adults and Teens Featuring Super Cute Animal Characters with Easy and Simple Designs for..."'
+    - listitem:
+      - 'link "How To Draw Everything: 300 Drawings of Cute Stuff, Animals, Food, Gifts, and other Amazing Things | Book For Kids"':
+        - /url: /How-Draw-Everything-Drawings-Animals/dp/B0CNQ5X4Y1/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - 'img "How To Draw Everything: 300 Drawings of Cute Stuff, Animals, Food, Gifts, and other Amazing Things | Book For Kids"'
+    - listitem:
+      - link "A People's History of the United States":
+        - /url: /Peoples-History-United-States/dp/0062397346/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - img "A People's History of the United States"
+    - listitem:
+      - 'link "The Hardest Hidden Pictures Book Ever: The Hardest Hidden Pictures Book Ever (Highlights Hidden Pictures Puzzles) Over..."':
+        - /url: /Hardest-Hidden-Pictures-Book-Highlights/dp/1644723344/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - 'img "The Hardest Hidden Pictures Book Ever: The Hardest Hidden Pictures Book Ever (Highlights Hidden Pictures Puzzles) Over..."'
+    - listitem:
+      - link "Brown Bear, Brown Bear, What Do You See?":
+        - /url: /Brown-Bear-What-You-See/dp/0805047905/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - img "Brown Bear, Brown Bear, What Do You See?"
+    - listitem:
+      - 'link "I Love You Like No Otter: A Funny and Sweet Board Book for Babies and Toddlers (Punderland)"':
+        - /url: /Love-You-Like-No-Otter/dp/1728213746/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - 'img "I Love You Like No Otter: A Funny and Sweet Board Book for Babies and Toddlers (Punderland)"'
+    - listitem:
+      - 'link "The Psychology of Money: Timeless lessons on wealth, greed, and happiness"':
+        - /url: /Psychology-Money-Timeless-lessons-happiness/dp/0857197681/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - 'img "The Psychology of Money: Timeless lessons on wealth, greed, and happiness"'
+    - listitem:
+      - 'link "The Women: A Novel"':
+        - /url: /Women-Novel-Kristin-Hannah/dp/1250178630/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - 'img "The Women: A Novel"'
+    - listitem:
+      - link "The Housemaid's Secret":
+        - /url: /Housemaids-Secret-Freida-McFadden/dp/0349132615/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - img "The Housemaid's Secret"
+    - listitem:
+      - link "The Housemaid Is Watching":
+        - /url: /Housemaid-Watching-Freida-McFadden/dp/1464221138/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - img "The Housemaid Is Watching"
+    - listitem:
+      - link "The Rainbow Fish":
+        - /url: /Rainbow-Fish-Marcus-Pfister/dp/1558585362/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - img "The Rainbow Fish"
+    - listitem:
+      - link "Broken Country (Reese's Book Club)":
+        - /url: /Broken-Country-Clare-Leslie-Hall/dp/166807818X/?_encoding=UTF8&pd_rd_w=Klo2y&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_283155
+        - img "Broken Country (Reese's Book Club)"
+  - separator
+  - heading "Level up your gaming" [level=2]
+  - link "PC gaming":
+    - /url: /s/?_encoding=UTF8&k=pc%20gaming&pd_rd_w=GGllB&content-id=amzn1.sym.f4dce7c3-dfcf-41bb-8922-50be98bf1e86&pf_rd_p=f4dce7c3-dfcf-41bb-8922-50be98bf1e86&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "PC gaming"
+    - text: PC gaming
+  - link "Xbox":
+    - /url: /s/?_encoding=UTF8&k=Xbox&pd_rd_w=GGllB&content-id=amzn1.sym.f4dce7c3-dfcf-41bb-8922-50be98bf1e86&pf_rd_p=f4dce7c3-dfcf-41bb-8922-50be98bf1e86&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Xbox"
+    - text: Xbox
+  - link "PlayStation":
+    - /url: /s/?_encoding=UTF8&k=Play%20Station&pd_rd_w=GGllB&content-id=amzn1.sym.f4dce7c3-dfcf-41bb-8922-50be98bf1e86&pf_rd_p=f4dce7c3-dfcf-41bb-8922-50be98bf1e86&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "PlayStation"
+    - text: PlayStation
+  - link "Nintendo Switch":
+    - /url: /s/?_encoding=UTF8&k=Nintendo%20Switch&pd_rd_w=GGllB&content-id=amzn1.sym.f4dce7c3-dfcf-41bb-8922-50be98bf1e86&pf_rd_p=f4dce7c3-dfcf-41bb-8922-50be98bf1e86&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Nintendo Switch"
+    - text: Nintendo Switch
+  - link "Level up your gaming - Shop the latest in gaming":
+    - /url: /b/?_encoding=UTF8&node=23508887011&pd_rd_w=GGllB&content-id=amzn1.sym.f4dce7c3-dfcf-41bb-8922-50be98bf1e86&pf_rd_p=f4dce7c3-dfcf-41bb-8922-50be98bf1e86&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - text: Shop the latest in gaming
+  - heading "Finds for Home" [level=2]
+  - link "Kitchen":
+    - /url: /s/?_encoding=UTF8&k=kitchen&pd_rd_w=dkMWl&content-id=amzn1.sym.20c14023-dc4e-49db-9d00-9553df5d755b&pf_rd_p=20c14023-dc4e-49db-9d00-9553df5d755b&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Kitchen"
+    - text: Kitchen
+  - link "Home Decor":
+    - /url: /s/?_encoding=UTF8&k=home%20decor&pd_rd_w=dkMWl&content-id=amzn1.sym.20c14023-dc4e-49db-9d00-9553df5d755b&pf_rd_p=20c14023-dc4e-49db-9d00-9553df5d755b&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Home Decor"
+    - text: Home Decor
+  - link "Dining":
+    - /url: /s/?_encoding=UTF8&k=kitchen%20and%20dining&pd_rd_w=dkMWl&content-id=amzn1.sym.20c14023-dc4e-49db-9d00-9553df5d755b&pf_rd_p=20c14023-dc4e-49db-9d00-9553df5d755b&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Dining"
+    - text: Dining
+  - link "Smart Home":
+    - /url: /s/?_encoding=UTF8&k=smart%20home&pd_rd_w=dkMWl&content-id=amzn1.sym.20c14023-dc4e-49db-9d00-9553df5d755b&pf_rd_p=20c14023-dc4e-49db-9d00-9553df5d755b&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Smart Home"
+    - text: Smart Home
+  - link "Finds for Home - See more":
+    - /url: /s/?_encoding=UTF8&k=home%20and%20kitchen&pd_rd_w=dkMWl&content-id=amzn1.sym.20c14023-dc4e-49db-9d00-9553df5d755b&pf_rd_p=20c14023-dc4e-49db-9d00-9553df5d755b&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - text: See more
+  - heading "Explore more in Sports" [level=2]
+  - link "Cycling":
+    - /url: /s/?_encoding=UTF8&k=cycling&pd_rd_w=aMI8E&content-id=amzn1.sym.8b84246f-fc49-4c92-87bb-845a9891e030&pf_rd_p=8b84246f-fc49-4c92-87bb-845a9891e030&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Cycling"
+    - text: Cycling
+  - link "Running":
+    - /url: /s/?_encoding=UTF8&k=running&pd_rd_w=aMI8E&content-id=amzn1.sym.8b84246f-fc49-4c92-87bb-845a9891e030&pf_rd_p=8b84246f-fc49-4c92-87bb-845a9891e030&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Running"
+    - text: Running
+  - link "Exercise & Fitness":
+    - /url: /s/?_encoding=UTF8&k=exercise%20and%20fitness&pd_rd_w=aMI8E&content-id=amzn1.sym.8b84246f-fc49-4c92-87bb-845a9891e030&pf_rd_p=8b84246f-fc49-4c92-87bb-845a9891e030&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Exercise & Fitness"
+    - text: Exercise & Fitness
+  - link "Golf":
+    - /url: /s/?_encoding=UTF8&k=golf&pd_rd_w=aMI8E&content-id=amzn1.sym.8b84246f-fc49-4c92-87bb-845a9891e030&pf_rd_p=8b84246f-fc49-4c92-87bb-845a9891e030&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Golf"
+    - text: Golf
+  - link "Explore more in Sports - Explore more":
+    - /url: /s/?_encoding=UTF8&k=sports&pd_rd_w=aMI8E&content-id=amzn1.sym.8b84246f-fc49-4c92-87bb-845a9891e030&pf_rd_p=8b84246f-fc49-4c92-87bb-845a9891e030&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - text: Explore more
+  - heading "Gear up to get fit" [level=2]
+  - link "Clothing":
+    - /url: /s/?_encoding=UTF8&k=fitness%20clothing&pd_rd_w=VTYqe&content-id=amzn1.sym.3fdbc1ee-e2a3-48ef-a93a-bce40e980706&pf_rd_p=3fdbc1ee-e2a3-48ef-a93a-bce40e980706&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Clothing"
+    - text: Clothing
+  - link "Trackers":
+    - /url: /s/?_encoding=UTF8&k=fitness%20trackers&pd_rd_w=VTYqe&content-id=amzn1.sym.3fdbc1ee-e2a3-48ef-a93a-bce40e980706&pf_rd_p=3fdbc1ee-e2a3-48ef-a93a-bce40e980706&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Trackers"
+    - text: Trackers
+  - link "Equipment":
+    - /url: /s/?_encoding=UTF8&k=fitness%20equipment&pd_rd_w=VTYqe&content-id=amzn1.sym.3fdbc1ee-e2a3-48ef-a93a-bce40e980706&pf_rd_p=3fdbc1ee-e2a3-48ef-a93a-bce40e980706&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Equipment"
+    - text: Equipment
+  - link "Deals":
+    - /url: /gp/goldbox/?ie=UTF8&discounts-widget=%2522%257B%255C%2522state%255C%2522%253A%257B%255C%2522refinementFilters%255C%2522%253A%257B%255C%2522departments%255C%2522%253A%255B%255C%25223375301%252F3407731%255C%2522%255D%257D%257D%252C%255C%2522version%255C%2522%253A1%257D%2522&pd_rd_w=VTYqe&content-id=amzn1.sym.3fdbc1ee-e2a3-48ef-a93a-bce40e980706&pf_rd_p=3fdbc1ee-e2a3-48ef-a93a-bce40e980706&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - img "Deals"
+    - text: Deals
+  - link "Gear up to get fit - Discover more":
+    - /url: /s/?_encoding=UTF8&k=fitness%20gear&pd_rd_w=VTYqe&content-id=amzn1.sym.3fdbc1ee-e2a3-48ef-a93a-bce40e980706&pf_rd_p=3fdbc1ee-e2a3-48ef-a93a-bce40e980706&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_unk
+    - text: Discover more
+  - separator
+  - heading "Best Sellers in Beauty & Personal Care" [level=2]
+  - list:
+    - listitem:
+      - 'link "Mighty Patch™ Original patch from Hero Cosmetics – The #1 Hydrocolloid Acne Pimple Patch for Shrinking Zits and..."':
+        - /url: /Mighty-Patch-Hydrocolloid-Absorbing-count/dp/B074PVTPBW/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - 'img "Mighty Patch™ Original patch from Hero Cosmetics – The #1 Hydrocolloid Acne Pimple Patch for Shrinking Zits and..."'
+    - listitem:
+      - link "Clean Skin Club Clean Towels XL™, 100% USDA Biobased Face Towel, Disposable Face Towelette, Eczema Association Accepted,...":
+        - /url: /Clean-Skin-Club-Disposable-Sensitive/dp/B07PBXXNCY/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "Clean Skin Club Clean Towels XL™, 100% USDA Biobased Face Towel, Disposable Face Towelette, Eczema Association Accepted,..."
+    - listitem:
+      - link "Medicube Zero Pore Pads 2.0, Dual-Textured Facial Toner Pads for Exfoliation and Pore Care with 4.5% AHA Lactic Acid &...":
+        - /url: /Medicube-Zero-Pore-Pads-Dual-Textured/dp/B09V7Z4TJG/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "Medicube Zero Pore Pads 2.0, Dual-Textured Facial Toner Pads for Exfoliation and Pore Care with 4.5% AHA Lactic Acid &..."
+    - listitem:
+      - link "BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Mask, Pore Minimizing, Elasticity Improvement, 34g x4ea":
+        - /url: /Biodance-Bio-Collagen-Tightening-Hydrating-Molecular/dp/B0B2RM68G2/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Mask, Pore Minimizing, Elasticity Improvement, 34g x4ea"
+    - listitem:
+      - link "Amazon Basics Cotton Swabs for Personal Hygiene and Baby Care, 500 Count, 1 Pack":
+        - /url: /Amazon-Basics-Cotton-Swabs-500ct/dp/B09541P9WH/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "Amazon Basics Cotton Swabs for Personal Hygiene and Baby Care, 500 Count, 1 Pack"
+    - listitem:
+      - link "eos Shea Better Body Lotion- Vanilla Cashmere, 24-Hour Moisture Skin Care, Lightweight & Non-Greasy, Made with Natural...":
+        - /url: /eos-Cashmere-Moisture-Lightweight-Non-Greasy/dp/B08KT2Z93D/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "eos Shea Better Body Lotion- Vanilla Cashmere, 24-Hour Moisture Skin Care, Lightweight & Non-Greasy, Made with Natural..."
+    - listitem:
+      - link "Dove Body Wash Deep Moisture for 24hr Lotion-Soft Skin Moisture Moisturizing Skin Cleanser with No Sulfates No Parabens...":
+        - /url: /Dove-Body-Wash-Pump-Moisture/dp/B00MEDOY2G/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "Dove Body Wash Deep Moisture for 24hr Lotion-Soft Skin Moisture Moisturizing Skin Cleanser with No Sulfates No Parabens..."
+    - listitem:
+      - link "Neutrogena Makeup Remover Wipes, Daily Facial Cleanser Towelettes, Gently Cleanse and Remove Oil & Makeup, Alcohol-Free...":
+        - /url: /Neutrogena-Cleansing-Towelettes-Waterproof-Alcohol-Free/dp/B00U2VQZDS/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "Neutrogena Makeup Remover Wipes, Daily Facial Cleanser Towelettes, Gently Cleanse and Remove Oil & Makeup, Alcohol-Free..."
+    - listitem:
+      - link "essence | Lash Princess False Lash Effect Mascara | Volumizing & Lengthening | Cruelty Free & Paraben Free":
+        - /url: /essence-Princess-Effect-Mascara-Cruelty/dp/B00T0C9XRK/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "essence | Lash Princess False Lash Effect Mascara | Volumizing & Lengthening | Cruelty Free & Paraben Free"
+    - listitem:
+      - link "Amazon Basics Hypoallergenic 100% Cotton Rounds for Makeup Removal and Skincare, 100 Count, 1 Pack":
+        - /url: /Amazon-Basics-Cotton-Rounds-Count/dp/B09542G9ZN/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "Amazon Basics Hypoallergenic 100% Cotton Rounds for Makeup Removal and Skincare, 100 Count, 1 Pack"
+    - listitem:
+      - link "La Roche-Posay Toleriane Double Repair Face Moisturizer, Daily Moisturizer Face Cream with Ceramide & Niacinamide for...":
+        - /url: /Roche-Posay-Toleriane-Double-Repair-Moisturizer/dp/B01N9SPQHQ/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "La Roche-Posay Toleriane Double Repair Face Moisturizer, Daily Moisturizer Face Cream with Ceramide & Niacinamide for..."
+    - listitem:
+      - link "Maybelline Lash Sensational Sky High Washable Mascara Makeup, Volumizing, Lengthening, Defining, Curling, Multiplying,...":
+        - /url: /Maybelline-Volumizing-Buildable-Lengthening-Multiplying/dp/B08H3JPH74/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "Maybelline Lash Sensational Sky High Washable Mascara Makeup, Volumizing, Lengthening, Defining, Curling, Multiplying,..."
+    - listitem:
+      - link "grace & stella Under Eye Brightener Roller - Airplane Travel Essentials - Travel Size Toiletries - Retinol & Caffeine...":
+        - /url: /grace-stella-Caffeine-Serum-Puffing/dp/B0D9PMVR92/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "grace & stella Under Eye Brightener Roller - Airplane Travel Essentials - Travel Size Toiletries - Retinol & Caffeine..."
+    - listitem:
+      - link "Q-tips Cotton Swabs For Hygiene and Beauty Care Original Cotton Swab Made With 100% Cotton 625 Count, WHITE":
+        - /url: /Q-tips-Cotton-Swabs-625-ct/dp/B01AXQP6AE/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "Q-tips Cotton Swabs For Hygiene and Beauty Care Original Cotton Swab Made With 100% Cotton 625 Count, WHITE"
+    - listitem:
+      - link "medicube Collagen Overnight Wrapping Peel Off Facial Mask Pack - Elasticity & Hydration Care, Reduces Sagging & Dullness...":
+        - /url: /Medicube-Collagen-Wrapping-Elasticity-Hydration/dp/B0BRMYHMS5/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "medicube Collagen Overnight Wrapping Peel Off Facial Mask Pack - Elasticity & Hydration Care, Reduces Sagging & Dullness..."
+    - listitem:
+      - link "CeraVe Daily Moisturizing Lotion for Dry Skin, Body Lotion & Face Moisturizer with Hyaluronic Acid and Ceramides, Daily...":
+        - /url: /CeraVe-Moisturizing-Lotion-Hyaluronic-Fragrance/dp/B07RK4HST7/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "CeraVe Daily Moisturizing Lotion for Dry Skin, Body Lotion & Face Moisturizer with Hyaluronic Acid and Ceramides, Daily..."
+    - listitem:
+      - link "Method Body Wash, Sea + Surf, Paraben and Phthalate Free, Biodegradable Formula, 28 oz, (Pack of 1)":
+        - /url: /Method-Body-Wash-Surf-28oz/dp/B0BT1WN3ZD/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "Method Body Wash, Sea + Surf, Paraben and Phthalate Free, Biodegradable Formula, 28 oz, (Pack of 1)"
+    - listitem:
+      - link "MRS. MEYER'S CLEAN DAY Hand Soap, Made with Essential Oils, Biodegradable Formula, Rain Water, 12.5 fl. oz - Pack of 3":
+        - /url: /MRS-MEYERS-CLEAN-DAY-Biodegradable/dp/B07TJG79HP/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "MRS. MEYER'S CLEAN DAY Hand Soap, Made with Essential Oils, Biodegradable Formula, Rain Water, 12.5 fl. oz - Pack of 3"
+    - listitem:
+      - link "Bio-Oil Skincare Body Oil Serum, Face and Body Moisturizer with Vitamin E & A, for Scars, Stretch Marks, Sensitive Skin,...":
+        - /url: /Bio-Oil-200ml-Multiuse-Skincare-6-7oz/dp/B00AREGVUM/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "Bio-Oil Skincare Body Oil Serum, Face and Body Moisturizer with Vitamin E & A, for Scars, Stretch Marks, Sensitive Skin,..."
+    - listitem:
+      - link "CeraVe Moisturizing Cream, Body and Face Moisturizer for Dry Skin, Body Cream with Hyaluronic Acid and Ceramides, Daily...":
+        - /url: /CeraVe-Moisturizing-Cream-Daily-Moisturizer/dp/B00TTD9BRC/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "CeraVe Moisturizing Cream, Body and Face Moisturizer for Dry Skin, Body Cream with Hyaluronic Acid and Ceramides, Daily..."
+    - listitem:
+      - link "CeraVe Foaming Facial Cleanser, Daily Face Wash for Oily Skin, Hyaluronic Acid + Ceramides + Niacinamide, Fragrance Free...":
+        - /url: /CeraVe-Hyaluronic-Ceramides-Niacinamide-Non-Drying/dp/B01N1LL62W/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "CeraVe Foaming Facial Cleanser, Daily Face Wash for Oily Skin, Hyaluronic Acid + Ceramides + Niacinamide, Fragrance Free..."
+    - listitem:
+      - link "Neutrogena Makeup Remover Wipes Singles, Individually Wrapped Face Wipes, Daily Facial Cleanser Towelettes, Gently...":
+        - /url: /Neutrogena-Cleansing-Towelette-Waterproof-Individually/dp/B07GKVBQDG/?_encoding=UTF8&pd_rd_w=yeMZv&content-id=amzn1.sym.9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_p=9929d3ab-edb7-4ef5-a232-26d90f828fa5&pf_rd_r=G6CAPYAHRWS8Y2CK7ZYS&pd_rd_wg=Dc5kW&pd_rd_r=1cfd8dd6-fd13-4770-8124-5e087da68947&ref_=pd_hp_d_btf_crs_zg_bs_3760911
+        - img "Neutrogena Makeup Remover Wipes Singles, Individually Wrapped Face Wipes, Daily Facial Cleanser Towelettes, Gently..."
+- complementary "Your recently viewed items and featured recommendations"
+- button "Back to top"
+- heading "Get to Know Us" [level=6]
+- list:
+  - listitem:
+    - link "Careers":
+      - /url: https://www.amazon.jobs
+  - listitem:
+    - link "Blog":
+      - /url: https://blog.aboutamazon.com/?utm_source=gateway&utm_medium=footer
+  - listitem:
+    - link "About Amazon":
+      - /url: https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer
+  - listitem:
+    - link "Investor Relations":
+      - /url: https://www.amazon.com/ir
+  - listitem:
+    - link "Amazon Devices":
+      - /url: /gp/browse.html?node=2102313011&ref_=footer_devices
+  - listitem:
+    - link "Amazon Science":
+      - /url: https://www.amazon.science
+- heading "Make Money with Us" [level=6]
+- list:
+  - listitem:
+    - link "Sell products on Amazon":
+      - /url: https://services.amazon.com/sell.html?ld=AZFSSOA&ref_=footer_soa
+  - listitem:
+    - link "Sell on Amazon Business":
+      - /url: https://services.amazon.com/amazon-business.html?ld=usb2bunifooter&ref_=footer_b2b
+  - listitem:
+    - link "Sell apps on Amazon":
+      - /url: https://developer.amazon.com
+  - listitem:
+    - link "Become an Affiliate":
+      - /url: https://affiliate-program.amazon.com/
+  - listitem:
+    - link "Advertise Your Products":
+      - /url: https://advertising.amazon.com/?ref=ext_amzn_ftr
+  - listitem:
+    - link "Self-Publish with Us":
+      - /url: /gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing
+  - listitem:
+    - link "Host an Amazon Hub":
+      - /url: https://go.thehub-amazon.com/amazon-hub-locker
+  - listitem:
+    - link "See More Make Money with Us":
+      - /url: /b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore
+- heading "Amazon Payment Products" [level=6]
+- list:
+  - listitem:
+    - link "Amazon Business Card":
+      - /url: /dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8
+  - listitem:
+    - link "Shop with Points":
+      - /url: /gp/browse.html?node=16218619011&ref_=footer_swp
+  - listitem:
+    - link "Reload Your Balance":
+      - /url: /dp/B0CHTVMXZJ?th=1?ref_=footer_reload_us
+  - listitem:
+    - link "Amazon Currency Converter":
+      - /url: /gp/browse.html?node=388305011&ref_=footer_tfx
+- heading "Let Us Help You" [level=6]
+- list:
+  - listitem:
+    - link "Amazon and COVID-19":
+      - /url: /gp/help/customer/display.html?nodeId=GDFU3JS5AL6SYHRD&ref_=footer_covid
+  - listitem:
+    - link "Your Account":
+      - /url: https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya
+  - listitem:
+    - link "Your Orders":
+      - /url: https://www.amazon.com/gp/css/order-history?ref_=footer_yo
+  - listitem:
+    - link "Shipping Rates & Policies":
+      - /url: /gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates
+  - listitem:
+    - link "Returns & Replacements":
+      - /url: /gp/css/returns/homepage.html?ref_=footer_hy_f_4
+  - listitem:
+    - link "Manage Your Content and Devices":
+      - /url: /gp/digital/fiona/manage?ref_=footer_myk
+  - listitem:
+    - link "Help":
+      - /url: /gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he
+- link "Amazon US Home":
+  - /url: /?ref_=footer_logo
+- link "Choose a language for shopping. Current selection is English.":
+  - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang
+  - text: English
+- button "Expand to Change Language or Country"
+- link "$ USD - U.S. Dollar":
+  - /url: /customer-preferences/edit?ie=UTF8&ref_=footer_cop&preferencesReturnUrl=%2F
+- button "Choose a country/region for shopping. The current selection is United States.": United States
+- navigation "More on Amazon":
+  - list:
+    - listitem:
+      - link "Amazon Music Stream millions of songs":
+        - /url: https://music.amazon.com?ref=dm_aff_amz_com
+        - heading "Amazon Music" [level=5]
+        - text: Stream millions of songs
+    - listitem:
+      - link "Amazon Ads Reach customers wherever they spend their time":
+        - /url: https://advertising.amazon.com/?ref=footer_advtsing_amzn_com
+        - heading "Amazon Ads" [level=5]
+        - text: Reach customers wherever they spend their time
+    - listitem:
+      - link "6pm Score deals on fashion brands":
+        - /url: https://www.6pm.com
+        - heading "6pm" [level=5]
+        - text: Score deals on fashion brands
+    - listitem:
+      - link "AbeBooks Books, art & collectibles":
+        - /url: https://www.abebooks.com
+        - heading "AbeBooks" [level=5]
+        - text: Books, art & collectibles
+    - listitem:
+      - link "ACX Audiobook Publishing Made Easy":
+        - /url: https://www.acx.com/
+        - heading "ACX" [level=5]
+        - text: Audiobook Publishing Made Easy
+    - listitem:
+      - link "Sell on Amazon Start a Selling Account":
+        - /url: https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell
+        - heading "Sell on Amazon" [level=5]
+        - text: Start a Selling Account
+    - listitem:
+      - link "Veeqo Shipping Software Inventory Management":
+        - /url: https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer
+        - heading "Veeqo" [level=5]
+        - text: Shipping Software Inventory Management
+  - list:
+    - listitem:
+      - link "Amazon Business Everything For Your Business":
+        - /url: /business?ref_=footer_retail_b2b
+        - heading "Amazon Business" [level=5]
+        - text: Everything For Your Business
+    - listitem:
+      - link "AmazonGlobal Ship Orders Internationally":
+        - /url: /gp/browse.html?node=230659011&ref_=footer_amazonglobal
+        - heading "AmazonGlobal" [level=5]
+        - text: Ship Orders Internationally
+    - listitem:
+      - link "Amazon Web Services Scalable Cloud Computing Services":
+        - /url: https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter
+        - heading "Amazon Web Services" [level=5]
+        - text: Scalable Cloud Computing Services
+    - listitem:
+      - link "Audible Listen to Books & Original Audio Performances":
+        - /url: https://www.audible.com
+        - heading "Audible" [level=5]
+        - text: Listen to Books & Original Audio Performances
+    - listitem:
+      - link "Box Office Mojo Find Movie Box Office Data":
+        - /url: https://www.boxofficemojo.com/?ref_=amzn_nav_ftr
+        - heading "Box Office Mojo" [level=5]
+        - text: Find Movie Box Office Data
+    - listitem:
+      - link "Goodreads Book reviews & recommendations":
+        - /url: https://www.goodreads.com
+        - heading "Goodreads" [level=5]
+        - text: Book reviews & recommendations
+    - listitem:
+      - link "IMDb Movies, TV & Celebrities":
+        - /url: https://www.imdb.com
+        - heading "IMDb" [level=5]
+        - text: Movies, TV & Celebrities
+  - list:
+    - listitem:
+      - link "IMDbPro Get Info Entertainment Professionals Need":
+        - /url: https://pro.imdb.com?ref_=amzn_nav_ftr
+        - heading "IMDbPro" [level=5]
+        - text: Get Info Entertainment Professionals Need
+    - listitem:
+      - link "Kindle Direct Publishing Indie Digital & Print Publishing Made Easy":
+        - /url: https://kdp.amazon.com
+        - heading "Kindle Direct Publishing" [level=5]
+        - text: Indie Digital & Print Publishing Made Easy
+    - listitem:
+      - link "Prime Video Direct Video Distribution Made Easy":
+        - /url: https://videodirect.amazon.com/home/landing
+        - heading "Prime Video Direct" [level=5]
+        - text: Video Distribution Made Easy
+    - listitem:
+      - link "Shopbop Designer Fashion Brands":
+        - /url: https://www.shopbop.com
+        - heading "Shopbop" [level=5]
+        - text: Designer Fashion Brands
+    - listitem:
+      - link "Woot! Deals and Shenanigans":
+        - /url: https://www.woot.com/
+        - heading "Woot!" [level=5]
+        - text: Deals and Shenanigans
+    - listitem:
+      - link "Zappos Shoes & Clothing":
+        - /url: https://www.zappos.com
+        - heading "Zappos" [level=5]
+        - text: Shoes & Clothing
+    - listitem:
+      - link "Ring Smart Home Security Systems":
+        - /url: https://ring.com
+        - heading "Ring" [level=5]
+        - text: Smart Home Security Systems
+  - list:
+    - listitem:
+      - link "eero WiFi Stream 4K Video in Every Room":
+        - /url: https://eero.com/
+        - heading "eero WiFi" [level=5]
+        - text: Stream 4K Video in Every Room
+    - listitem:
+      - link "Blink Smart Security for Every Home":
+        - /url: https://blinkforhome.com/?ref=nav_footer
+        - heading "Blink" [level=5]
+        - text: Smart Security for Every Home
+    - listitem:
+      - link "Neighbors App Real-Time Crime & Safety Alerts":
+        - /url: https://shop.ring.com/pages/neighbors-app
+        - heading "Neighbors App" [level=5]
+        - text: Real-Time Crime & Safety Alerts
+    - listitem:
+      - link "Amazon Subscription Boxes Top subscription boxes – right to your door":
+        - /url: /gp/browse.html?node=14498690011&ref_=amzn_nav_ftr_swa
+        - heading "Amazon Subscription Boxes" [level=5]
+        - text: Top subscription boxes – right to your door
+    - listitem:
+      - link "PillPack Pharmacy Simplified":
+        - /url: https://www.pillpack.com
+        - heading "PillPack" [level=5]
+        - text: Pharmacy Simplified
+- list:
+  - listitem:
+    - link "Conditions of Use":
+      - /url: /gp/help/customer/display.html?nodeId=508088&ref_=footer_cou
+  - listitem:
+    - link "Privacy Notice":
+      - /url: /gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy
+  - listitem:
+    - link "Consumer Health Data Privacy Disclosure":
+      - /url: /gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy
+  - listitem:
+    - link "Your Ads Privacy Choices":
+      - /url: /privacyprefs?ref_=footer_iba
+  - listitem
+- text: © 1996-2025, Amazon.com, Inc. or its affiliates
+```

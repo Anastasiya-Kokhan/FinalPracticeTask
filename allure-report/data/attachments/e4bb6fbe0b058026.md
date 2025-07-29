@@ -1,0 +1,90 @@
+# Page snapshot
+
+```yaml
+- link "Amazon":
+  - /url: /ref=nav_bb_logo
+- search:
+  - textbox "Search For"
+  - button "Go"
+- link "Your Account":
+  - /url: /gp/css/homepage.html/ref=nav_bb_ya
+- link "Help":
+  - /url: /gp/help/customer/display.html/ref=nav_bb_help
+- link "Cart":
+  - /url: /gp/cart/view.html/ref=nav_bb_cart
+- main:
+  - list:
+    - listitem:
+      - img "Devices with Alexa. Image of Echo Show 15, Fire 7, Fire TV Stick (HD Stick with 2021 Alexa Voice Remote), and Echo Dot (3rd Gen)."
+      - link "Devices with Alexa. Image of Echo Show 15, Fire 7, Fire TV Stick (HD Stick with 2021 Alexa Voice Remote), and Echo Dot (3rd Gen).":
+        - /url: /b/?ie=UTF8&node=2102313011&ref_=ods_gw_eng_fallback_d_h1_xpl_xpl_050122&pd_rd_w=Gl6ro&content-id=amzn1.sym.e4604e79-d832-4db0-935e-170c8850449e&pf_rd_p=e4604e79-d832-4db0-935e-170c8850449e&pf_rd_r=Y8GWZ9DFBWW0TDN0Q47Z&pd_rd_wg=tNFoF&pd_rd_r=2ce06757-82cc-4b62-ad3a-91c933e2a268
+  - heading "Prime Video" [level=2]
+  - link "Prime Video Try 30 days for free":
+    - /url: /gp/video/storefront/?ie=UTF8&pd_rd_w=SLGDg&content-id=amzn1.sym.bdc477ed-05db-4852-a6b9-774ab16b3ebb&pf_rd_p=bdc477ed-05db-4852-a6b9-774ab16b3ebb&pf_rd_r=Y8GWZ9DFBWW0TDN0Q47Z&pd_rd_wg=RP51i&pd_rd_r=10053101-20a0-4a52-9465-faf1daa6535e&ref_=pd_gw_unk
+    - img "Prime Video"
+    - text: Try 30 days for free
+  - heading "Customers' most-loved" [level=2]
+  - link "Women's fashion":
+    - /url: /b/?ie=UTF8&node=19277531011&ref_=af_gw_quadtopcard_f_july_xcat_cml_1&pd_rd_w=Z5OwE&content-id=amzn1.sym.28c8c8b7-487d-484e-96c7-4d7d067b06ed&pf_rd_p=28c8c8b7-487d-484e-96c7-4d7d067b06ed&pf_rd_r=Y8GWZ9DFBWW0TDN0Q47Z&pd_rd_wg=RP51i&pd_rd_r=10053101-20a0-4a52-9465-faf1daa6535e
+    - img "Women's fashion"
+    - text: Women's fashion
+  - link "Men's fashion":
+    - /url: /b/?ie=UTF8&node=19781749011&ref_=af_gw_quadtopcard_f_july_xcat_cml_2&pd_rd_w=Z5OwE&content-id=amzn1.sym.28c8c8b7-487d-484e-96c7-4d7d067b06ed&pf_rd_p=28c8c8b7-487d-484e-96c7-4d7d067b06ed&pf_rd_r=Y8GWZ9DFBWW0TDN0Q47Z&pd_rd_wg=RP51i&pd_rd_r=10053101-20a0-4a52-9465-faf1daa6535e
+    - img "Men's fashion"
+    - text: Men's fashion
+  - link "Beauty":
+    - /url: /b/?ie=UTF8&node=20853252011&ref_=af_gw_quadtopcard_f_july_xcat_cml_3&pd_rd_w=Z5OwE&content-id=amzn1.sym.28c8c8b7-487d-484e-96c7-4d7d067b06ed&pf_rd_p=28c8c8b7-487d-484e-96c7-4d7d067b06ed&pf_rd_r=Y8GWZ9DFBWW0TDN0Q47Z&pd_rd_wg=RP51i&pd_rd_r=10053101-20a0-4a52-9465-faf1daa6535e
+    - img "Beauty"
+    - text: Beauty
+  - link "Home":
+    - /url: /b/?ie=UTF8&node=20853249011&ref_=af_gw_quadtopcard_f_july_xcat_cml_4&pd_rd_w=Z5OwE&content-id=amzn1.sym.28c8c8b7-487d-484e-96c7-4d7d067b06ed&pf_rd_p=28c8c8b7-487d-484e-96c7-4d7d067b06ed&pf_rd_r=Y8GWZ9DFBWW0TDN0Q47Z&pd_rd_wg=RP51i&pd_rd_r=10053101-20a0-4a52-9465-faf1daa6535e
+    - img "Home"
+    - text: Home
+  - link "Discover items with 4+ stars":
+    - /url: /b/?ie=UTF8&node=20850246011&ref_=af_gw_quadtopcard_f_july_xcat_cml&pd_rd_w=Z5OwE&content-id=amzn1.sym.28c8c8b7-487d-484e-96c7-4d7d067b06ed&pf_rd_p=28c8c8b7-487d-484e-96c7-4d7d067b06ed&pf_rd_r=Y8GWZ9DFBWW0TDN0Q47Z&pd_rd_wg=RP51i&pd_rd_r=10053101-20a0-4a52-9465-faf1daa6535e
+  - heading "Best Sellers in Outlet" [level=2]
+  - link "Best Sellers in Outlet Shop now":
+    - /url: /b/ref=OUT_BS_DSC_D_EN_US/?_encoding=UTF8&node=17900676011&pd_rd_w=U7JXR&content-id=amzn1.sym.18e45841-e775-4e74-b94d-1f4c16e3f31a&pf_rd_p=18e45841-e775-4e74-b94d-1f4c16e3f31a&pf_rd_r=Y8GWZ9DFBWW0TDN0Q47Z&pd_rd_wg=RP51i&pd_rd_r=10053101-20a0-4a52-9465-faf1daa6535e&ref_=pd_gw_unk
+    - img "Best Sellers in Outlet"
+    - text: Shop now
+  - heading "Amazon exclusive toys" [level=2]
+  - link "Amazon exclusive toys See more":
+    - /url: /b/?_encoding=UTF8&ie=UTF8&node=17403333011&pd_rd_w=8cRcp&content-id=amzn1.sym.1672c122-6f71-4c82-abf1-fccc9be5a8ec&pf_rd_p=1672c122-6f71-4c82-abf1-fccc9be5a8ec&pf_rd_r=Y8GWZ9DFBWW0TDN0Q47Z&pd_rd_wg=RP51i&pd_rd_r=10053101-20a0-4a52-9465-faf1daa6535e&ref_=pd_gw_unk
+    - img "Amazon exclusive toys"
+    - text: See more
+  - heading "Small space solutions" [level=2]
+  - link "Small space furniture solutions Shop small space furniture & décor":
+    - /url: /b/?ie=UTF8&node=21385226011&ref_=0824_smallspaces&pd_rd_w=q3q0V&content-id=amzn1.sym.a88b03a7-5fdb-4224-a417-8e06429861d6&pf_rd_p=a88b03a7-5fdb-4224-a417-8e06429861d6&pf_rd_r=Y8GWZ9DFBWW0TDN0Q47Z&pd_rd_wg=4RKv0&pd_rd_r=216eac0c-33dd-4bf2-aa77-9e04d66fb902
+    - img "Small space furniture solutions"
+    - text: Shop small space furniture & décor
+  - heading "Save on pre-owned Amazon devices" [level=2]
+  - link "Save on pre-owned Amazon devices See all pre-owned devices":
+    - /url: /b/?ie=UTF8&node=8497978011&ref_=ods_gw_refurb_d_xpl_evrgn&pd_rd_w=nVvqr&content-id=amzn1.sym.450b4d03-ae80-4aac-8881-942e914f4094&pf_rd_p=450b4d03-ae80-4aac-8881-942e914f4094&pf_rd_r=Y8GWZ9DFBWW0TDN0Q47Z&pd_rd_wg=4RKv0&pd_rd_r=216eac0c-33dd-4bf2-aa77-9e04d66fb902
+    - img "Save on pre-owned Amazon devices"
+    - text: See all pre-owned devices
+  - heading "Live plants & planters" [level=2]
+  - link "Live plants & planters Shop plants, plant care & pots":
+    - /url: /b/?ie=UTF8&node=20933248011&ref_=0713_plantsandplanters&pd_rd_w=vncew&content-id=amzn1.sym.28ed930b-f5c9-47c6-b9e4-d70638dd1d6b&pf_rd_p=28ed930b-f5c9-47c6-b9e4-d70638dd1d6b&pf_rd_r=Y8GWZ9DFBWW0TDN0Q47Z&pd_rd_wg=4RKv0&pd_rd_r=216eac0c-33dd-4bf2-aa77-9e04d66fb902
+    - img "Live plants & planters"
+    - text: Shop plants, plant care & pots
+  - heading "Easy, elevated t-shirts" [level=2]
+  - link "Easy, elevated t-shirts See the full edit from Shopbop":
+    - /url: /stores/page/2712FB81-2E38-404F-ADE3-2858C4903F3A/?_encoding=UTF8&channel=SB_gway&ref=sb_w_i_ctcdx_tshrt&pd_rd_w=Z1doC&content-id=amzn1.sym.8c51d289-00b4-426b-8144-365a3f32184a&pf_rd_p=8c51d289-00b4-426b-8144-365a3f32184a&pf_rd_r=Y8GWZ9DFBWW0TDN0Q47Z&pd_rd_wg=4RKv0&pd_rd_r=216eac0c-33dd-4bf2-aa77-9e04d66fb902&ref_=pd_gw_unk
+    - img "Easy, elevated t-shirts"
+    - text: See the full edit from Shopbop
+- contentinfo:
+  - link "Amazon":
+    - /url: /ref=nav_bb_footer_logo
+    - img "Amazon"
+  - list:
+    - listitem:
+      - link "Conditions of Use":
+        - /url: /gp/help/customer/display.html?ie=UTF8&nodeId=508088&ref_=footer_cou
+    - listitem:
+      - link "Privacy Notice":
+        - /url: /gp/help/customer/display.html?ie=UTF8&nodeId=468496&ref_=footer_privacy
+    - listitem:
+      - link "Interest-Based Ads":
+        - /url: /interestbasedads/ref=footer_iba
+    - listitem: © 1996-2024, Amazon.com, Inc. or its affiliates
+```
