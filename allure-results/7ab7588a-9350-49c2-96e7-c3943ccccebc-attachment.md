@@ -1,0 +1,1940 @@
+# Page snapshot
+
+```yaml
+- navigation "Shortcuts menu":
+  - heading "Skip to" [level=2]
+  - list "Skip to":
+    - listitem:
+      - link "main content":
+        - /url: "#skippedLink"
+        - text: Main content
+    - listitem:
+      - link "Results":
+        - /url: .s-asin a:has(h2)
+    - listitem:
+      - link "Filters":
+        - /url: "#s-refinements > div.a-section > div:first-child"
+  - heading "Keyboard shortcuts" [level=2]
+  - list "Keyboard shortcuts":
+    - listitem:
+      - link "Search, alt, forward slash"
+    - listitem:
+      - link "Cart, shift, alt, c"
+    - listitem:
+      - link "Home, shift, alt, h"
+    - listitem:
+      - link "Your orders, shift, alt, o"
+    - listitem:
+      - button "Show/hide shortcuts, shift, alt, z"
+  - text: To move between items, use your keyboard's up or down arrows.
+- banner:
+  - navigation "Primary":
+    - link "Amazon":
+      - /url: /ref=nav_logo
+    - button "Deliver to Canada"
+    - search:
+      - text: All
+      - combobox "Select the department you want to search in":
+        - option "All Departments" [selected]
+        - option "Arts & Crafts"
+        - option "Automotive"
+        - option "Baby"
+        - option "Beauty & Personal Care"
+        - option "Books"
+        - option "Boys' Fashion"
+        - option "Computers"
+        - option "Deals"
+        - option "Digital Music"
+        - option "Electronics"
+        - option "Girls' Fashion"
+        - option "Health & Household"
+        - option "Home & Kitchen"
+        - option "Industrial & Scientific"
+        - option "Kindle Store"
+        - option "Luggage"
+        - option "Men's Fashion"
+        - option "Movies & TV"
+        - option "Music, CDs & Vinyl"
+        - option "Pet Supplies"
+        - option "Prime Video"
+        - option "Software"
+        - option "Sports & Outdoors"
+        - option "Tools & Home Improvement"
+        - option "Toys & Games"
+        - option "Video Games"
+        - option "Women's Fashion"
+      - searchbox "Search Amazon": iPhone
+      - button "Go"
+    - link "Choose a language for shopping in Amazon United States. The current selection is English (EN).":
+      - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang_ais
+      - img "United States"
+      - text: EN
+    - button "Expand to Change Language or Country"
+    - link "Hello, Anastasiya Account & Lists":
+      - /url: https://www.amazon.com/gp/css/homepage.html?ref_=nav_youraccount_btn
+    - button "Expand Account and Lists"
+    - link "Returns & Orders":
+      - /url: /gp/css/order-history?ref_=nav_orders_first
+    - link "1 item in cart":
+      - /url: /gp/cart/view.html?ref_=nav_cart
+    - button "Open All Categories Menu": All
+    - button "Open Rufus panel": Rufus
+    - list:
+      - listitem:
+        - link "Today's Deals":
+          - /url: /gp/goldbox?ref_=nav_cs_gb
+      - listitem:
+        - link "Prime Video":
+          - /url: /Amazon-Video/b/?ie=UTF8&node=2858778011&ref_=nav_cs_prime_video
+      - listitem:
+        - link "Buy Again":
+          - /url: /gp/buyagain?ie=UTF8&ref_=nav_cs_buy_again
+      - listitem:
+        - link "Customer Service":
+          - /url: /gp/help/customer/display.html?nodeId=508510&ref_=nav_cs_help
+      - listitem:
+        - link "Registry":
+          - /url: /gp/browse.html?node=16115931011&ref_=nav_cs_registry
+      - listitem:
+        - link "Gift Cards":
+          - /url: /gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc
+      - listitem:
+        - link "Sell":
+          - /url: /b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell
+      - link "Click to call our Disability Customer Support line, or reach us directly at 1-888-283-1678":
+        - /url: /gp/help/customer/accessibility
+        - text: Disability Customer Support
+    - dialog:
+      - heading "Subtotal" [level=1]
+      - heading "$32.99" [level=2]
+      - link "Go to Cart":
+        - /url: /cart?ref_=ox_ewc_ret_gtc_dsk_us
+      - list:
+        - listitem:
+          - link "Missnine Tote Bag Canvas Laptop Bag 15.6 inch Briefcase for Women Large Capacity Handbag for Office, College, Travel (Black+Beige)":
+            - /url: /gp/product/B0BSGDJ73P/ref=ewc_pr_img_1?smid=A168T5SQJWIE8R&psc=1
+            - img "Missnine Tote Bag Canvas Laptop Bag 15.6 inch Briefcase for Women Large Capacity Handbag for Office, College, Travel (Black+Beige)"
+          - text: $32.99
+          - paragraph
+          - group "Quantity is 1":
+            - button
+            - text: "1"
+            - button "Increase quantity by one"
+- 'heading "1-16 of 613 results for \"iPhone\" Sort by: Featured" [level=1]':
+  - heading "1-16 of 613 results for \"iPhone\"" [level=2]
+  - text: "Sort by:"
+  - combobox "Sort by:":
+    - option "Featured" [selected]
+    - 'option "Price: Low to High"'
+    - 'option "Price: High to Low"'
+    - option "Avg. Customer Review"
+    - option "Newest Arrivals"
+    - option "Best Sellers"
+- heading "More results" [level=2]
+- list:
+  - listitem:
+    - text: Previously viewed
+    - link "Apple iPhone 14, 128GB, Midnight - Unlocked (Renewed)":
+      - /url: /Apple-iPhone-14-128GB-Midnight/dp/B0BN72FYFG/ref=sr_1_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-1
+      - heading "Apple iPhone 14, 128GB, Midnight - Unlocked (Renewed)" [level=2]
+    - text: "Options:"
+    - 'link "Options: 3 sizes"':
+      - /url: /Apple-iPhone-14-128GB-Midnight/dp/B0BN72FYFG/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-1
+      - text: 3 sizes
+    - button "4.1 out of 5 stars, rating details"
+    - link "5,913 ratings":
+      - /url: /Apple-iPhone-14-128GB-Midnight/dp/B0BN72FYFG/ref=sr_1_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-1#customerReviews
+    - text: 5K+ bought in past month Price, product page
+    - 'link "$344.00 List Price: $389.00 List Price: $389.00"':
+      - /url: /Apple-iPhone-14-128GB-Midnight/dp/B0BN72FYFG/ref=sr_1_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-1
+    - text: $19.98 delivery Aug 7 - 11
+    - link "See options":
+      - /url: /Apple-iPhone-14-128GB-Midnight/dp/B0BN72FYFG/ref=sr_1_1_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-1
+    - text: More Buying Choices $314.44
+    - link "(13+ used & new offers)":
+      - /url: /gp/offer-listing/B0BN72FYFG/ref=sr_1_1_olp?keywords=iPhone&dib_tag=se&dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&qid=1754303457&sr=8-1
+    - group "colors available":
+      - list:
+        - listitem:
+          - link "Midnight":
+            - /url: /Apple-iPhone-14-128GB-Midnight/dp/B0BN72FYFG/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-1
+        - listitem:
+          - link "(Product) Red":
+            - /url: /Apple-iPhone-14-128GB-Midnight/dp/B0DK81VB18/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-1
+        - listitem:
+          - link "Blue":
+            - /url: /Apple-iPhone-14-128GB-Midnight/dp/B0BN719PP9/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-1
+        - listitem:
+          - link "Purple":
+            - /url: /Apple-iPhone-14-128GB-Midnight/dp/B0BN721X22/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-1
+        - listitem:
+          - link "Red":
+            - /url: /Apple-iPhone-14-128GB-Midnight/dp/B0BN72JHLX/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-1
+        - listitem:
+          - link "Starlight":
+            - /url: /Apple-iPhone-14-128GB-Midnight/dp/B0BN72C4GY/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-1
+      - link "+4 other colors/patterns":
+        - /url: /Apple-iPhone-14-128GB-Midnight/dp/B0BN72FYFG/ref=cs_sr_dp_n?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-1
+        - text: "+4"
+  - listitem:
+    - text: Previously viewed
+    - link "Apple iPhone 13, 128GB, Midnight - Unlocked (Renewed)":
+      - /url: /Apple-iPhone-13-128GB-Midnight/dp/B09LNW3CY2/ref=sr_1_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-2
+      - heading "Apple iPhone 13, 128GB, Midnight - Unlocked (Renewed)" [level=2]
+    - text: "Options:"
+    - 'link "Options: 3 sizes"':
+      - /url: /Apple-iPhone-13-128GB-Midnight/dp/B09LNW3CY2/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-2
+      - text: 3 sizes
+    - button "4.0 out of 5 stars, rating details"
+    - link "18,444 ratings":
+      - /url: /Apple-iPhone-13-128GB-Midnight/dp/B09LNW3CY2/ref=sr_1_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-2#customerReviews
+    - text: 4K+ bought in past month Price, product page
+    - 'link "$301.34 List Price: $339.00 List Price: $339.00"':
+      - /url: /Apple-iPhone-13-128GB-Midnight/dp/B09LNW3CY2/ref=sr_1_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-2
+    - text: Delivery Aug 14 - 15 Ships to Canada
+    - link "See options":
+      - /url: /Apple-iPhone-13-128GB-Midnight/dp/B09LNW3CY2/ref=sr_1_2_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-2
+    - text: More Buying Choices $289.95
+    - link "(12 used & new offers)":
+      - /url: /gp/offer-listing/B09LNW3CY2/ref=sr_1_2_olp?keywords=iPhone&dib_tag=se&dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&qid=1754303457&sr=8-2
+    - group "colors available":
+      - list:
+        - listitem:
+          - link "Midnight":
+            - /url: /Apple-iPhone-13-128GB-Midnight/dp/B09LNW3CY2/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-2
+        - listitem:
+          - link "(PRODUCT)RED":
+            - /url: /Apple-iPhone-13-128GB-Midnight/dp/B09LNSNZM8/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-2
+        - listitem:
+          - link "Blue":
+            - /url: /Apple-iPhone-13-128GB-Midnight/dp/B09LNV4K66/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-2
+        - listitem:
+          - link "Green":
+            - /url: /Apple-iPhone-13-128GB-Midnight/dp/B0B5FGBLGY/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-2
+        - listitem:
+          - link "Pink":
+            - /url: /Apple-iPhone-13-128GB-Midnight/dp/B09LP4MZ72/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-2
+        - listitem:
+          - link "Starlight":
+            - /url: /Apple-iPhone-13-128GB-Midnight/dp/B09LNXLN5M/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-2
+  - listitem:
+    - link "(Refurbished Premium) Apple iPhone 13, 128GB, Midnight - Unlocked":
+      - /url: /iPhone-13-128GB-Midnight-Unlocked/dp/B0BGQKY8S9/ref=sr_1_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-3
+      - heading "(Refurbished Premium) Apple iPhone 13, 128GB, Midnight - Unlocked" [level=2]
+    - text: "Options:"
+    - 'link "Options: 3 sizes"':
+      - /url: /iPhone-13-128GB-Midnight-Unlocked/dp/B0BGQKY8S9/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-3
+      - text: 3 sizes
+    - button "4.2 out of 5 stars, rating details"
+    - link "2,070 ratings":
+      - /url: /iPhone-13-128GB-Midnight-Unlocked/dp/B0BGQKY8S9/ref=sr_1_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-3#customerReviews
+    - text: 500+ bought in past month
+    - link "Click to see price":
+      - /url: /iPhone-13-128GB-Midnight-Unlocked/dp/B0BGQKY8S9/ref=sr_1_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-3
+    - text: Delivery Sun, Aug 10 Ships to Canada
+    - link "See options":
+      - /url: /iPhone-13-128GB-Midnight-Unlocked/dp/B0BGQKY8S9/ref=sr_1_3_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-3
+    - group "colors available":
+      - list:
+        - listitem:
+          - link "Midnight":
+            - /url: /iPhone-13-128GB-Midnight-Unlocked/dp/B0BGQKY8S9/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-3
+        - listitem:
+          - link "(PRODUCT)RED":
+            - /url: /iPhone-13-128GB-Midnight-Unlocked/dp/B0D2PWZ32Q/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-3
+        - listitem:
+          - link "Blue":
+            - /url: /iPhone-13-128GB-Midnight-Unlocked/dp/B0D2ZRVKRF/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-3
+        - listitem:
+          - link "Green":
+            - /url: /iPhone-13-128GB-Midnight-Unlocked/dp/B0D2PXSH7R/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-3
+        - listitem:
+          - link "Pink":
+            - /url: /iPhone-13-128GB-Midnight-Unlocked/dp/B0D2PWY8SL/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-3
+        - listitem:
+          - link "Starlight":
+            - /url: /iPhone-13-128GB-Midnight-Unlocked/dp/B0D2PY2DJ3/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-3
+  - listitem:
+    - link "(Refurbished) Apple iPhone 15, 128GB, Black - Unlocked":
+      - /url: /Apple-iPhone-15-128GB-Black/dp/B0CMPMY9ZZ/ref=sr_1_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-4
+      - heading "(Refurbished) Apple iPhone 15, 128GB, Black - Unlocked" [level=2]
+    - text: "Options:"
+    - 'link "Options: 3 sizes"':
+      - /url: /Apple-iPhone-15-128GB-Black/dp/B0CMPMY9ZZ/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-4
+      - text: 3 sizes
+    - button "4.2 out of 5 stars, rating details"
+    - link "1,950 ratings":
+      - /url: /Apple-iPhone-15-128GB-Black/dp/B0CMPMY9ZZ/ref=sr_1_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-4#customerReviews
+    - text: 1K+ bought in past month Price, product page
+    - 'link "$505.00 List Price: $539.00 List Price: $539.00"':
+      - /url: /Apple-iPhone-15-128GB-Black/dp/B0CMPMY9ZZ/ref=sr_1_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-4
+    - text: Delivery Mon, Aug 11 Ships to Canada Only 6 left in stock - order soon.
+    - link "See options":
+      - /url: /Apple-iPhone-15-128GB-Black/dp/B0CMPMY9ZZ/ref=sr_1_4_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-4
+    - text: More Buying Choices $461.99
+    - link "(8+ used & new offers)":
+      - /url: /gp/offer-listing/B0CMPMY9ZZ/ref=sr_1_4_olp?keywords=iPhone&dib_tag=se&dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&qid=1754303457&sr=8-4
+    - group "colors available":
+      - list:
+        - listitem:
+          - link "Black":
+            - /url: /Apple-iPhone-15-128GB-Black/dp/B0CMPMY9ZZ/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-4
+        - listitem:
+          - link "Blue":
+            - /url: /Apple-iPhone-15-128GB-Black/dp/B0CMPKVZ2C/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-4
+        - listitem:
+          - link "Green":
+            - /url: /Apple-iPhone-15-128GB-Black/dp/B0CMPMCDGZ/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-4
+        - listitem:
+          - link "Pink":
+            - /url: /Apple-iPhone-15-128GB-Black/dp/B0CMPL9LVR/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-4
+        - listitem:
+          - link "Yellow":
+            - /url: /Apple-iPhone-15-128GB-Black/dp/B0CMPLYB3C/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-4
+        - listitem:
+          - link "Balck":
+            - /url: /Apple-iPhone-15-128GB-Black/dp/B0DJWX3Y87/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-4
+  - listitem:
+    - group "Best Sellerin Amazon Renewed": Best Seller
+    - link "Apple iPhone 12, 64GB, Black - Fully Unlocked (Renewed)":
+      - /url: /Apple-iPhone-12-64GB-Black/dp/B08PP5MSVB/ref=sr_1_5?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-5
+      - heading "Apple iPhone 12, 64GB, Black - Fully Unlocked (Renewed)" [level=2]
+    - text: "Options:"
+    - 'link "Options: 3 sizes"':
+      - /url: /Apple-iPhone-12-64GB-Black/dp/B08PP5MSVB/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-5
+      - text: 3 sizes
+    - button "4.1 out of 5 stars, rating details"
+    - link "31,860 ratings":
+      - /url: /Apple-iPhone-12-64GB-Black/dp/B08PP5MSVB/ref=sr_1_5?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-5#customerReviews
+    - text: 7K+ bought in past month Price, product page
+    - 'link "$222.72 List Price: $249.00 List Price: $249.00"':
+      - /url: /Apple-iPhone-12-64GB-Black/dp/B08PP5MSVB/ref=sr_1_5?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-5
+    - text: Delivery Mon, Aug 11 Ships to Canada Only 6 left in stock - order soon.
+    - link "See options":
+      - /url: /Apple-iPhone-12-64GB-Black/dp/B08PP5MSVB/ref=sr_1_5_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-5
+    - text: More Buying Choices $188.08
+    - link "(12+ used & new offers)":
+      - /url: /gp/offer-listing/B08PP5MSVB/ref=sr_1_5_olp?keywords=iPhone&dib_tag=se&dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&qid=1754303457&sr=8-5
+    - group "colors available":
+      - list:
+        - listitem:
+          - link "Black":
+            - /url: /Apple-iPhone-12-64GB-Black/dp/B08PP5MSVB/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-5
+        - listitem:
+          - link "(Product)Red":
+            - /url: /Apple-iPhone-12-64GB-Black/dp/B0D68Y8XZR/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-5
+        - listitem:
+          - link "Blue":
+            - /url: /Apple-iPhone-12-64GB-Black/dp/B08PP4TRMH/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-5
+        - listitem:
+          - link "Green":
+            - /url: /Apple-iPhone-12-64GB-Black/dp/B0DLDDFSMG/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-5
+        - listitem:
+          - link "Purple":
+            - /url: /Apple-iPhone-12-64GB-Black/dp/B09KMJDRX3/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-5
+        - listitem:
+          - link "Red":
+            - /url: /Apple-iPhone-12-64GB-Black/dp/B08PP2KMCY/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-5
+      - link "+1 other color/pattern":
+        - /url: /Apple-iPhone-12-64GB-Black/dp/B08PP5MSVB/ref=cs_sr_dp_n?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-5
+        - text: "+1"
+  - listitem:
+    - link "(Refurbished) Apple iPhone 14 Plus, 128GB, Blue - Unlocked":
+      - /url: /Apple-iPhone-Plus-128GB-Blue/dp/B0BN97DG4N/ref=sr_1_6?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-6
+      - heading "(Refurbished) Apple iPhone 14 Plus, 128GB, Blue - Unlocked" [level=2]
+    - text: "Options:"
+    - 'link "Options: 4 sizes"':
+      - /url: /Apple-iPhone-Plus-128GB-Blue/dp/B0BN97DG4N/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-6
+      - text: 4 sizes
+    - button "4.1 out of 5 stars, rating details"
+    - link "3,994 ratings":
+      - /url: /Apple-iPhone-Plus-128GB-Blue/dp/B0BN97DG4N/ref=sr_1_6?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-6#customerReviews
+    - text: 500+ bought in past month Price, product page
+    - 'link "$389.36 List Price: $440.00 List Price: $440.00"':
+      - /url: /Apple-iPhone-Plus-128GB-Blue/dp/B0BN97DG4N/ref=sr_1_6?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-6
+    - text: $19.98 delivery Aug 7 - 11 Only 2 left in stock - order soon.
+    - link "See options":
+      - /url: /Apple-iPhone-Plus-128GB-Blue/dp/B0BN97DG4N/ref=sr_1_6_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-6
+    - text: More Buying Choices $364.99
+    - link "(9+ used & new offers)":
+      - /url: /gp/offer-listing/B0BN97DG4N/ref=sr_1_6_olp?keywords=iPhone&dib_tag=se&dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&qid=1754303457&sr=8-6
+    - group "colors available":
+      - list:
+        - listitem:
+          - link "Blue":
+            - /url: /Apple-iPhone-Plus-128GB-Blue/dp/B0BN97DG4N/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-6
+        - listitem:
+          - link "(PRODUCT)Red":
+            - /url: /Apple-iPhone-Plus-128GB-Blue/dp/B0BN969PGL/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-6
+        - listitem:
+          - link "Midnight":
+            - /url: /Apple-iPhone-Plus-128GB-Blue/dp/B0BN95PXNV/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-6
+        - listitem:
+          - link "Purple":
+            - /url: /Apple-iPhone-Plus-128GB-Blue/dp/B0BN991DGS/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-6
+        - listitem:
+          - link "Starlight":
+            - /url: /Apple-iPhone-Plus-128GB-Blue/dp/B0BN97DJR1/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-6
+        - listitem:
+          - link "Yellow":
+            - /url: /Apple-iPhone-Plus-128GB-Blue/dp/B0CG87STRC/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-6
+      - link "+1 other color/pattern":
+        - /url: /Apple-iPhone-Plus-128GB-Blue/dp/B0BN97DG4N/ref=cs_sr_dp_n?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-6
+        - text: "+1"
+  - listitem:
+    - link "(Refurbished) Apple iPhone 14 Pro, 128GB, Space Black - Unlocked":
+      - /url: /Apple-iPhone-14-Pro-128GB/dp/B0BN95FRW9/ref=sr_1_7?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-7
+      - heading "(Refurbished) Apple iPhone 14 Pro, 128GB, Space Black - Unlocked" [level=2]
+    - text: "Options:"
+    - 'link "Options: 4 sizes"':
+      - /url: /Apple-iPhone-14-Pro-128GB/dp/B0BN95FRW9/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-7
+      - text: 4 sizes
+    - button "4.0 out of 5 stars, rating details"
+    - link "3,744 ratings":
+      - /url: /Apple-iPhone-14-Pro-128GB/dp/B0BN95FRW9/ref=sr_1_7?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-7#customerReviews
+    - text: 500+ bought in past month Price, product page
+    - link "$516.05":
+      - /url: /Apple-iPhone-14-Pro-128GB/dp/B0BN95FRW9/ref=sr_1_7?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-7
+    - text: Delivery Mon, Aug 11 Ships to Canada Only 11 left in stock - order soon.
+    - link "See options":
+      - /url: /Apple-iPhone-14-Pro-128GB/dp/B0BN95FRW9/ref=sr_1_7_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-7
+    - group "colors available":
+      - list:
+        - listitem:
+          - link "Space Black":
+            - /url: /Apple-iPhone-14-Pro-128GB/dp/B0BN95FRW9/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-7
+        - listitem:
+          - link "Deep Purple":
+            - /url: /Apple-iPhone-14-Pro-128GB/dp/B0BN92PD7W/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-7
+        - listitem:
+          - link "Gold":
+            - /url: /Apple-iPhone-14-Pro-128GB/dp/B0BN94SDJ8/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-7
+        - listitem:
+          - link "Silver":
+            - /url: /Apple-iPhone-14-Pro-128GB/dp/B0BN94VM34/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-7
+        - listitem:
+          - link "Sliver":
+            - /url: /Apple-iPhone-14-Pro-128GB/dp/B0BN8ZH9L2/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-7
+        - listitem:
+          - link "Space black":
+            - /url: /Apple-iPhone-14-Pro-128GB/dp/B0BN93JTWW/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-7
+  - listitem:
+    - link "(Refurbished Premium) Apple iPhone 14, 128GB, Purple - Unlocked":
+      - /url: /Apple-iPhone-14-128GB-Purple/dp/B0BYLLR7QZ/ref=sr_1_8?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-8
+      - heading "(Refurbished Premium) Apple iPhone 14, 128GB, Purple - Unlocked" [level=2]
+    - text: "Options:"
+    - 'link "Options: 3 sizes"':
+      - /url: /Apple-iPhone-14-128GB-Purple/dp/B0BYLLR7QZ/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-8
+      - text: 3 sizes
+    - button "4.2 out of 5 stars, rating details"
+    - link "1,230 ratings":
+      - /url: /Apple-iPhone-14-128GB-Purple/dp/B0BYLLR7QZ/ref=sr_1_8?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-8#customerReviews
+    - text: 500+ bought in past month Price, product page
+    - 'link "$398.12 List Price: $449.00 List Price: $449.00"':
+      - /url: /Apple-iPhone-14-128GB-Purple/dp/B0BYLLR7QZ/ref=sr_1_8?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-8
+    - text: Delivery Fri, Aug 8 Ships to Canada
+    - link "See options":
+      - /url: /Apple-iPhone-14-128GB-Purple/dp/B0BYLLR7QZ/ref=sr_1_8_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-8
+    - group "colors available":
+      - list:
+        - listitem:
+          - link "Purple":
+            - /url: /Apple-iPhone-14-128GB-Purple/dp/B0BYLLR7QZ/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-8
+        - listitem:
+          - link "(Product) Red":
+            - /url: /Apple-iPhone-14-128GB-Purple/dp/B0BYLJ55DS/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-8
+        - listitem:
+          - link "Blue":
+            - /url: /Apple-iPhone-14-128GB-Purple/dp/B0BYLCTMGF/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-8
+        - listitem:
+          - link "Midnight":
+            - /url: /Apple-iPhone-14-128GB-Purple/dp/B0BYL4K28V/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-8
+        - listitem:
+          - link "Starlight":
+            - /url: /Apple-iPhone-14-128GB-Purple/dp/B0BYL4HKLY/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-8
+        - listitem:
+          - link "Yellow":
+            - /url: /Apple-iPhone-14-128GB-Purple/dp/B0D3SRG4T1/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-8
+  - listitem:
+    - link "(Refurbished) Apple iPhone 12 Pro, 128GB, Gold - Fully Unlocked":
+      - /url: /Apple-iPhone-Pro-128GB-Gold/dp/B08PND2PGV/ref=sr_1_9?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-9
+      - heading "(Refurbished) Apple iPhone 12 Pro, 128GB, Gold - Fully Unlocked" [level=2]
+    - text: "Options:"
+    - 'link "Options: 3 sizes"':
+      - /url: /Apple-iPhone-Pro-128GB-Gold/dp/B08PND2PGV/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-9
+      - text: 3 sizes
+    - button "4.1 out of 5 stars, rating details"
+    - link "12,605 ratings":
+      - /url: /Apple-iPhone-Pro-128GB-Gold/dp/B08PND2PGV/ref=sr_1_9?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-9#customerReviews
+    - text: 300+ bought in past month Price, product page
+    - link "$337.94":
+      - /url: /Apple-iPhone-Pro-128GB-Gold/dp/B08PND2PGV/ref=sr_1_9?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-9
+    - text: Delivery Aug 14 - 17 Ships to Canada
+    - link "See options":
+      - /url: /Apple-iPhone-Pro-128GB-Gold/dp/B08PND2PGV/ref=sr_1_9_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-9
+    - group "colors available":
+      - list:
+        - listitem:
+          - link "Gold":
+            - /url: /Apple-iPhone-Pro-128GB-Gold/dp/B08PND2PGV/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-9
+        - listitem:
+          - link "Graphite":
+            - /url: /Apple-iPhone-Pro-128GB-Gold/dp/B08PNZDQ38/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-9
+        - listitem:
+          - link "Gray":
+            - /url: /Apple-iPhone-Pro-128GB-Gold/dp/B0DKRVGD19/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-9
+        - listitem:
+          - link "Pacific Blue":
+            - /url: /Apple-iPhone-Pro-128GB-Gold/dp/B08PNR8NKF/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-9
+        - listitem:
+          - link "Silver":
+            - /url: /Apple-iPhone-Pro-128GB-Gold/dp/B08PNN31GR/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-9
+        - listitem:
+          - link "Sliver":
+            - /url: /Apple-iPhone-Pro-128GB-Gold/dp/B09JF9PJRK/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-9
+  - listitem:
+    - link "(Refurbished) Apple iPhone 13 Pro, 128GB, Graphite - Unlocked":
+      - /url: /Apple-iPhone-13-Pro-Graphite/dp/B09LP77GDL/ref=sr_1_10?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-10
+      - heading "(Refurbished) Apple iPhone 13 Pro, 128GB, Graphite - Unlocked" [level=2]
+    - text: "Options:"
+    - 'link "Options: 4 sizes"':
+      - /url: /Apple-iPhone-13-Pro-Graphite/dp/B09LP77GDL/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-10
+      - text: 4 sizes
+    - button "4.0 out of 5 stars, rating details"
+    - link "7,229 ratings":
+      - /url: /Apple-iPhone-13-Pro-Graphite/dp/B09LP77GDL/ref=sr_1_10?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-10#customerReviews
+    - text: 500+ bought in past month Price, product page
+    - link "$429.00":
+      - /url: /Apple-iPhone-13-Pro-Graphite/dp/B09LP77GDL/ref=sr_1_10?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-10
+    - text: Delivery Aug 18 - 23 Ships to Canada
+    - link "See options":
+      - /url: /Apple-iPhone-13-Pro-Graphite/dp/B09LP77GDL/ref=sr_1_10_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-10
+    - text: More Buying Choices $352.00
+    - link "(2+ used & new offers)":
+      - /url: /gp/offer-listing/B09LP77GDL/ref=sr_1_10_olp?keywords=iPhone&dib_tag=se&dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&qid=1754303457&sr=8-10
+    - group "colors available":
+      - list:
+        - listitem:
+          - link "Graphite":
+            - /url: /Apple-iPhone-13-Pro-Graphite/dp/B09LP77GDL/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-10
+        - listitem:
+          - link "Gold":
+            - /url: /Apple-iPhone-13-Pro-Graphite/dp/B09LP61XTL/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-10
+        - listitem:
+          - link "Sierra Blue":
+            - /url: /Apple-iPhone-13-Pro-Graphite/dp/B09LPCW6LH/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-10
+        - listitem:
+          - link "Silver":
+            - /url: /Apple-iPhone-13-Pro-Graphite/dp/B0DKB78C4Y/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-10
+        - listitem:
+          - link "Alpine Green":
+            - /url: /Apple-iPhone-13-Pro-Graphite/dp/B0DKB7GL7F/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-10
+        - listitem:
+          - link "Apline Green":
+            - /url: /Apple-iPhone-13-Pro-Graphite/dp/B0DKJTZXH2/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-10
+  - listitem:
+    - link "(Refurbished) Apple iPhone 12 Pro Max, 128GB, Pacific Blue - Fully Unlocked":
+      - /url: /Apple-iPhone-128GB-Pacific-Blue/dp/B08PMP778K/ref=sr_1_11?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-11
+      - heading "(Refurbished) Apple iPhone 12 Pro Max, 128GB, Pacific Blue - Fully Unlocked" [level=2]
+    - text: "Options:"
+    - 'link "Options: 3 sizes"':
+      - /url: /Apple-iPhone-128GB-Pacific-Blue/dp/B08PMP778K/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-11
+      - text: 3 sizes
+    - button "4.1 out of 5 stars, rating details"
+    - link "7,703 ratings":
+      - /url: /Apple-iPhone-128GB-Pacific-Blue/dp/B08PMP778K/ref=sr_1_11?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-11#customerReviews
+    - text: 500+ bought in past month Price, product page
+    - link "$441.61":
+      - /url: /Apple-iPhone-128GB-Pacific-Blue/dp/B08PMP778K/ref=sr_1_11?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-11
+    - text: Delivery Thu, Aug 7 Ships to Canada Only 2 left in stock - order soon.
+    - link "See options":
+      - /url: /Apple-iPhone-128GB-Pacific-Blue/dp/B08PMP778K/ref=sr_1_11_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-11
+    - text: More Buying Choices $386.00
+    - link "(3+ used & new offers)":
+      - /url: /gp/offer-listing/B08PMP778K/ref=sr_1_11_olp?keywords=iPhone&dib_tag=se&dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&qid=1754303457&sr=8-11
+    - group "colors available":
+      - list:
+        - listitem:
+          - link "Pacific Blue":
+            - /url: /Apple-iPhone-128GB-Pacific-Blue/dp/B08PMP778K/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-11
+        - listitem:
+          - link "Gold":
+            - /url: /Apple-iPhone-128GB-Pacific-Blue/dp/B08PMJ7QZV/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-11
+        - listitem:
+          - link "Graphite":
+            - /url: /Apple-iPhone-128GB-Pacific-Blue/dp/B08PMHW93Q/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-11
+        - listitem:
+          - link "Silver":
+            - /url: /Apple-iPhone-128GB-Pacific-Blue/dp/B0DLX3Y8X5/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-11
+  - listitem:
+    - link "(Refurbished Premium) Apple iPhone 15, 128GB, Pink - Unlocked":
+      - /url: /Apple-iPhone-15-128GB-Pink/dp/B0CRJ1LWT5/ref=sr_1_12?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-12
+      - heading "(Refurbished Premium) Apple iPhone 15, 128GB, Pink - Unlocked" [level=2]
+    - text: "Options:"
+    - 'link "Options: 3 sizes"':
+      - /url: /Apple-iPhone-15-128GB-Pink/dp/B0CRJ1LWT5/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-12
+      - text: 3 sizes
+    - button "4.3 out of 5 stars, rating details"
+    - link "617 ratings":
+      - /url: /Apple-iPhone-15-128GB-Pink/dp/B0CRJ1LWT5/ref=sr_1_12?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-12#customerReviews
+    - text: 400+ bought in past month Price, product page
+    - 'link "$526.81 List Price: $579.00 List Price: $579.00"':
+      - /url: /Apple-iPhone-15-128GB-Pink/dp/B0CRJ1LWT5/ref=sr_1_12?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-12
+    - text: Delivery Mon, Aug 11 Ships to Canada
+    - link "See options":
+      - /url: /Apple-iPhone-15-128GB-Pink/dp/B0CRJ1LWT5/ref=sr_1_12_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-12
+    - group "colors available":
+      - list:
+        - listitem:
+          - link "Pink":
+            - /url: /Apple-iPhone-15-128GB-Pink/dp/B0CRJ1LWT5/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-12
+        - listitem:
+          - link "Black":
+            - /url: /Apple-iPhone-15-128GB-Pink/dp/B0CRJPVF33/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-12
+        - listitem:
+          - link "Blue":
+            - /url: /Apple-iPhone-15-128GB-Pink/dp/B0CRHZGPQX/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-12
+        - listitem:
+          - link "Green":
+            - /url: /Apple-iPhone-15-128GB-Pink/dp/B0CRHZCMF8/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-12
+        - listitem:
+          - link "Yellow":
+            - /url: /Apple-iPhone-15-128GB-Pink/dp/B0CRJTQVS9/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-12
+        - listitem:
+          - link "green":
+            - /url: /Apple-iPhone-15-128GB-Pink/dp/B0DWCXGB36/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-12
+  - listitem:
+    - link "(Refurbished) Apple iPhone 12 Mini, 64GB, Blue - Unlocked":
+      - /url: /Apple-iPhone-12-Mini-64GB/dp/B08PNN2SKF/ref=sr_1_13?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-13
+      - heading "(Refurbished) Apple iPhone 12 Mini, 64GB, Blue - Unlocked" [level=2]
+    - text: "Options:"
+    - 'link "Options: 3 sizes"':
+      - /url: /Apple-iPhone-12-Mini-64GB/dp/B08PNN2SKF/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-13
+      - text: 3 sizes
+    - button "4.0 out of 5 stars, rating details"
+    - link "16,835 ratings":
+      - /url: /Apple-iPhone-12-Mini-64GB/dp/B08PNN2SKF/ref=sr_1_13?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-13#customerReviews
+    - text: 1K+ bought in past month Price, product page
+    - 'link "$183.00 List Price: $209.00 List Price: $209.00"':
+      - /url: /Apple-iPhone-12-Mini-64GB/dp/B08PNN2SKF/ref=sr_1_13?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-13
+    - text: $19.98 delivery Aug 7 - 11 Only 1 left in stock - order soon.
+    - link "See options":
+      - /url: /Apple-iPhone-12-Mini-64GB/dp/B08PNN2SKF/ref=sr_1_13_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-13
+    - text: More Buying Choices $181.33
+    - link "(9+ used & new offers)":
+      - /url: /gp/offer-listing/B08PNN2SKF/ref=sr_1_13_olp?keywords=iPhone&dib_tag=se&dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&qid=1754303457&sr=8-13
+    - group "colors available":
+      - list:
+        - listitem:
+          - link "Blue":
+            - /url: /Apple-iPhone-12-Mini-64GB/dp/B08PNN2SKF/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-13
+        - listitem:
+          - link "(PRODUCT)RED":
+            - /url: /Apple-iPhone-12-Mini-64GB/dp/B0D69R1T9C/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-13
+        - listitem:
+          - link "(Product)Red":
+            - /url: /Apple-iPhone-12-Mini-64GB/dp/B0DF493D41/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-13
+        - listitem:
+          - link "Black":
+            - /url: /Apple-iPhone-12-Mini-64GB/dp/B08PP9H4K2/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-13
+        - listitem:
+          - link "Green":
+            - /url: /Apple-iPhone-12-Mini-64GB/dp/B08PNKRPCY/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-13
+        - listitem:
+          - link "Purple":
+            - /url: /Apple-iPhone-12-Mini-64GB/dp/B09BDFR1YG/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-13
+      - link "+2 other colors/patterns":
+        - /url: /Apple-iPhone-12-Mini-64GB/dp/B08PNN2SKF/ref=cs_sr_dp_n?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-13
+        - text: "+2"
+  - listitem:
+    - link "(Refurbished) Apple iPhone 15 Pro, 256GB, Blue Titanium - Unlocked":
+      - /url: /Apple-iPhone-15-Pro-Titanium/dp/B0CMYXFK3R/ref=sr_1_14?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-14
+      - heading "(Refurbished) Apple iPhone 15 Pro, 256GB, Blue Titanium - Unlocked" [level=2]
+    - text: "Options:"
+    - 'link "Options: 4 sizes"':
+      - /url: /Apple-iPhone-15-Pro-Titanium/dp/B0CMYXFK3R/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-14
+      - text: 4 sizes
+    - button "4.1 out of 5 stars, rating details"
+    - link "1,641 ratings":
+      - /url: /Apple-iPhone-15-Pro-Titanium/dp/B0CMYXFK3R/ref=sr_1_14?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-14#customerReviews
+    - text: 500+ bought in past month Price, product page
+    - link "$719.99":
+      - /url: /Apple-iPhone-15-Pro-Titanium/dp/B0CMYXFK3R/ref=sr_1_14?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-14
+    - text: Delivery Fri, Aug 8 Ships to Canada
+    - link "See options":
+      - /url: /Apple-iPhone-15-Pro-Titanium/dp/B0CMYXFK3R/ref=sr_1_14_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-14
+    - text: More Buying Choices $661.00
+    - link "(3+ used & new offers)":
+      - /url: /gp/offer-listing/B0CMYXFK3R/ref=sr_1_14_olp?keywords=iPhone&dib_tag=se&dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&qid=1754303457&sr=8-14
+    - group "colors available":
+      - list:
+        - listitem:
+          - link "Blue Titanium":
+            - /url: /Apple-iPhone-15-Pro-Titanium/dp/B0CMYXFK3R/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-14
+        - listitem:
+          - link "Black Titanium":
+            - /url: /Apple-iPhone-15-Pro-Titanium/dp/B0CMZ3KSLM/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-14
+        - listitem:
+          - link "Natural Titanium":
+            - /url: /Apple-iPhone-15-Pro-Titanium/dp/B0CMYYMMJK/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-14
+        - listitem:
+          - link "White Titanium":
+            - /url: /Apple-iPhone-15-Pro-Titanium/dp/B0CMZJL611/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-14
+  - listitem:
+    - link "(Refurbished) Apple iPhone 14 Pro Max, 128GB, Space Black - Unlocked":
+      - /url: /Apple-iPhone-14-Pro-Max/dp/B0BN94DL3R/ref=sr_1_15?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-15
+      - heading "(Refurbished) Apple iPhone 14 Pro Max, 128GB, Space Black - Unlocked" [level=2]
+    - text: "Options:"
+    - 'link "Options: 4 sizes"':
+      - /url: /Apple-iPhone-14-Pro-Max/dp/B0BN94DL3R/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-15
+      - text: 4 sizes
+    - button "4.0 out of 5 stars, rating details"
+    - link "3,754 ratings":
+      - /url: /Apple-iPhone-14-Pro-Max/dp/B0BN94DL3R/ref=sr_1_15?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-15#customerReviews
+    - text: 500+ bought in past month Price, product page
+    - link "$615.98":
+      - /url: /Apple-iPhone-14-Pro-Max/dp/B0BN94DL3R/ref=sr_1_15?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-15
+    - text: Delivery Mon, Aug 11 Ships to Canada
+    - link "See options":
+      - /url: /Apple-iPhone-14-Pro-Max/dp/B0BN94DL3R/ref=sr_1_15_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-15
+    - text: More Buying Choices $604.25
+    - link "(5+ used & new offers)":
+      - /url: /gp/offer-listing/B0BN94DL3R/ref=sr_1_15_olp?keywords=iPhone&dib_tag=se&dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&qid=1754303457&sr=8-15
+    - group "colors available":
+      - list:
+        - listitem:
+          - link "Space Black":
+            - /url: /Apple-iPhone-14-Pro-Max/dp/B0BN94DL3R/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-15
+        - listitem:
+          - link "Deep Purple":
+            - /url: /Apple-iPhone-14-Pro-Max/dp/B0BN94XGXF/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-15
+        - listitem:
+          - link "Gold":
+            - /url: /Apple-iPhone-14-Pro-Max/dp/B0BN95GPFN/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-15
+        - listitem:
+          - link "Silver":
+            - /url: /Apple-iPhone-14-Pro-Max/dp/B0BN93SQGV/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-15
+        - listitem:
+          - link "Sliver":
+            - /url: /Apple-iPhone-14-Pro-Max/dp/B0BN93Q485/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-15
+  - listitem:
+    - link "(Refurbished Premium) Apple iPhone 15 Pro Max, 256GB, Natural Titanium - Unlocked":
+      - /url: /Apple-iPhone-256GB-Natural-Titanium/dp/B0CRJSBN5M/ref=sr_1_16?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-16
+      - heading "(Refurbished Premium) Apple iPhone 15 Pro Max, 256GB, Natural Titanium - Unlocked" [level=2]
+    - text: "Options:"
+    - 'link "Options: 3 sizes"':
+      - /url: /Apple-iPhone-256GB-Natural-Titanium/dp/B0CRJSBN5M/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-16
+      - text: 3 sizes
+    - button "4.1 out of 5 stars, rating details"
+    - link "890 ratings":
+      - /url: /Apple-iPhone-256GB-Natural-Titanium/dp/B0CRJSBN5M/ref=sr_1_16?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-16#customerReviews
+    - text: 500+ bought in past month Price, product page
+    - 'link "$799.00 List Price: $899.00 List Price: $899.00"':
+      - /url: /Apple-iPhone-256GB-Natural-Titanium/dp/B0CRJSBN5M/ref=sr_1_16?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-16
+    - text: Delivery Fri, Aug 8 Ships to Canada Only 6 left in stock - order soon.
+    - link "See options":
+      - /url: /Apple-iPhone-256GB-Natural-Titanium/dp/B0CRJSBN5M/ref=sr_1_16_so_CELLULAR_PHONE?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-16
+    - text: More Buying Choices $798.00
+    - link "(3 used & new offers)":
+      - /url: /gp/offer-listing/B0CRJSBN5M/ref=sr_1_16_olp?keywords=iPhone&dib_tag=se&dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&qid=1754303457&sr=8-16
+    - group "colors available":
+      - list:
+        - listitem:
+          - link "Natural Titanium":
+            - /url: /Apple-iPhone-256GB-Natural-Titanium/dp/B0CRJSBN5M/ref=cs_sr_dp_1?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-16
+        - listitem:
+          - link "Black Titanium":
+            - /url: /Apple-iPhone-256GB-Natural-Titanium/dp/B0CRJTNDQ6/ref=cs_sr_dp_2?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-16
+        - listitem:
+          - link "White Titanium":
+            - /url: /Apple-iPhone-256GB-Natural-Titanium/dp/B0CRJJRSQN/ref=cs_sr_dp_3?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-16
+        - listitem:
+          - link "Blue Titanium":
+            - /url: /Apple-iPhone-256GB-Natural-Titanium/dp/B0DWKW83NL/ref=cs_sr_dp_4?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-16
+        - listitem:
+          - link "Black":
+            - /url: /Apple-iPhone-256GB-Natural-Titanium/dp/B0DXRB1CDN/ref=cs_sr_dp_5?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-16
+        - listitem:
+          - link "Blue":
+            - /url: /Apple-iPhone-256GB-Natural-Titanium/dp/B07Z8L73YP/ref=cs_sr_dp_6?dib=eyJ2IjoiMSJ9.i8YCCkA7BtNG2cpz5csjmOaUxCKZjLZRoZudjOPmvaXe25-cE8c7awrQbMvfJ0BjSfhT1eT9dk1W2M05h94yfI6eJmi2y0YdcDg5QCpbTezR-6c7xYU6K8UtXiTJUv6mXcjkYxSMiTLIZvQSgl1ieIdcwrr9SjMoAWwNQSfM19R9OFdpd8wbT23ZG0WXd9uyN6FGs2Z769YsBbfZbT1A0IL-T7OJ9LNZ0zmCodTYUPA._SgpSEfB-8BHIs0ZFuP_7p1p107kwXRzN351EATZVEc&dib_tag=se&keywords=iPhone&qid=1754303457&sr=8-16
+- link "Sponsored video, click to navigate to featured product page. Samsung Galaxy S25 Ultra, 256GB Smartphone, Unlocked Android, AI Night Mode Camera, Snapdragon 8 Elite Fast Processor, 5000mAh Battery, Built-in S Pen, 2025, US 1 Yr Warranty, Titanium Black":
+  - /url: https://aax-us-iad.amazon.com/x/c/JPK1ccTFzqOCEZYCy1rAGgcAAAGYdKJoZwEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICAa3QvV/clv1c_ek-YwIHXKsTCztVAVAtz8VuopBDDGBqBMTibrdlW3fVJ-WlwxzTsO3w26twzKSdINJ6IZ1Mqs-umzYJP9aVord4JVo2RrqiLaejs4JDQnhymRp9EZ5BJje915v9IGcPpF7mRJ3GC5m_c1uTCEK4mu9DNyD3W7qVCUuTzRjWnTNW3uTqMvtf97mpAiiP-blvWSIzCzOQQNWh8UTVXdCgC3pq5C5wj1g49kChv4gmiwPuPimVi6ZUaUv2zXMOoUvYQcVj2OFNhxaim8MpAlkIVp1jH41DUcl6WqW3Asu0V7TQtcH0idB_x9coo0Q5sHJAqtaUUMtulPy_jqs0qSw1O2ZK7aCtQY6iElne5ZvVPTZGvKaPcvIFHsy-8-IskeAHnlYncsZgi67_MGxAsY_xZc0hMkWHGqG28tukNWhiFUjCtWOhnIUJMe4xtvrVllZH-T6KPSDQpVySKK94nXuVZnR2kUMK6YO731_HbfZudEDAC_Zi5RqDhUYJ7mivuRMbbaXjdg2RfBO2TkknWtrPPOFgMmb73rZ7z3hsZn-tEV9W1m54hv9KZk9qdA3UU0iPJdcEVdDqOtx0jprMHLq2veucp3fEKgljKoGiaukF1VdsAAtVTs36iNpi-0H3mSk9ofVvO9QN7RxuDr6wj2iR9zWBqApQXeyN7qI5HtJUudR8tILXtGGSi5WbJWWAqnSPZfO8A3ofk0N_xF9JMeTrWauC2NEq0beFITRWJ68NY_wkzSngdeXdIq8dHbsonH7EuquAHva6Wfpb2wzuP-mJ5fMuuSHoHeC-Xly8MmG0htHxZHpA5MLR1uOCaJd7pog89EcMgEdLkVfkKzGAS3cnPME1ilWLg2WiEMdKofPr3zxit4eAF4sEL3Z-3ApBJy15XwOa3sXxE3C39nC9mjRMy-3ktkIl9Ka3DZrIT-WiazaTl7KEkqHR8-mk80PO_3gOQDrQb6Qg3JqmAOoZ8B3A5E2w3kEhvnRSApCkafxBvuw/https://www.amazon.com/dp/B0DP3GQ4QY?pd_rd_i=B0DP3GQ4QY&pf_rd_p=37132d36-da68-4ed0-8d23-842f0825e4d6&pf_rd_r=DCH08GW9ZHK1JW7RE4DA&pd_rd_wg=Duupz&pd_rd_w=PMbiz&pd_rd_r=ef6f4818-1542-4362-bf43-cbfb87de696f
+- text: Sponsored
+- link "Samsung Galaxy S25 Ultra, 256GB Smartphone, Unlocked Android, AI Night Mode Camera, Snapdragon 8 Elite Fast Processor, 5000mAh Battery, Built-in S Pen, 2025, US 1 Yr Warranty, Titanium Black":
+  - /url: https://aax-us-iad.amazon.com/x/c/JPK1ccTFzqOCEZYCy1rAGgcAAAGYdKJoZwEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICAa3QvV/clv1c_ek-YwIHXKsTCztVAVAtz8VuopBDDGBqBMTibrdlW3fVJ-WlwxzTsO3w26twzKSdINJ6IZ1Mqs-umzYJP9aVord4JVo2RrqiLaejs4JDQnhymRp9EZ5BJje915v9IGcPpF7mRJ3GC5m_c1uTCEK4mu9DNyD3W7qVCUuTzRjWnTNW3uTqMvtf97mpAiiP-blvWSIzCzOQQNWh8UTVXdCgC3pq5C5wj1g49kChv4gmiwPuPimVi6ZUaUv2zXMOoUvYQcVj2OFNhxaim8MpAlkIVp1jH41DUcl6WqW3Asu0V7TQtcH0idB_x9coo0Q5sHJAqtaUUMtulPy_jqs0qSw1O2ZK7aCtQY6iElne5ZvVPTZGvKaPcvIFHsy-8-IskeAHnlYncsZgi67_MGxAsY_xZc0hMkWHGqG28tukNWhiFUjCtWOhnIUJMe4xtvrVllZH-T6KPSDQpVySKK94nXuVZnR2kUMK6YO731_HbfZudEDAC_Zi5RqDhUYJ7mivuRMbbaXjdg2RfBO2TkknWtrPPOFgMmb73rZ7z3hsZn-tEV9W1m54hv9KZk9qdA3UU0iPJdcEVdDqOtx0jprMHLq2veucp3fEKgljKoGiaukF1VdsAAtVTs36iNpi-0H3mSk9ofVvO9QN7RxuDr6wj2iR9zWBqApQXeyN7qI5HtJUudR8tILXtGGSi5WbJWWAqnSPZfO8A3ofk0N_xF9JMeTrWauC2NEq0beFITRWJ68NY_wkzSngdeXdIq8dHbsonH7EuquAHva6Wfpb2wzuP-mJ5fMuuSHoHeC-Xly8MmG0htHxZHpA5MLR1uOCaJd7pog89EcMgEdLkVfkKzGAS3cnPME1ilWLg2WiEMdKofPr3zxit4eAF4sEL3Z-3ApBJy15XwOa3sXxE3C39nC9mjRMy-3ktkIl9Ka3DZrIT-WiazaTl7KEkqHR8-mk80PO_3gOQDrQb6Qg3JqmAOoZ8B3A5E2w3kEhvnRSApCkafxBvuw/https://www.amazon.com/Samsung-Smartphone-Unlocked-Processor-Manufacturer/dp/B0DP3GQ4QY/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6%3Aamzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6&cv_ct_cx=iPhone&keywords=iPhone&pd_rd_i=B0DP3GQ4QY&pd_rd_r=ef6f4818-1542-4362-bf43-cbfb87de696f&pd_rd_w=PMbiz&pd_rd_wg=Duupz&pf_rd_p=37132d36-da68-4ed0-8d23-842f0825e4d6&pf_rd_r=DCH08GW9ZHK1JW7RE4DA&qid=1754303457&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-a61ee601-6e56-4862-a8a2-1d3da5a5406f
+  - heading "Samsung Galaxy S25 Ultra, 256GB Smartphone, Unlocked Android, AI Night Mode Camera, Snapdragon 8 Elite Fast Processor, 5000mAh Battery, Built-in S Pen, 2025, US 1 Yr Warranty, Titanium Black" [level=2]
+- button "4.4 out of 5 stars, rating details"
+- link "1,805 ratings":
+  - /url: https://aax-us-iad.amazon.com/x/c/JPK1ccTFzqOCEZYCy1rAGgcAAAGYdKJoZwEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICAa3QvV/clv1c_ek-YwIHXKsTCztVAVAtz8VuopBDDGBqBMTibrdlW3fVJ-WlwxzTsO3w26twzKSdINJ6IZ1Mqs-umzYJP9aVord4JVo2RrqiLaejs4JDQnhymRp9EZ5BJje915v9IGcPpF7mRJ3GC5m_c1uTCEK4mu9DNyD3W7qVCUuTzRjWnTNW3uTqMvtf97mpAiiP-blvWSIzCzOQQNWh8UTVXdCgC3pq5C5wj1g49kChv4gmiwPuPimVi6ZUaUv2zXMOoUvYQcVj2OFNhxaim8MpAlkIVp1jH41DUcl6WqW3Asu0V7TQtcH0idB_x9coo0Q5sHJAqtaUUMtulPy_jqs0qSw1O2ZK7aCtQY6iElne5ZvVPTZGvKaPcvIFHsy-8-IskeAHnlYncsZgi67_MGxAsY_xZc0hMkWHGqG28tukNWhiFUjCtWOhnIUJMe4xtvrVllZH-T6KPSDQpVySKK94nXuVZnR2kUMK6YO731_HbfZudEDAC_Zi5RqDhUYJ7mivuRMbbaXjdg2RfBO2TkknWtrPPOFgMmb73rZ7z3hsZn-tEV9W1m54hv9KZk9qdA3UU0iPJdcEVdDqOtx0jprMHLq2veucp3fEKgljKoGiaukF1VdsAAtVTs36iNpi-0H3mSk9ofVvO9QN7RxuDr6wj2iR9zWBqApQXeyN7qI5HtJUudR8tILXtGGSi5WbJWWAqnSPZfO8A3ofk0N_xF9JMeTrWauC2NEq0beFITRWJ68NY_wkzSngdeXdIq8dHbsonH7EuquAHva6Wfpb2wzuP-mJ5fMuuSHoHeC-Xly8MmG0htHxZHpA5MLR1uOCaJd7pog89EcMgEdLkVfkKzGAS3cnPME1ilWLg2WiEMdKofPr3zxit4eAF4sEL3Z-3ApBJy15XwOa3sXxE3C39nC9mjRMy-3ktkIl9Ka3DZrIT-WiazaTl7KEkqHR8-mk80PO_3gOQDrQb6Qg3JqmAOoZ8B3A5E2w3kEhvnRSApCkafxBvuw/https://www.amazon.com/Samsung-Smartphone-Unlocked-Processor-Manufacturer/dp/B0DP3GQ4QY/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6%3Aamzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6&cv_ct_cx=iPhone&keywords=iPhone&pd_rd_i=B0DP3GQ4QY&pd_rd_r=ef6f4818-1542-4362-bf43-cbfb87de696f&pd_rd_w=PMbiz&pd_rd_wg=Duupz&pf_rd_p=37132d36-da68-4ed0-8d23-842f0825e4d6&pf_rd_r=DCH08GW9ZHK1JW7RE4DA&qid=1754303457&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-a61ee601-6e56-4862-a8a2-1d3da5a5406f#customerReviews
+- text: 2K+ bought in past month
+- link "Limited time deal":
+  - /url: /deals
+- text: Price, product page
+- 'link "$999.99 List: $1,299.99 List: $1,299.99"':
+  - /url: https://aax-us-iad.amazon.com/x/c/JPK1ccTFzqOCEZYCy1rAGgcAAAGYdKJoZwEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICAa3QvV/clv1c_ek-YwIHXKsTCztVAVAtz8VuopBDDGBqBMTibrdlW3fVJ-WlwxzTsO3w26twzKSdINJ6IZ1Mqs-umzYJP9aVord4JVo2RrqiLaejs4JDQnhymRp9EZ5BJje915v9IGcPpF7mRJ3GC5m_c1uTCEK4mu9DNyD3W7qVCUuTzRjWnTNW3uTqMvtf97mpAiiP-blvWSIzCzOQQNWh8UTVXdCgC3pq5C5wj1g49kChv4gmiwPuPimVi6ZUaUv2zXMOoUvYQcVj2OFNhxaim8MpAlkIVp1jH41DUcl6WqW3Asu0V7TQtcH0idB_x9coo0Q5sHJAqtaUUMtulPy_jqs0qSw1O2ZK7aCtQY6iElne5ZvVPTZGvKaPcvIFHsy-8-IskeAHnlYncsZgi67_MGxAsY_xZc0hMkWHGqG28tukNWhiFUjCtWOhnIUJMe4xtvrVllZH-T6KPSDQpVySKK94nXuVZnR2kUMK6YO731_HbfZudEDAC_Zi5RqDhUYJ7mivuRMbbaXjdg2RfBO2TkknWtrPPOFgMmb73rZ7z3hsZn-tEV9W1m54hv9KZk9qdA3UU0iPJdcEVdDqOtx0jprMHLq2veucp3fEKgljKoGiaukF1VdsAAtVTs36iNpi-0H3mSk9ofVvO9QN7RxuDr6wj2iR9zWBqApQXeyN7qI5HtJUudR8tILXtGGSi5WbJWWAqnSPZfO8A3ofk0N_xF9JMeTrWauC2NEq0beFITRWJ68NY_wkzSngdeXdIq8dHbsonH7EuquAHva6Wfpb2wzuP-mJ5fMuuSHoHeC-Xly8MmG0htHxZHpA5MLR1uOCaJd7pog89EcMgEdLkVfkKzGAS3cnPME1ilWLg2WiEMdKofPr3zxit4eAF4sEL3Z-3ApBJy15XwOa3sXxE3C39nC9mjRMy-3ktkIl9Ka3DZrIT-WiazaTl7KEkqHR8-mk80PO_3gOQDrQb6Qg3JqmAOoZ8B3A5E2w3kEhvnRSApCkafxBvuw/https://www.amazon.com/Samsung-Smartphone-Unlocked-Processor-Manufacturer/dp/B0DP3GQ4QY/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6%3Aamzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6&cv_ct_cx=iPhone&keywords=iPhone&pd_rd_i=B0DP3GQ4QY&pd_rd_r=ef6f4818-1542-4362-bf43-cbfb87de696f&pd_rd_w=PMbiz&pd_rd_wg=Duupz&pf_rd_p=37132d36-da68-4ed0-8d23-842f0825e4d6&pf_rd_r=DCH08GW9ZHK1JW7RE4DA&qid=1754303457&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-a61ee601-6e56-4862-a8a2-1d3da5a5406f
+- text: Delivery Thu, Aug 7
+- heading "Related searches" [level=2]
+- list:
+  - listitem: iphone 13
+  - listitem: iphone unlocked
+  - listitem: iphone 15
+  - listitem: phone
+  - listitem: ipad
+  - listitem: samsung
+- navigation:
+  - region "pagination":
+    - list:
+      - button "Previous" [disabled]
+      - listitem:
+        - button "Page 1": "1"
+      - listitem:
+        - button "Go to page 2": "2"
+      - listitem:
+        - button "Go to page 3": "3"
+      - button [disabled]
+      - button "20" [disabled]
+      - listitem:
+        - button "Go to next page, page 2": Next
+- heading "Need help?" [level=2]
+- link "Visit the help section":
+  - /url: /gp/help/customer/display.html?nodeId=468556
+- text: or
+- link "contact us":
+  - /url: /gp/help/customer/contact-us
+- link "Go back to filtering menu":
+  - /url: "#s-skipLinkTargetForFilterOptions"
+- link "Skip to main search results":
+  - /url: "#s-skipLinkTargetForMainSearchResults"
+- group:
+  - heading "Popular Shopping Ideas" [level=2]
+  - list:
+    - listitem:
+      - link "Case":
+        - /url: /s?k=case+iphone&ref=sr_nr_p_cosmo_multi_pt_0
+    - listitem:
+      - link "Cricket":
+        - /url: /s?k=cricket+iphone&ref=sr_nr_p_cosmo_multi_pt_1
+    - listitem:
+      - link "Android":
+        - /url: /s?k=android+iphone&ref=sr_nr_p_cosmo_multi_pt_2
+    - listitem:
+      - link "Wallet":
+        - /url: /s?k=wallet+iphone&ref=sr_nr_p_cosmo_multi_pt_3
+    - listitem:
+      - button "See more"
+- group "Condition":
+  - heading "Condition" [level=2]
+  - list "Condition":
+    - listitem:
+      - link "New":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_condition-type%3A6503240011&dc&qid=1754303457&rnid=6503239011&ref=sr_nr_p_n_condition-type_1&ds=v1%3ADcVVrgna8ef%2BOz%2FRp9ez8F4ak9%2B2c2fnQJ2frC%2F0uig
+    - listitem:
+      - link "Renewed":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_condition-type%3A16907722011&dc&qid=1754303457&rnid=6503239011&ref=sr_nr_p_n_condition-type_2&ds=v1%3AEvwA%2FSBDAB4sIYPxjOvbAyobwBZV1ceOrYm9y9hathk
+    - listitem:
+      - link "Used":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_condition-type%3A6503242011&dc&qid=1754303457&rnid=6503239011&ref=sr_nr_p_n_condition-type_3&ds=v1%3A9AJVF%2FISutFOvoA3vcHD%2FZ%2F6PhHhyDSfjZmTcGnTtn4
+- group:
+  - text: Price $0 $3,200+
+  - slider "Minimum price": "0"
+  - slider "Maximum price": "148"
+  - button "Go - Submit price range"
+  - list:
+    - listitem:
+      - link "Up to $150":
+        - /url: /s?k=iPhone&rh=p_36%3A-15000&dc&qid=1754303457&rnid=14674871011&ref=sr_nr_p_36_1&ds=v1%3ADis9LN17q6JnDgmH2PqOqqS7eDxLCqXthvJML0JLitg
+    - listitem:
+      - link "$150 to $600":
+        - /url: /s?k=iPhone&rh=p_36%3A15000-60000&dc&qid=1754303457&rnid=14674871011&ref=sr_nr_p_36_2&ds=v1%3AHNN6nIu5xhfxEuPhITjDs1NXqe2blB%2Bly6204%2FiUBoY
+    - listitem:
+      - link "$600 to $800":
+        - /url: /s?k=iPhone&rh=p_36%3A60000-80000&dc&qid=1754303457&rnid=14674871011&ref=sr_nr_p_36_3&ds=v1%3AzFFKlIfVaaK3w9xVOshJINn1HJlkRMyggfEc8GgqsfQ
+    - listitem:
+      - link "$800 & above":
+        - /url: /s?k=iPhone&rh=p_36%3A80000-&dc&qid=1754303457&rnid=14674871011&ref=sr_nr_p_36_4&ds=v1%3AOP3o%2FjaHXot2BbHijJi7OwaWatCbx5FL3eGmq4ZDNug
+  - heading "Deals & Discounts" [level=2]
+  - list "Deals & Discounts":
+    - listitem:
+      - link "All Discounts":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_deal_type%3A23566065011&dc&qid=1754303457&rnid=23566063011&ref=sr_nr_p_n_deal_type_1&ds=v1%3A5toH3iEYi%2FfiK%2Bsia3u2HWnwnqSeT4DsWOPGgToxU6s
+- group "Brands":
+  - heading "Brands" [level=2]
+  - list "Brands":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Apple filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_123%3A110955&dc&qid=1754303457&rnid=85457740011&ref=sr_nr_p_123_1&ds=v1%3AsT4IA%2FLX27N5%2FA4GdCXH4DcLlrnW2G70PKxiLBb5CoI
+        - text: Apple
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Samsung filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_123%3A46655&dc&qid=1754303457&rnid=85457740011&ref=sr_nr_p_123_2&ds=v1%3AEg%2Fc%2Bce3%2FuDqJXH59kQxSBHCcY7UyPKUdaEEu0jGBbU
+        - text: Samsung
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Google filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_123%3A370584&dc&qid=1754303457&rnid=85457740011&ref=sr_nr_p_123_3&ds=v1%3AZmULUFMB7S1eSmIhERJiZz2gJWVFmqbTZ%2FNClEbLkvM
+        - text: Google
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Motorola filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_123%3A146762&dc&qid=1754303457&rnid=85457740011&ref=sr_nr_p_123_4&ds=v1%3Aq5RUgqUyzJ6p3pKIkj0URWQbughlk%2FDYccGAIl6ab4w
+        - text: Motorola
+    - listitem "Popular Shopping Ideas":
+      - link "Apply OnePlus filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_123%3A253649&dc&qid=1754303457&rnid=85457740011&ref=sr_nr_p_123_5&ds=v1%3AdnkdxHk0lYNtgZgq5SiXAxOunOYf8lofCyuoRiiTM7w
+        - text: OnePlus
+    - listitem "Popular Shopping Ideas":
+      - link "Apply TracFone filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_123%3A319106&dc&qid=1754303457&rnid=85457740011&ref=sr_nr_p_123_6&ds=v1%3AqoFBlokqhvWvhsNZhJmNS9WgK7cK%2Fo%2FDcYK5XpCv%2BCw
+        - text: TracFone
+    - listitem "Popular Shopping Ideas":
+      - link "Apply LG filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_123%3A46658&dc&qid=1754303457&rnid=85457740011&ref=sr_nr_p_123_7&ds=v1%3Aj61rryGpuEpiGcl%2FrqnQFK6Srw%2Blla%2BNw9VnSWR%2FjTg
+        - text: LG
+    - listitem:
+      - button "See more, Brands": See more
+  - heading "Top Brands" [level=2]
+  - list "Top Brands":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Top Brands filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_forty-one_browse-bin%3A119653281011&dc&qid=1754303457&rnid=119653280011&ref=sr_nr_p_n_feature_forty-one_browse-bin_1&ds=v1%3ADMwwsG1XSov%2F2tgxu%2FJIQiLpmnxadIuNyI5%2Bo91U7Uw
+        - text: Top Brands
+- group "Carrier":
+  - heading "Carrier" [level=2]
+  - list "Carrier":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply AT&T Wireless filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_twenty-one_browse-bin%3A17881856011&dc&qid=1754303457&rnid=17881854011&ref=sr_nr_p_n_feature_twenty-one_browse-bin_1&ds=v1%3AimyxFan8GxhpdZXKvK%2FvWKChi%2BOX4Fy6z6uyTN33REo
+        - text: AT&T Wireless
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Cricket Wireless filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_twenty-one_browse-bin%3A17881859011&dc&qid=1754303457&rnid=17881854011&ref=sr_nr_p_n_feature_twenty-one_browse-bin_2&ds=v1%3Afy%2BzDIcAhNlIi11XFLW0ix4SJUkXoZHBHsK4AnRiLyA
+        - text: Cricket Wireless
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Net10 Wireless filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_twenty-one_browse-bin%3A17881864011&dc&qid=1754303457&rnid=17881854011&ref=sr_nr_p_n_feature_twenty-one_browse-bin_3&ds=v1%3AJYFr8%2FEV%2FqU%2BSfv7o%2BXrZGfhC84a6Z%2F7JoSusa81Rb8
+        - text: Net10 Wireless
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Sprint filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_twenty-one_browse-bin%3A17881867011&dc&qid=1754303457&rnid=17881854011&ref=sr_nr_p_n_feature_twenty-one_browse-bin_4&ds=v1%3Am6CD5ZxGIzzedwAklFPAo4etAixjR4MVuy%2Fj0j4DQbc
+        - text: Sprint
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Straight Talk filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_twenty-one_browse-bin%3A17881868011&dc&qid=1754303457&rnid=17881854011&ref=sr_nr_p_n_feature_twenty-one_browse-bin_5&ds=v1%3AGnc4mpGDosaFz63suP4mR%2BiU2Rw9wieun6OuuojbpM4
+        - text: Straight Talk
+    - listitem "Popular Shopping Ideas":
+      - link "Apply T-Mobile filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_twenty-one_browse-bin%3A17881869011&dc&qid=1754303457&rnid=17881854011&ref=sr_nr_p_n_feature_twenty-one_browse-bin_6&ds=v1%3AxLgLaRXrl36aOCrXaKcNTitXGrU%2F%2BNu5Km5kiUbKtD4
+        - text: T-Mobile
+    - listitem "Popular Shopping Ideas":
+      - link "Apply TracFone Wireless filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_twenty-one_browse-bin%3A17881871011&dc&qid=1754303457&rnid=17881854011&ref=sr_nr_p_n_feature_twenty-one_browse-bin_7&ds=v1%3AMRWXLQCihxWszLXKyJoUr0R%2Bl%2FBGQ2SHqYUrBIHPD%2Bw
+        - text: TracFone Wireless
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Unlocked filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_twenty-one_browse-bin%3A21596696011&dc&qid=1754303457&rnid=17881854011&ref=sr_nr_p_n_feature_twenty-one_browse-bin_8&ds=v1%3AHfHxBP8XhGR4ImP6OVYahNVxmNafViWz81dG3EU%2FxO0
+        - text: Unlocked
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Verizon Wireless filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_twenty-one_browse-bin%3A17881873011&dc&qid=1754303457&rnid=17881854011&ref=sr_nr_p_n_feature_twenty-one_browse-bin_9&ds=v1%3AMgLAuE3QYNjN4l%2FTxYIFi7i2pdt1xB1QHIceL34Dvms
+        - text: Verizon Wireless
+- group "Storage Capacity":
+  - heading "Storage Capacity" [level=2]
+  - list "Storage Capacity":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Up to 3.9 GB filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003492455111%3A25926954011&dc&qid=1754303457&rnid=25926948011&ref=sr_nr_p_n_g-1003492455111_1&ds=v1%3ACP5Fu57Qx8gwun1iOcQFXOZ7todXbrqGRsY%2Bi5t9v4Q
+        - text: Up to 3.9 GB
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 4 GB filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003492455111%3A25926956011&dc&qid=1754303457&rnid=25926948011&ref=sr_nr_p_n_g-1003492455111_2&ds=v1%3A7sy41d8EGZY3Ocy7STmY%2Bz1FGv1OTp6h65VFTmgKx5s
+        - text: 4 GB
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 8 GB filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003492455111%3A25926952011&dc&qid=1754303457&rnid=25926948011&ref=sr_nr_p_n_g-1003492455111_3&ds=v1%3AdFTBs3foB8lnO55L5QLdptsmpFJSiPxbI2by%2FEDAnys
+        - text: 8 GB
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 16 GB filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003492455111%3A25926958011&dc&qid=1754303457&rnid=25926948011&ref=sr_nr_p_n_g-1003492455111_4&ds=v1%3As%2BT303tBPObz5z3NFm43BdkdC1bUBHUROtMl0D2nKKU
+        - text: 16 GB
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 32 GB filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003492455111%3A108501312011&dc&qid=1754303457&rnid=25926948011&ref=sr_nr_p_n_g-1003492455111_5&ds=v1%3AsWQgECaaLxIa2VncICN1EJdKQw9srJjs%2BUeldA1%2FAMo
+        - text: 32 GB
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 64 GB filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003492455111%3A108501315011&dc&qid=1754303457&rnid=25926948011&ref=sr_nr_p_n_g-1003492455111_6&ds=v1%3A6Mwim2SvkGRcLAMwSoWs%2BFoKQeGP164hzCvhxVQfbR0
+        - text: 64 GB
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 128 GB filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003492455111%3A108501313011&dc&qid=1754303457&rnid=25926948011&ref=sr_nr_p_n_g-1003492455111_7&ds=v1%3AThyIcVo7cLUQ5Re1NBgFm9Jr29K1tjIGSa8JsUGVdK0
+        - text: 128 GB
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 256 GB filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003492455111%3A108501314011&dc&qid=1754303457&rnid=25926948011&ref=sr_nr_p_n_g-1003492455111_8&ds=v1%3AAgRJ8%2BanfLyej5F36VQpU8yIeNPj3KHzSMVTA4uxGx8
+        - text: 256 GB
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 512 GB & above filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003492455111%3A120222017011&dc&qid=1754303457&rnid=25926948011&ref=sr_nr_p_n_g-1003492455111_9&ds=v1%3AV1NVfQZEuYf25ly1Nvz7V3FCEt1PtvecFEBMZvoZNco
+        - text: 512 GB & above
+- group "Operating System Version":
+  - heading "Operating System Version" [level=2]
+  - list "Operating System Version":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply iOS 16 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003517064111%3A69690504011&dc&qid=1754303457&rnid=36816607011&ref=sr_nr_p_n_g-1003517064111_1&ds=v1%3A00pfebkD9Je8P5NwReA02ZtLEMhXH6qqq8Ruyl%2BVKtM
+        - text: iOS 16
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Android 13.0 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003517064111%3A36816631011&dc&qid=1754303457&rnid=36816607011&ref=sr_nr_p_n_g-1003517064111_2&ds=v1%3AVwn6j7c56PiNZraqKhb%2FO0AHQ4DrQn%2FOHkJxQ2c42C4
+        - text: Android 13.0
+    - listitem "Popular Shopping Ideas":
+      - link "Apply iOS 17 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003517064111%3A206815307011&dc&qid=1754303457&rnid=36816607011&ref=sr_nr_p_n_g-1003517064111_3&ds=v1%3ADqUcPizhbhdB1WHMwvLESF9AHFoGcA2s2us6Oigz2ok
+        - text: iOS 17
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Android 10.0 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003517064111%3A36816640011&dc&qid=1754303457&rnid=36816607011&ref=sr_nr_p_n_g-1003517064111_4&ds=v1%3ANnJD8rRgvyUz6aPTj0rJRn3AiBjVm%2FHlt4S8m6r9DfE
+        - text: Android 10.0
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Android 11.0 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003517064111%3A36816644011&dc&qid=1754303457&rnid=36816607011&ref=sr_nr_p_n_g-1003517064111_5&ds=v1%3AtspAWHto%2BXtTgnagYw1NLPVAAv31H5jnTYQ53D%2F0LTo
+        - text: Android 11.0
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Android 12.0 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003517064111%3A36816641011&dc&qid=1754303457&rnid=36816607011&ref=sr_nr_p_n_g-1003517064111_6&ds=v1%3Ad8TBG1l04WUyOJ7BlrlpPQNXQ1nonyAxYZVJark0zFA
+        - text: Android 12.0
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Android 9.0 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003517064111%3A36816651011&dc&qid=1754303457&rnid=36816607011&ref=sr_nr_p_n_g-1003517064111_7&ds=v1%3Af0JFE4ElOFRHfjd6ttiOCu7QJ7y1DstanE4nV9JQL08
+        - text: Android 9.0
+    - listitem:
+      - button "See more, Operating System Version": See more
+- group "Customer Review":
+  - heading "Customer Review" [level=2]
+  - list "Customer Review":
+    - listitem:
+      - link "Apply 4 Stars & Up filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_72%3A2491149011&dc&qid=1754303457&rnid=2491147011&ref=sr_nr_p_72_1&ds=v1%3AZH8kYM%2FGxiqwoMgx9j04aRCgfvfnEAGbfWD0GqsoysI
+        - text: 4 Stars & Up
+- group "Model Year":
+  - heading "Model Year" [level=2]
+  - list "Model Year":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 2024 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_nine_browse-bin%3A23732470011&dc&qid=1754303457&rnid=4972967011&ref=sr_nr_p_n_feature_nine_browse-bin_1&ds=v1%3AWVCBWWqAWMwUTHGeKG3c9I8siekAUoZ9saODNIgZJKw
+        - text: "2024"
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 2023 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_nine_browse-bin%3A23732468011&dc&qid=1754303457&rnid=4972967011&ref=sr_nr_p_n_feature_nine_browse-bin_2&ds=v1%3A%2BEZmW2OnHojy%2BjzxcGyU8pHUnRE7ASjPLQTlbRa6nSI
+        - text: "2023"
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 2022 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_nine_browse-bin%3A23732472011&dc&qid=1754303457&rnid=4972967011&ref=sr_nr_p_n_feature_nine_browse-bin_3&ds=v1%3A%2F5H7SXM2eUDIEiX92SbaMSNo3AgDEpPm%2Fo8mVQU%2BCWk
+        - text: "2022"
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 2021 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_nine_browse-bin%3A23478599011&dc&qid=1754303457&rnid=4972967011&ref=sr_nr_p_n_feature_nine_browse-bin_4&ds=v1%3A0oVh9Calqw8%2B3UeNcjvuOHiXgsByoWIx%2Bg7Z4hUDDzA
+        - text: "2021"
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 2020 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_nine_browse-bin%3A21103541011&dc&qid=1754303457&rnid=4972967011&ref=sr_nr_p_n_feature_nine_browse-bin_5&ds=v1%3AkWbjKoIT0MjPuIe83OEXAm01X%2FudxrFYuuvhHEj%2FjTs
+        - text: "2020"
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 2019 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_nine_browse-bin%3A18778665011&dc&qid=1754303457&rnid=4972967011&ref=sr_nr_p_n_feature_nine_browse-bin_6&ds=v1%3AGVnnRG6yVkDlEvkVbQZ%2Boy4Q4sngb2rCg9s68OtecL0
+        - text: "2019"
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 2018 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_nine_browse-bin%3A17599302011&dc&qid=1754303457&rnid=4972967011&ref=sr_nr_p_n_feature_nine_browse-bin_7&ds=v1%3AWcgWneW5lDhNbP72wOF4nlfggUUmEKn2TpJKyLJ%2F8og
+        - text: "2018"
+    - listitem:
+      - button "See more, Model Year": See more
+- group "Color":
+  - heading "Color" [level=2]
+  - list "Color":
+    - listitem:
+      - link "Apply Black filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_two_browse-bin%3A17352535011&dc&qid=1754303457&rnid=17352534011&ref=sr_nr_p_n_feature_two_browse-bin_1&ds=v1%3A0tEktFktcpNzBFrd808mNtAsuB6XBcC%2BshQ5a2XwDxw
+    - listitem:
+      - link "Apply Blue filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_two_browse-bin%3A17352545011&dc&qid=1754303457&rnid=17352534011&ref=sr_nr_p_n_feature_two_browse-bin_2&ds=v1%3AyjeH6lrL9AjjKDbRNczHd0wUzlN%2FckPCMPxY%2F1fKapA
+    - listitem:
+      - link "Apply Green filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_two_browse-bin%3A17352544011&dc&qid=1754303457&rnid=17352534011&ref=sr_nr_p_n_feature_two_browse-bin_3&ds=v1%3AVdcFobxP7C6zOnrpBGPTUAF0CMOyzB%2BfGhL8eSvm4%2Bo
+    - listitem:
+      - link "Apply White filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_two_browse-bin%3A17352537011&dc&qid=1754303457&rnid=17352534011&ref=sr_nr_p_n_feature_two_browse-bin_4&ds=v1%3AKrVJWV4lBNCWp0vsyWTDD3U9HzPsh2zvTvZTNrY1bdo
+    - listitem:
+      - link "Apply Gold filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_two_browse-bin%3A17352547011&dc&qid=1754303457&rnid=17352534011&ref=sr_nr_p_n_feature_two_browse-bin_5&ds=v1%3AXC9ZbbXq9rrJYPlLnEM%2BYgbGuFH6wMiEp9CtOtl5o3A
+    - listitem:
+      - link "Apply Silver filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_two_browse-bin%3A17352548011&dc&qid=1754303457&rnid=17352534011&ref=sr_nr_p_n_feature_two_browse-bin_6&ds=v1%3A7f1PYlhgFTqWnv58zmP456lmhYpQvtGlawkU66Hlojg
+    - listitem:
+      - link "Apply Red filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_two_browse-bin%3A17352540011&dc&qid=1754303457&rnid=17352534011&ref=sr_nr_p_n_feature_two_browse-bin_7&ds=v1%3AnuC%2FdcSzf%2B0Twpw4ZUyMZZEQa35Fnlbib6jEFWpbkvk
+    - listitem:
+      - link "Apply Grey filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_two_browse-bin%3A17352536011&dc&qid=1754303457&rnid=17352534011&ref=sr_nr_p_n_feature_two_browse-bin_8&ds=v1%3Ahs2HE%2F9sH6HCR8kkCcm3ULhQW4OSk%2FqncAzMrR%2BpGm8
+    - listitem:
+      - link "Apply Pink filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_two_browse-bin%3A17352541011&dc&qid=1754303457&rnid=17352534011&ref=sr_nr_p_n_feature_two_browse-bin_9&ds=v1%3AKzExF%2BA5OmoCthw00iPLo2Y3X9qW%2FXzKTZ9LTEfBk%2Fk
+    - listitem:
+      - link "Apply Purple filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_two_browse-bin%3A17352546011&dc&qid=1754303457&rnid=17352534011&ref=sr_nr_p_n_feature_two_browse-bin_10&ds=v1%3AtJL6ASD%2F6tCPUvmUOvUZ%2B7NKzF3EhKf%2FfiyaerC%2BS%2Fs
+    - listitem:
+      - link "Apply Yellow filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_two_browse-bin%3A17352543011&dc&qid=1754303457&rnid=17352534011&ref=sr_nr_p_n_feature_two_browse-bin_11&ds=v1%3ACawm1v6YaIadAnPpR4Mwuu7OgcaRnM3wor3IKMBVBM0
+- group "Display Size":
+  - heading "Display Size" [level=2]
+  - list "Display Size":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Up to 3.9 in filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_seven_browse-bin%3A6215727011&dc&qid=1754303457&rnid=6215726011&ref=sr_nr_p_n_feature_seven_browse-bin_1&ds=v1%3AUBwDAKw%2Bt%2Fc1xmcMs6iokuu1L7htjao%2Bf9U4WiElxYg
+        - text: Up to 3.9 in
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 4 to 4.4 in filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_seven_browse-bin%3A6215728011&dc&qid=1754303457&rnid=6215726011&ref=sr_nr_p_n_feature_seven_browse-bin_2&ds=v1%3AhyslsSFrPSCpZXu10UZ3lYFjJmU5FfbzY0LeWUPvEcI
+        - text: 4 to 4.4 in
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 4.5 to 4.9 in filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_seven_browse-bin%3A6215729011&dc&qid=1754303457&rnid=6215726011&ref=sr_nr_p_n_feature_seven_browse-bin_3&ds=v1%3AmiqIXC3d80an2wjNAWGCuB%2BevO97QguPBekNeyTR1Uo
+        - text: 4.5 to 4.9 in
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 5 to 5.4 in filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_seven_browse-bin%3A6215730011&dc&qid=1754303457&rnid=6215726011&ref=sr_nr_p_n_feature_seven_browse-bin_4&ds=v1%3AarZMnWnDCBu%2FtA%2Btzz0Ir1yKqX42BJbNl1nQNqKVwsA
+        - text: 5 to 5.4 in
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 5.5 in & above filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_seven_browse-bin%3A6215731011&dc&qid=1754303457&rnid=6215726011&ref=sr_nr_p_n_feature_seven_browse-bin_5&ds=v1%3AXUnazdg%2B129aikamoL4g%2Fpbk%2FALcCWWolNpSVeI0ngk
+        - text: 5.5 in & above
+- group "Connectivity":
+  - heading "Connectivity" [level=2]
+  - list "Connectivity":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Bluetooth filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_seventeen_browse-bin%3A23488162011&dc&qid=1754303457&rnid=23488159011&ref=sr_nr_p_n_feature_seventeen_browse-bin_1&ds=v1%3A%2FKuVm%2B%2FBXDok32BhRkwZuJp4EicCxw3Blj9fv%2FL4USo
+        - text: Bluetooth
+    - listitem "Popular Shopping Ideas":
+      - link "Apply NFC filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_seventeen_browse-bin%3A23488164011&dc&qid=1754303457&rnid=23488159011&ref=sr_nr_p_n_feature_seventeen_browse-bin_2&ds=v1%3AsvD%2BRBJRKq1XuvGQsLdhqi1GN1vQjqOacyfmI3wUjpc
+        - text: NFC
+    - listitem "Popular Shopping Ideas":
+      - link "Apply USB filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_seventeen_browse-bin%3A23488161011&dc&qid=1754303457&rnid=23488159011&ref=sr_nr_p_n_feature_seventeen_browse-bin_3&ds=v1%3AnOjudU2TW2BrJUhOR2P3%2F3bRGpAIfwNICUxjrEm9%2B2A
+        - text: USB
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Wi-Fi filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_seventeen_browse-bin%3A23488163011&dc&qid=1754303457&rnid=23488159011&ref=sr_nr_p_n_feature_seventeen_browse-bin_4&ds=v1%3AxIG%2FffPkcQrjQdz8IMsfrq%2BvjmlcI%2BQe%2FWOe4zMlkMQ
+        - text: Wi-Fi
+- group "Water Resistance Level":
+  - heading "Water Resistance Level" [level=2]
+  - list "Water Resistance Level":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Not Water Resistant filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_keywords_two_browse-bin%3A23484212011&dc&qid=1754303457&rnid=11636674011&ref=sr_nr_p_n_feature_keywords_two_browse-bin_1&ds=v1%3AehCoDNfzWAb35c9pzXuVdXoWUg6CqGNSNDzG5YXqw3M
+        - text: Not Water Resistant
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Water-Resistant filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_keywords_two_browse-bin%3A11636675011&dc&qid=1754303457&rnid=11636674011&ref=sr_nr_p_n_feature_keywords_two_browse-bin_2&ds=v1%3AnnuW4cPR6Hy2%2BRdtvGNl%2BGNn%2BDzGQCv0khaZ06V050I
+        - text: Water-Resistant
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Waterproof filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_keywords_two_browse-bin%3A11636676011&dc&qid=1754303457&rnid=11636674011&ref=sr_nr_p_n_feature_keywords_two_browse-bin_3&ds=v1%3ACgJ1BD82jGKJJM7a4FHqMwv%2FDegKSgFJFhCUT5YP25w
+        - text: Waterproof
+- group "Premium Brands":
+  - heading "Premium Brands" [level=2]
+  - list "Premium Brands":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Premium Brands filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_keywords_browse-bin%3A204376014011&dc&qid=1754303457&rnid=204376013011&ref=sr_nr_p_n_feature_keywords_browse-bin_1&ds=v1%3ASS%2BgzOH%2BlPmEXASdgIsPQTvBsUQkFkBjLVNFAPyuhBs
+        - text: Premium Brands
+- group "Item Length":
+  - heading "Item Length" [level=2]
+  - list "Item Length":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Up to 3.9 in filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015506536111%3A122272652011&dc&qid=1754303457&rnid=122272589011&ref=sr_nr_p_n_g-101015506536111_1&ds=v1%3Ar7tCyFOaj4dehQqkKVuRgMCkzX5CfLcBo2LdgayyoMQ
+        - text: Up to 3.9 in
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 5 to 5.9 in filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015506536111%3A122272650011&dc&qid=1754303457&rnid=122272589011&ref=sr_nr_p_n_g-101015506536111_2&ds=v1%3A%2FRpBaLUJ1cFSGY%2BnUU2Vquq6Ms5Y9cUf1gXGHvGxukQ
+        - text: 5 to 5.9 in
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 6 in & above filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015506536111%3A122272651011&dc&qid=1754303457&rnid=122272589011&ref=sr_nr_p_n_g-101015506536111_3&ds=v1%3ABPFFwSEVULvccDujQCwm7ZE4GNQJhW%2B8Ibf23N%2BugEQ
+        - text: 6 in & above
+- group "Battery Life":
+  - heading "Battery Life" [level=2]
+  - list "Battery Life":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 7 to 12.9 h filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003486052111%3A24676801011&dc&qid=1754303457&rnid=24676504011&ref=sr_nr_p_n_g-1003486052111_1&ds=v1%3A2e5qLrqqYsMnouI1XPV1pn0NftDFFlq9sC3dq4ZN14k
+        - text: 7 to 12.9 h
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 13 to 18.9 h filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003486052111%3A24676802011&dc&qid=1754303457&rnid=24676504011&ref=sr_nr_p_n_g-1003486052111_2&ds=v1%3AaDq2lcalO2ewfvyez918zU9U00GXXJEWJYH9gQoNFDY
+        - text: 13 to 18.9 h
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 19 h & above filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003486052111%3A24676800011&dc&qid=1754303457&rnid=24676504011&ref=sr_nr_p_n_g-1003486052111_3&ds=v1%3Ayn2TPjAtYsB8cAzK%2FOX8oQHAgV6PWHtqautBwSKzbQk
+        - text: 19 h & above
+- group "SIM Card Slot Count":
+  - heading "SIM Card Slot Count" [level=2]
+  - list "SIM Card Slot Count":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Single SIM filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1002989427111%3A23627289011&dc&qid=1754303457&rnid=23627287011&ref=sr_nr_p_n_g-1002989427111_1&ds=v1%3AO75h9uBC3SHQ%2BQEOEXvwXtjjzF109taA29s%2Fegztr5c
+        - text: Single SIM
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Dual SIM filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1002989427111%3A23627290011&dc&qid=1754303457&rnid=23627287011&ref=sr_nr_p_n_g-1002989427111_2&ds=v1%3AQenqFoYNTHiFJho%2FAkjFQHgynsDRSaAPa%2Bf5mldLudc
+        - text: Dual SIM
+- group "Security Feature":
+  - heading "Security Feature" [level=2]
+  - list "Security Feature":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Face Recognition filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_four_browse-bin%3A23478592011&dc&qid=1754303457&rnid=23478591011&ref=sr_nr_p_n_feature_four_browse-bin_1&ds=v1%3AurUjPFz4TyLVben0ojWSsvaHPLfIg8SAMmFxqz49TxM
+        - text: Face Recognition
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Fingerprint Recognition filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_four_browse-bin%3A23478596011&dc&qid=1754303457&rnid=23478591011&ref=sr_nr_p_n_feature_four_browse-bin_2&ds=v1%3AoYItQAEAdm0%2BVRssXYnt%2FcncBQvbXDkpvvgm768vSAE
+        - text: Fingerprint Recognition
+- group "GPS Navigation":
+  - heading "GPS Navigation" [level=2]
+  - list "GPS Navigation":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply False filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015364874111%3A121475839011&dc&qid=1754303457&rnid=121475810011&ref=sr_nr_p_n_g-101015364874111_1&ds=v1%3AxGlngXfc8wwPk2TxIsSO6Rvk8yo3rA8IYbVyUlMdrCc
+        - text: "False"
+    - listitem "Popular Shopping Ideas":
+      - link "Apply True filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015364874111%3A121475838011&dc&qid=1754303457&rnid=121475810011&ref=sr_nr_p_n_g-101015364874111_2&ds=v1%3AN3%2FvxXuQ0f2ej3gbpzQdbVwT%2BwTpClzPlaJcD%2BwTtFA
+        - text: "True"
+- group "Item Width":
+  - heading "Item Width" [level=2]
+  - list "Item Width":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Up to 1 in filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015506639111%3A122272648011&dc&qid=1754303457&rnid=122272588011&ref=sr_nr_p_n_g-101015506639111_1&ds=v1%3A%2FA5QwfxFnEtXdmSxrcdgxJQ7WNeOW%2Bj0AwAEclFHIPk
+        - text: Up to 1 in
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 1 to 1.9 in filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015506639111%3A122272646011&dc&qid=1754303457&rnid=122272588011&ref=sr_nr_p_n_g-101015506639111_2&ds=v1%3Ac6dsTJdYUat7yymHJChdwcJtyXytgEbACNhqy1CqaUM
+        - text: 1 to 1.9 in
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 2 to 2.9 in filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015506639111%3A122272647011&dc&qid=1754303457&rnid=122272588011&ref=sr_nr_p_n_g-101015506639111_3&ds=v1%3ATWdqQz6zQ6dgqO3K6OsqeaexZwsMSY96ab%2Fo%2FX0Vg%2BA
+        - text: 2 to 2.9 in
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 3 in & above filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015506639111%3A122272649011&dc&qid=1754303457&rnid=122272588011&ref=sr_nr_p_n_g-101015506639111_4&ds=v1%3AEN%2FButowyExvPmHsnyrKbNOhqm%2BEgxYerDEG2UfBjT8
+        - text: 3 in & above
+- group "Wireless Network Technology":
+  - heading "Wireless Network Technology" [level=2]
+  - list "Wireless Network Technology":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply GSM filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015498571111%3A122269820011&dc&qid=1754303457&rnid=122269791011&ref=sr_nr_p_n_g-101015498571111_1&ds=v1%3AXvkNjq4TEwQONpp4AhEJNChjyjEwRrJzAr4seJ2%2BFeA
+        - text: GSM
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Wi-Fi filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015498571111%3A122269816011&dc&qid=1754303457&rnid=122269791011&ref=sr_nr_p_n_g-101015498571111_2&ds=v1%3Ac72jGYfett4MAbw5gZaMsdKcl1zV8Wz%2Fgvru%2FPWLuVU
+        - text: Wi-Fi
+    - listitem "Popular Shopping Ideas":
+      - link "Apply LTE filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015498571111%3A122269818011&dc&qid=1754303457&rnid=122269791011&ref=sr_nr_p_n_g-101015498571111_3&ds=v1%3ATmLQ2DDB883fSdZxyRrHaGsWd0YaFysoQ03WFXM%2BDRg
+        - text: LTE
+    - listitem "Popular Shopping Ideas":
+      - link "Apply CDMA filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015498571111%3A122269825011&dc&qid=1754303457&rnid=122269791011&ref=sr_nr_p_n_g-101015498571111_4&ds=v1%3AXEl5Cxerlynv3yBit5QuNgFryAJ9RrXe0o5xOPrWO7E
+        - text: CDMA
+    - listitem "Popular Shopping Ideas":
+      - link "Apply UMTS filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015498571111%3A122269822011&dc&qid=1754303457&rnid=122269791011&ref=sr_nr_p_n_g-101015498571111_5&ds=v1%3AnB1dg%2BM4EXt2y1REXWvgNoblUrXNXo3pBY9hHeQc9lw
+        - text: UMTS
+- group "Display Type":
+  - heading "Display Type" [level=2]
+  - list "Display Type":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply AMOLED filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101013595158111%3A78258532011&dc&qid=1754303457&rnid=78258466011&ref=sr_nr_p_n_g-101013595158111_1&ds=v1%3APmLYb8auBhp7aDO3G1zZsPm0OSoJjNtcAy7X3Nq5zrs
+        - text: AMOLED
+    - listitem "Popular Shopping Ideas":
+      - link "Apply LCD filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101013595158111%3A78258530011&dc&qid=1754303457&rnid=78258466011&ref=sr_nr_p_n_g-101013595158111_2&ds=v1%3AtLWUAfMM%2BmTN2AnOuk%2FZUvsHcO0WQXu9KduTXh9Ht%2Bc
+        - text: LCD
+    - listitem "Popular Shopping Ideas":
+      - link "Apply OLED filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101013595158111%3A78258533011&dc&qid=1754303457&rnid=78258466011&ref=sr_nr_p_n_g-101013595158111_3&ds=v1%3AelQp2jGjcozLeBISx8YariEHO6fCTyXCWr3YF1%2FebxE
+        - text: OLED
+- group "Video Capture Resolution":
+  - heading "Video Capture Resolution" [level=2]
+  - list "Video Capture Resolution":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 1080p filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003305462111%3A23968004011&dc&qid=1754303457&rnid=23967999011&ref=sr_nr_p_n_g-1003305462111_1&ds=v1%3AtqLSX0LNXI4Jv7VUOshZiGAhxSq2gBxnNfyhsEu2Iik
+        - text: 1080p
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 4k filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003305462111%3A23968003011&dc&qid=1754303457&rnid=23967999011&ref=sr_nr_p_n_g-1003305462111_2&ds=v1%3AEzg09HtaXoZ7OwigrlkCDphmmw%2FCzTMmREk6bTH4mSU
+        - text: 4k
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 720p filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003305462111%3A23968002011&dc&qid=1754303457&rnid=23967999011&ref=sr_nr_p_n_g-1003305462111_3&ds=v1%3ABwW81kSS4j9oQeB%2Ba4fkuiD8%2BX5uPaTCImwW53mJHTw
+        - text: 720p
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 8k filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003305462111%3A23968005011&dc&qid=1754303457&rnid=23967999011&ref=sr_nr_p_n_g-1003305462111_4&ds=v1%3AiMrkOSQrWbTQDW1wEIbe6UnK3MruIQnBld4Bh6DktR4
+        - text: 8k
+- group "Battery Capacity":
+  - heading "Battery Capacity" [level=2]
+  - list "Battery Capacity":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Up to 2,999 mAh filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015098008111%3A120185115011&dc&qid=1754303457&rnid=120185111011&ref=sr_nr_p_n_g-101015098008111_1&ds=v1%3AMckHIz1Y0Dl2PU50HVYthXdEcINlAIq%2F2QlPKqyCW%2Fg
+        - text: Up to 2,999 mAh
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 3,000 to 3,999 mAh filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015098008111%3A120185114011&dc&qid=1754303457&rnid=120185111011&ref=sr_nr_p_n_g-101015098008111_2&ds=v1%3ACsWJKOMMsN4mFqqSuPxhsa5Pym96PxU7r9lAmwzv8yk
+        - text: 3,000 to 3,999 mAh
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 4,000 to 4,999 mAh filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015098008111%3A120185112011&dc&qid=1754303457&rnid=120185111011&ref=sr_nr_p_n_g-101015098008111_3&ds=v1%3A3xZm5nLnaOp8AvB10GQ%2Bwyry2%2Fl5aiNPd6D4BR6uLGs
+        - text: 4,000 to 4,999 mAh
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 5,000 to 5,999 mAh filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015098008111%3A120185113011&dc&qid=1754303457&rnid=120185111011&ref=sr_nr_p_n_g-101015098008111_4&ds=v1%3A4rf48YeJf9UEueIvpPCvPN7tG%2Bh92OGv8Gw1Xifc%2Bok
+        - text: 5,000 to 5,999 mAh
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 6,000 mAh & Above filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015098008111%3A120224515011&dc&qid=1754303457&rnid=120185111011&ref=sr_nr_p_n_g-101015098008111_5&ds=v1%3ACbcCnLu4BNC7EaFfkVP1wylZrkbgZqdLdzuETwDI6MI
+        - text: 6,000 mAh & Above
+- group "Display Refresh Rate":
+  - heading "Display Refresh Rate" [level=2]
+  - list "Display Refresh Rate":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Up to 88 Hz filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003533222111%3A41942730011&dc&qid=1754303457&rnid=41941871011&ref=sr_nr_p_n_g-1003533222111_1&ds=v1%3ALw8z7ZpEoGH1qdlYFUG40uNtupHpY8X84J96Z0nZdGE
+        - text: Up to 88 Hz
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 89 to 104 Hz filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003533222111%3A41942728011&dc&qid=1754303457&rnid=41941871011&ref=sr_nr_p_n_g-1003533222111_2&ds=v1%3AQaQZ1SZ%2FLOwdPTg0D7lj5zyCu3VPx%2FNqcMCgPakQQco
+        - text: 89 to 104 Hz
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 105 to 120 Hz filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003533222111%3A41942731011&dc&qid=1754303457&rnid=41941871011&ref=sr_nr_p_n_g-1003533222111_3&ds=v1%3ASzhUuBxm3mK2bEWO%2Bdjt4akyxaAwV04hXDRx8EeYP%2B8
+        - text: 105 to 120 Hz
+- group "Item Height":
+  - heading "Item Height" [level=2]
+  - list "Item Height":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Up to 1 in filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015506410111%3A122272655011&dc&qid=1754303457&rnid=122272590011&ref=sr_nr_p_n_g-101015506410111_1&ds=v1%3AlF7iwiQROqh7V3kSCZTlup0%2Fz5Q5uxivFHG03UECv%2Bk
+        - text: Up to 1 in
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 1 to 1.9 in filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015506410111%3A122272657011&dc&qid=1754303457&rnid=122272590011&ref=sr_nr_p_n_g-101015506410111_2&ds=v1%3AlvYmYPTLY4negejNzQ1JTF0xNtFjFPLYdg27VzePVrA
+        - text: 1 to 1.9 in
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 2 to 2.9 in filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015506410111%3A122272654011&dc&qid=1754303457&rnid=122272590011&ref=sr_nr_p_n_g-101015506410111_3&ds=v1%3Aru3YFwDlFzlXexEEXHmdPgtOBQfxOYwg6XMOpg9hXqc
+        - text: 2 to 2.9 in
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 3 in & above filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015506410111%3A122272656011&dc&qid=1754303457&rnid=122272590011&ref=sr_nr_p_n_g-101015506410111_4&ds=v1%3A77UILSrO7E77Bj4N3M4Y6qBVDQDHw20p3t66YzP%2FsEU
+        - text: 3 in & above
+- group "Battery Type":
+  - heading "Battery Type" [level=2]
+  - list "Battery Type":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Lithium-Ion filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015500034111%3A122268278011&dc&qid=1754303457&rnid=122268177011&ref=sr_nr_p_n_g-101015500034111_1&ds=v1%3AS3U9OHYLx4cZq2zrHdp8%2FAQQvA59tA1ApcA7qbIeuic
+        - text: Lithium-Ion
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Lithium-Polymer filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015500034111%3A122268275011&dc&qid=1754303457&rnid=122268177011&ref=sr_nr_p_n_g-101015500034111_2&ds=v1%3ASbnGj%2FkcfPdIpv1m5QNmt9NBoj%2B9t%2FK02BrveSKK0hI
+        - text: Lithium-Polymer
+- group "SIM Card Size":
+  - heading "SIM Card Size" [level=2]
+  - list "SIM Card Size":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply eSIM filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1002989370111%3A23641564011&dc&qid=1754303457&rnid=23641563011&ref=sr_nr_p_n_g-1002989370111_1&ds=v1%3AKssSqvTyBVFUHDBLi%2FlI0dZ9H9GZm2cvOQ%2FqcyOvyfA
+        - text: eSIM
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Micro filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1002989370111%3A23641565011&dc&qid=1754303457&rnid=23641563011&ref=sr_nr_p_n_g-1002989370111_2&ds=v1%3ATGmw4vX%2BqWveGTxcJKMPrSMXUUYg%2BP7509i0PauUUPo
+        - text: Micro
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Mini filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1002989370111%3A23641567011&dc&qid=1754303457&rnid=23641563011&ref=sr_nr_p_n_g-1002989370111_3&ds=v1%3AHUJNURoCeN2mvlOQFJgF3fKkgOvAjYgtZ%2B5vPW8k9rQ
+        - text: Mini
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Nano filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1002989370111%3A23641566011&dc&qid=1754303457&rnid=23641563011&ref=sr_nr_p_n_g-1002989370111_4&ds=v1%3APJ0JzRv%2Fwgxp3MYIKoXah9rPQrU1uvCVv6z6fBJpGoo
+        - text: Nano
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Standard filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1002989370111%3A23641568011&dc&qid=1754303457&rnid=23641563011&ref=sr_nr_p_n_g-1002989370111_5&ds=v1%3AFTkMMBgkgloQB0prRbYNywgW6VO4U3dLtcPTFyg8rPY
+        - text: Standard
+- group "RAM Size":
+  - heading "RAM Size" [level=2]
+  - list "RAM Size":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Up to 1.9 GB filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003495121111%3A26277006011&dc&qid=1754303457&rnid=26276986011&ref=sr_nr_p_n_g-1003495121111_1&ds=v1%3AuupycgGccMZLTGEVaiosNpFe9vfCL1TFwaTb0%2FDlPVM
+        - text: Up to 1.9 GB
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 2 to 3.9 GB filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003495121111%3A26277004011&dc&qid=1754303457&rnid=26276986011&ref=sr_nr_p_n_g-1003495121111_2&ds=v1%3AJwp0reEtovW1ayJLr3gfi3H1PRTWf7pjCBO6Je5RYEk
+        - text: 2 to 3.9 GB
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 4 to 5.9 GB filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003495121111%3A26277007011&dc&qid=1754303457&rnid=26276986011&ref=sr_nr_p_n_g-1003495121111_3&ds=v1%3AZDOLge5H5pKNhqSwE6%2FM76hcS80ZT0TEPDMsvxwWKiw
+        - text: 4 to 5.9 GB
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 6 to 7.9 GB filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003495121111%3A26277002011&dc&qid=1754303457&rnid=26276986011&ref=sr_nr_p_n_g-1003495121111_4&ds=v1%3AviJ0vCj3ijWULImWhCgZfjTnV%2BYaHj%2FhkbaADUioTNs
+        - text: 6 to 7.9 GB
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 8 to 9.9 GB filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003495121111%3A26277003011&dc&qid=1754303457&rnid=26276986011&ref=sr_nr_p_n_g-1003495121111_5&ds=v1%3AHIb%2BxqDaHB19Ku0fNR5NPrArSSZI8WV1YOWBFi0a6bI
+        - text: 8 to 9.9 GB
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 10 GB & above filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-1003495121111%3A26277005011&dc&qid=1754303457&rnid=26276986011&ref=sr_nr_p_n_g-1003495121111_6&ds=v1%3Aqf%2Bb3FEV2MUIhNROsFibnxVG%2BwltBFNYnIcV76oD7cI
+        - text: 10 GB & above
+- group "Phone Talk Time":
+  - heading "Phone Talk Time" [level=2]
+  - list "Phone Talk Time":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Up to 9 h filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015498402111%3A122268309011&dc&qid=1754303457&rnid=122268185011&ref=sr_nr_p_n_g-101015498402111_1&ds=v1%3ARNNQ96%2Fp1fzdC%2FexgIlrU52v3%2Fechb1HqvPLcoooblU
+        - text: Up to 9 h
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 10 to 14 h filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015498402111%3A122268308011&dc&qid=1754303457&rnid=122268185011&ref=sr_nr_p_n_g-101015498402111_2&ds=v1%3AeoTp5DgFrJp6S2xHqcC4NYdksHyLu9%2FJ%2FLPXixn%2BCBI
+        - text: 10 to 14 h
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 15 to 24 h filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015498402111%3A122268306011&dc&qid=1754303457&rnid=122268185011&ref=sr_nr_p_n_g-101015498402111_3&ds=v1%3AxZMpxAV%2Bn49qd051cdfGgq2Pbb8hV74KVlS7CpYzZhw
+        - text: 15 to 24 h
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 25 h & above filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015498402111%3A122268307011&dc&qid=1754303457&rnid=122268185011&ref=sr_nr_p_n_g-101015498402111_4&ds=v1%3A89NFhV8hi4i8aZ0LcZEnDaZMOJiRGoOinqwj3lZb9ZE
+        - text: 25 h & above
+- group "Camera Resolution":
+  - heading "Camera Resolution" [level=2]
+  - list "Camera Resolution":
+    - listitem "Popular Shopping Ideas": Up to 2.9 MP
+    - listitem "Popular Shopping Ideas": 3 to 4.9 MP
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 5 to 7.9 MP filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_thirteen_browse-bin%3A14674915011&dc&qid=1754303457&rnid=14674912011&ref=sr_nr_p_n_feature_thirteen_browse-bin_3&ds=v1%3ALLD6Vo51oimSkFjgxst1skwnri8BNP60%2FJZlTSP2KeI
+        - text: 5 to 7.9 MP
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 8 to 12.9 MP filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_thirteen_browse-bin%3A14674916011&dc&qid=1754303457&rnid=14674912011&ref=sr_nr_p_n_feature_thirteen_browse-bin_4&ds=v1%3ABim%2BKTQZzokLXtcp5azw6FINZw1IksdkHkTPTHBD3Jc
+        - text: 8 to 12.9 MP
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 13 to 19.9 MP filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_thirteen_browse-bin%3A14674917011&dc&qid=1754303457&rnid=14674912011&ref=sr_nr_p_n_feature_thirteen_browse-bin_5&ds=v1%3Asnt7Wuf%2FdDxnVBeC0Aapo%2BKIb%2FExpFUB2r6wJyHG7ZI
+        - text: 13 to 19.9 MP
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 20 MP & above filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_thirteen_browse-bin%3A14674918011&dc&qid=1754303457&rnid=14674912011&ref=sr_nr_p_n_feature_thirteen_browse-bin_6&ds=v1%3At4aYsFKaQH5VDOU%2BYt62IOQD6bnzOBum7N5QzpIf3wI
+        - text: 20 MP & above
+- group "Connector Type":
+  - heading "Connector Type" [level=2]
+  - list "Connector Type":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 3.5mm Jack filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_six_browse-bin%3A23487393011&dc&qid=1754303457&rnid=23487388011&ref=sr_nr_p_n_feature_six_browse-bin_1&ds=v1%3A58F0iZ1Lv0mQ36uBDECm8pS%2BqaEq1pIQHt%2BNxS9g600
+        - text: 3.5mm Jack
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Lightning filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_six_browse-bin%3A23487390011&dc&qid=1754303457&rnid=23487388011&ref=sr_nr_p_n_feature_six_browse-bin_2&ds=v1%3ArxOA1HndMiVc65GVkEOSjn2whro8EkOC5vYmAY1KOWQ
+        - text: Lightning
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Micro USB filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_six_browse-bin%3A23487389011&dc&qid=1754303457&rnid=23487388011&ref=sr_nr_p_n_feature_six_browse-bin_3&ds=v1%3Aw3zfPMcn9yD3lWtL4npGWlnuumFg%2B99%2FL%2F1waybVeZg
+        - text: Micro USB
+    - listitem "Popular Shopping Ideas":
+      - link "Apply USB Type C filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_six_browse-bin%3A23487392011&dc&qid=1754303457&rnid=23487388011&ref=sr_nr_p_n_feature_six_browse-bin_4&ds=v1%3Ar5i7DnyET16e6URaOfIJIBe%2B0JVDGlZkG0L6y1xVa94
+        - text: USB Type C
+- group "Input":
+  - heading "Input" [level=2]
+  - list "Input":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Touchscreen filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_fourteen_browse-bin%3A23487493011&dc&qid=1754303457&rnid=23487491011&ref=sr_nr_p_n_feature_fourteen_browse-bin_1&ds=v1%3AhnBQomJyB%2FHlEoZy7uDOYbip8EoJKG1S274AWce%2FL6c
+        - text: Touchscreen
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Buttons filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_fourteen_browse-bin%3A23487495011&dc&qid=1754303457&rnid=23487491011&ref=sr_nr_p_n_feature_fourteen_browse-bin_2&ds=v1%3AMuKa8kHgO%2F%2FbpXYXmWqZmfdNw6lQjzebx1Q6%2BgsvAk4
+        - text: Buttons
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Microphone filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_fourteen_browse-bin%3A23487498011&dc&qid=1754303457&rnid=23487491011&ref=sr_nr_p_n_feature_fourteen_browse-bin_3&ds=v1%3A8tYnNq7%2BF2Rbh9AFxUdhb5osTbQp%2F43CBYFRcivOPhs
+        - text: Microphone
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Touchscreen with Stylus Support filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_fourteen_browse-bin%3A23487506011&dc&qid=1754303457&rnid=23487491011&ref=sr_nr_p_n_feature_fourteen_browse-bin_4&ds=v1%3ANqWkw5ggIyTxigJDhc3uK3IzqBaGlNBJKR6TddF2cqs
+        - text: Touchscreen with Stylus Support
+- group "Aspect Ratio":
+  - heading "Aspect Ratio" [level=2]
+  - list "Aspect Ratio":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 16:9 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015688486111%3A204867986011&dc&qid=1754303457&rnid=204867984011&ref=sr_nr_p_n_g-101015688486111_1&ds=v1%3ApxbPDVKGfTJa8YqKPWleNVXdoVPxXLwORRb8b9ttavs
+        - text: 16:9
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 4:3 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015688486111%3A204867985011&dc&qid=1754303457&rnid=204867984011&ref=sr_nr_p_n_g-101015688486111_2&ds=v1%3AC6V1rcAVbSWBtlgz14UCrSTRoKU794%2FpP%2BcIf6RsGv0
+        - text: 4:3
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 5:3 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015688486111%3A204867989011&dc&qid=1754303457&rnid=204867984011&ref=sr_nr_p_n_g-101015688486111_3&ds=v1%3Az89NkHgnj4PR5BbeAkJew9Rv2O0%2F%2FpCSVcfczbxMaEk
+        - text: 5:3
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 5:4 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015688486111%3A204867987011&dc&qid=1754303457&rnid=204867984011&ref=sr_nr_p_n_g-101015688486111_4&ds=v1%3AIuoKopHesRR4bawc9SsbvWL6CNl5tk2R8xFhDLqFgXM
+        - text: 5:4
+- group "Flash":
+  - heading "Flash" [level=2]
+  - list "Flash":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Front Camera Flash filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015500208111%3A122268288011&dc&qid=1754303457&rnid=122268179011&ref=sr_nr_p_n_g-101015500208111_1&ds=v1%3AkiyorKE4FvbYLPZ%2Fl%2BDCcZZ1%2Bk3xtKpkVRBLG9n6PJA
+        - text: Front Camera Flash
+    - listitem "Popular Shopping Ideas":
+      - link "Apply LED filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015500208111%3A122268286011&dc&qid=1754303457&rnid=122268179011&ref=sr_nr_p_n_g-101015500208111_2&ds=v1%3AbiuSdEXGZu688lBnnAo%2FhEqXSLPsgwsxyZhnzb6HQcE
+        - text: LED
+- group "Inclusions":
+  - heading "Inclusions" [level=2]
+  - list "Inclusions":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply USB Cable filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101013594324111%3A78258515011&dc&qid=1754303457&rnid=78258464011&ref=sr_nr_p_n_g-101013594324111_1&ds=v1%3AK3ejwhBs5Hl8NDGe1E9eHUx8z7IMjYm0fMInV17H4ss
+        - text: USB Cable
+    - listitem "Popular Shopping Ideas":
+      - link "Apply SIM Tray Ejector filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101013594324111%3A78258512011&dc&qid=1754303457&rnid=78258464011&ref=sr_nr_p_n_g-101013594324111_2&ds=v1%3Aw71en%2FnAM%2F%2FgH1bQxMeb%2BBjhHo3v%2FnmEfjgPg93DAlM
+        - text: SIM Tray Ejector
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Phone Case filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101013594324111%3A78258524011&dc&qid=1754303457&rnid=78258464011&ref=sr_nr_p_n_g-101013594324111_3&ds=v1%3AVresKaENKkUbYIf%2BKEjnPqnKXbksxlFTZTSPBXHZXMs
+        - text: Phone Case
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Power Adapter filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101013594324111%3A78258526011&dc&qid=1754303457&rnid=78258464011&ref=sr_nr_p_n_g-101013594324111_4&ds=v1%3A6gU2VtVlDgM7oBB7lZZNViGqhMhsHgP0%2BJFNUldhLyY
+        - text: Power Adapter
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Stylus filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101013594324111%3A78258518011&dc&qid=1754303457&rnid=78258464011&ref=sr_nr_p_n_g-101013594324111_5&ds=v1%3AyACRDvA82tjBaYmbP9DR15kyzQxTFy%2B7wVXAW1wHIrE
+        - text: Stylus
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Headset filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101013594324111%3A78258520011&dc&qid=1754303457&rnid=78258464011&ref=sr_nr_p_n_g-101013594324111_6&ds=v1%3AWnXm38stMXzsG6603nMmc0YgVdKgkVtxHTr8A5GMep4
+        - text: Headset
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Screen Protector filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101013594324111%3A78258522011&dc&qid=1754303457&rnid=78258464011&ref=sr_nr_p_n_g-101013594324111_7&ds=v1%3A8Ssuz31N2ErzXTJJ%2FipSDanrLLIVSIuiNyp5PL6b3iM
+        - text: Screen Protector
+- group "Supported Satellite Navigation System":
+  - heading "Supported Satellite Navigation System" [level=2]
+  - list "Supported Satellite Navigation System":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply GPS filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015498432111%3A122268284011&dc&qid=1754303457&rnid=122268178011&ref=sr_nr_p_n_g-101015498432111_1&ds=v1%3AkXnoy3E5W6sOpJGPcMy%2F%2B27OMzS4y0qOaoGw2AyaNhU
+        - text: GPS
+    - listitem "Popular Shopping Ideas":
+      - link "Apply BeiDou filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015498432111%3A122268279011&dc&qid=1754303457&rnid=122268178011&ref=sr_nr_p_n_g-101015498432111_2&ds=v1%3AuW9aSohEofvBY0orsCKllQd8nHKrznoAhyTIoUvfwg0
+        - text: BeiDou
+    - listitem "Popular Shopping Ideas":
+      - link "Apply GLONASS filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015498432111%3A122268282011&dc&qid=1754303457&rnid=122268178011&ref=sr_nr_p_n_g-101015498432111_3&ds=v1%3AHzHkibr3ogMUjZ6BhJuQhl2zy2pKpHragCgeXdm5q1s
+        - text: GLONASS
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Galileo filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015498432111%3A122268283011&dc&qid=1754303457&rnid=122268178011&ref=sr_nr_p_n_g-101015498432111_4&ds=v1%3AI6%2FvF1Bj44KejRePj0ZSxXMg6G6CDYPcnclHQ6ebIHw
+        - text: Galileo
+- group "Display Resolution":
+  - heading "Display Resolution" [level=2]
+  - list "Display Resolution":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 1080 x 2160 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_eight_browse-bin%3A23487409011&dc&qid=1754303457&rnid=23487394011&ref=sr_nr_p_n_feature_eight_browse-bin_1&ds=v1%3A7aXUocsrrWMUSAuvYHiZH6xk0n73D6fclM9ljoPAWow
+        - text: 1080 x 2160
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 1080 x 2280 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_eight_browse-bin%3A23487401011&dc&qid=1754303457&rnid=23487394011&ref=sr_nr_p_n_feature_eight_browse-bin_2&ds=v1%3AUrkDs3lTUon4FCNFPsUu9NWEu5v3iuzBIQ2vevuGrBs
+        - text: 1080 x 2280
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 1080 x 2340 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_eight_browse-bin%3A23487421011&dc&qid=1754303457&rnid=23487394011&ref=sr_nr_p_n_feature_eight_browse-bin_3&ds=v1%3AH52CcNpGcFViDc3XLbfSldNHvxQxDAfsn6zE2Nmo6uw
+        - text: 1080 x 2340
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 1080 x 2400 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_eight_browse-bin%3A23487399011&dc&qid=1754303457&rnid=23487394011&ref=sr_nr_p_n_feature_eight_browse-bin_4&ds=v1%3ALdw%2BT2sUoYdmHd3QjRui3BA0p69ielAw7cnvGqnoq48
+        - text: 1080 x 2400
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 1280 x 720 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_eight_browse-bin%3A23487402011&dc&qid=1754303457&rnid=23487394011&ref=sr_nr_p_n_feature_eight_browse-bin_5&ds=v1%3AWx679nmOu4j6qx8lKLEHLEULC88dFsH9wtLFl9tiz4U
+        - text: 1280 x 720
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 1334 x 750 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_eight_browse-bin%3A23487430011&dc&qid=1754303457&rnid=23487394011&ref=sr_nr_p_n_feature_eight_browse-bin_6&ds=v1%3APh4vD6rr9PkUpoC9Z9xd4M5hX8gEQnerwW5AHLt6Y6A
+        - text: 1334 x 750
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 1440 x 3040 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_eight_browse-bin%3A23487413011&dc&qid=1754303457&rnid=23487394011&ref=sr_nr_p_n_feature_eight_browse-bin_7&ds=v1%3A6%2Fz4kJVlAjGeO9SzEabGY4bpY9Ogf18OQ%2FfKdK4C4Y4
+        - text: 1440 x 3040
+    - listitem:
+      - button "See more, Display Resolution": See more
+- group "Specific Absorption Rate":
+  - heading "Specific Absorption Rate" [level=2]
+  - list "Specific Absorption Rate":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 1 to 1.9 filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015498421111%3A122268290011&dc&qid=1754303457&rnid=122268180011&ref=sr_nr_p_n_g-101015498421111_1&ds=v1%3AAg8HyYhnqyB683ApaqHDDBKQoFEmGvA9wHl2x6RgtF4
+        - text: 1 to 1.9
+- group "Average Battery Life Talk Time":
+  - heading "Average Battery Life Talk Time" [level=2]
+  - list "Average Battery Life Talk Time":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Up to 4 h filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015499897111%3A122268272011&dc&qid=1754303457&rnid=122268176011&ref=sr_nr_p_n_g-101015499897111_1&ds=v1%3A%2F259N%2FEAKt1dpPxYulMUIy7gg%2BIAF%2Fyym4t0C0a4H0Y
+        - text: Up to 4 h
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 5 to 9 h filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015499897111%3A122268274011&dc&qid=1754303457&rnid=122268176011&ref=sr_nr_p_n_g-101015499897111_2&ds=v1%3AEM3%2Bl2%2B%2Fw3mU7EEv7WlQfJWgXLX%2FiCc5PkIZYWDydHA
+        - text: 5 to 9 h
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 10 to 19 h filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015499897111%3A122268271011&dc&qid=1754303457&rnid=122268176011&ref=sr_nr_p_n_g-101015499897111_3&ds=v1%3AWU3fa3eYA3zBI41trvzZcPSUS3QJzgElhxlv7EJmM6o
+        - text: 10 to 19 h
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 20 to 24 h filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015499897111%3A122268270011&dc&qid=1754303457&rnid=122268176011&ref=sr_nr_p_n_g-101015499897111_4&ds=v1%3AElOJC3qJJI%2Fi1XYqG8F6X%2BW8KdUK3Poozxu9VdzxvaQ
+        - text: 20 to 24 h
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 25 to 29 h filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015499897111%3A122268269011&dc&qid=1754303457&rnid=122268176011&ref=sr_nr_p_n_g-101015499897111_5&ds=v1%3AtLcyElecsuHOLZ%2B9jWzC2lBvr3uA9ctS3QwbOvmEkOc
+        - text: 25 to 29 h
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 30 h & above filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015499897111%3A122268273011&dc&qid=1754303457&rnid=122268176011&ref=sr_nr_p_n_g-101015499897111_6&ds=v1%3AsGI72izVC57IUHa6%2FfsljvFrwPngA8jBNcBF8M8K1JE
+        - text: 30 h & above
+- group "Headphones Jack":
+  - heading "Headphones Jack" [level=2]
+  - list "Headphones Jack":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 2.5 mm filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015501406111%3A122268297011&dc&qid=1754303457&rnid=122268182011&ref=sr_nr_p_n_g-101015501406111_1&ds=v1%3AfFAaEverLmd1yruLexmy5dmYpatQqJcc2Eh%2F6f9ZqO4
+        - text: 2.5 mm
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 3.5 mm filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015501406111%3A122268298011&dc&qid=1754303457&rnid=122268182011&ref=sr_nr_p_n_g-101015501406111_2&ds=v1%3AMsTfHWPIMF2lv9uzXn8HibRa7Y3wx2tfsw4hTNMW%2FD4
+        - text: 3.5 mm
+- group "Sustainability Features":
+  - heading "Sustainability Features" [level=2]
+  - list "Sustainability Features":
+    - listitem:
+      - link "Any Feature":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_cpf_labels%3A121136630011&dc&qid=1754303457&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_1&ds=v1%3AoaaB45b%2FSHAruqSUfn%2B8yGbv0w4VuIOpVF2pvMYtLB0
+    - listitem:
+      - link "Energy Efficiency":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_cpf_labels%3A116845685011&dc&qid=1754303457&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_2&ds=v1%3A2GobgPR8DGKn1TZGo3OQ1lf9X9McByUCcU0KR2TlYgM
+    - listitem:
+      - button "See more, Sustainability Features": See more
+- group "Features":
+  - heading "Features" [level=2]
+  - list "Features":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Smartphone filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_eleven_browse-bin%3A14674898011&dc&qid=1754303457&rnid=14674879011&ref=sr_nr_p_n_feature_eleven_browse-bin_1&ds=v1%3AIxC6jmgemILzXhlQ8tsyE%2F2NYsG7fRRp6iKJ3g0%2FH8M
+        - text: Smartphone
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Touchscreen filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_eleven_browse-bin%3A14674900011&dc&qid=1754303457&rnid=14674879011&ref=sr_nr_p_n_feature_eleven_browse-bin_2&ds=v1%3AFgzRx5Ni4NQO%2BwGtlKaQdBcQJn7Fo%2B9EYXenLaXswWc
+        - text: Touchscreen
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Camera filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_eleven_browse-bin%3A14674884011&dc&qid=1754303457&rnid=14674879011&ref=sr_nr_p_n_feature_eleven_browse-bin_3&ds=v1%3AWfxaOVH2MHTY7oMPojNz7MvXmctiMqUe%2FtRZuDS%2FfBI
+        - text: Camera
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Dual Core Processor filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_feature_eleven_browse-bin%3A14674887011&dc&qid=1754303457&rnid=14674879011&ref=sr_nr_p_n_feature_eleven_browse-bin_4&ds=v1%3A32Vlrga8Sma86yQXJkqmB574%2FapS%2F9Vi%2FBfF1QgYA20
+        - text: Dual Core Processor
+- group "Battery Charge Time":
+  - heading "Battery Charge Time" [level=2]
+  - list "Battery Charge Time":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply Up to 1 h filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015499990111%3A122268302011&dc&qid=1754303457&rnid=122268183011&ref=sr_nr_p_n_g-101015499990111_1&ds=v1%3AIwAdIDUqjzBJAWz5out0FdbruQEdAPf8NiORI40fsUU
+        - text: Up to 1 h
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 2 to 2.9 h filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015499990111%3A122268300011&dc&qid=1754303457&rnid=122268183011&ref=sr_nr_p_n_g-101015499990111_2&ds=v1%3AWuWCSttTYrrkD%2BT5i01jro0s%2BcTe5UopnU4H59%2FOQts
+        - text: 2 to 2.9 h
+- group "Effective Video Resolution":
+  - heading "Effective Video Resolution" [level=2]
+  - list "Effective Video Resolution":
+    - listitem "Popular Shopping Ideas":
+      - link "Apply 3 MP & above filter to narrow results":
+        - /url: /s?k=iPhone&rh=n%3A21514055011%2Cp_n_g-101015501384111%3A122268293011&dc&qid=1754303457&rnid=122268181011&ref=sr_nr_p_n_g-101015501384111_1&ds=v1%3A9c3Qkq%2F4WGh1lC6SSa56XI1biiCnQsgKWFBspdmc7ow
+        - text: 3 MP & above
+- complementary "Your recently viewed items and featured recommendations"
+- button "Back to top"
+- heading "Get to Know Us" [level=6]
+- list:
+  - listitem:
+    - link "Careers":
+      - /url: https://www.amazon.jobs
+  - listitem:
+    - link "Blog":
+      - /url: https://blog.aboutamazon.com/?utm_source=gateway&utm_medium=footer
+  - listitem:
+    - link "About Amazon":
+      - /url: https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer
+  - listitem:
+    - link "Investor Relations":
+      - /url: https://www.amazon.com/ir
+  - listitem:
+    - link "Amazon Devices":
+      - /url: /gp/browse.html?node=2102313011&ref_=footer_devices
+  - listitem:
+    - link "Amazon Science":
+      - /url: https://www.amazon.science
+- heading "Make Money with Us" [level=6]
+- list:
+  - listitem:
+    - link "Sell products on Amazon":
+      - /url: https://services.amazon.com/sell.html?ld=AZFSSOA&ref_=footer_soa
+  - listitem:
+    - link "Sell on Amazon Business":
+      - /url: https://services.amazon.com/amazon-business.html?ld=usb2bunifooter&ref_=footer_b2b
+  - listitem:
+    - link "Sell apps on Amazon":
+      - /url: https://developer.amazon.com
+  - listitem:
+    - link "Become an Affiliate":
+      - /url: https://affiliate-program.amazon.com/
+  - listitem:
+    - link "Advertise Your Products":
+      - /url: https://advertising.amazon.com/?ref=ext_amzn_ftr
+  - listitem:
+    - link "Self-Publish with Us":
+      - /url: /gp/seller-account/mm-summary-page.html?ld=AZFooterSelfPublish&topic=200260520&ref_=footer_publishing
+  - listitem:
+    - link "Host an Amazon Hub":
+      - /url: https://go.thehub-amazon.com/amazon-hub-locker
+  - listitem:
+    - link "See More Make Money with Us":
+      - /url: /b/?node=18190131011&ld=AZUSSOA-seemore&ref_=footer_seemore
+- heading "Amazon Payment Products" [level=6]
+- list:
+  - listitem:
+    - link "Amazon Business Card":
+      - /url: /dp/B07984JN3L?plattr=ACOMFO&ie=UTF-8
+  - listitem:
+    - link "Shop with Points":
+      - /url: /gp/browse.html?node=16218619011&ref_=footer_swp
+  - listitem:
+    - link "Reload Your Balance":
+      - /url: /dp/B0CHTVMXZJ?th=1?ref_=footer_reload_us
+  - listitem:
+    - link "Amazon Currency Converter":
+      - /url: /gp/browse.html?node=388305011&ref_=footer_tfx
+- heading "Let Us Help You" [level=6]
+- list:
+  - listitem:
+    - link "Amazon and COVID-19":
+      - /url: /gp/help/customer/display.html?nodeId=GDFU3JS5AL6SYHRD&ref_=footer_covid
+  - listitem:
+    - link "Your Account":
+      - /url: https://www.amazon.com/gp/css/homepage.html?ref_=footer_ya
+  - listitem:
+    - link "Your Orders":
+      - /url: https://www.amazon.com/gp/css/order-history?ref_=footer_yo
+  - listitem:
+    - link "Shipping Rates & Policies":
+      - /url: /gp/help/customer/display.html?nodeId=468520&ref_=footer_shiprates
+  - listitem:
+    - link "Returns & Replacements":
+      - /url: /gp/css/returns/homepage.html?ref_=footer_hy_f_4
+  - listitem:
+    - link "Manage Your Content and Devices":
+      - /url: /gp/digital/fiona/manage?ref_=footer_myk
+  - listitem:
+    - link "Help":
+      - /url: /gp/help/customer/display.html?nodeId=508510&ref_=footer_gw_m_b_he
+- link "Amazon US Home":
+  - /url: /?ref_=footer_logo
+- link "Choose a language for shopping. Current selection is English.":
+  - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang
+  - text: English
+- button "Expand to Change Language or Country"
+- link "$ USD - U.S. Dollar":
+  - /url: /customer-preferences/edit?ie=UTF8&ref_=footer_cop&preferencesReturnUrl=%2Fs%3Fk%3DiPhone%26ref%3Dnb_sb_nosss%2Fref%3Dnb_sb_noss
+- button "Choose a country/region for shopping. The current selection is United States.": United States
+- navigation "More on Amazon":
+  - list:
+    - listitem:
+      - link "Amazon Music Stream millions of songs":
+        - /url: https://music.amazon.com?ref=dm_aff_amz_com
+        - heading "Amazon Music" [level=5]
+        - text: Stream millions of songs
+    - listitem:
+      - link "Amazon Ads Reach customers wherever they spend their time":
+        - /url: https://advertising.amazon.com/?ref=footer_advtsing_amzn_com
+        - heading "Amazon Ads" [level=5]
+        - text: Reach customers wherever they spend their time
+    - listitem:
+      - link "6pm Score deals on fashion brands":
+        - /url: https://www.6pm.com
+        - heading "6pm" [level=5]
+        - text: Score deals on fashion brands
+    - listitem:
+      - link "AbeBooks Books, art & collectibles":
+        - /url: https://www.abebooks.com
+        - heading "AbeBooks" [level=5]
+        - text: Books, art & collectibles
+    - listitem:
+      - link "ACX Audiobook Publishing Made Easy":
+        - /url: https://www.acx.com/
+        - heading "ACX" [level=5]
+        - text: Audiobook Publishing Made Easy
+    - listitem:
+      - link "Sell on Amazon Start a Selling Account":
+        - /url: https://sell.amazon.com/?ld=AZUSSOA-footer-aff&ref_=footer_sell
+        - heading "Sell on Amazon" [level=5]
+        - text: Start a Selling Account
+    - listitem:
+      - link "Veeqo Shipping Software Inventory Management":
+        - /url: https://www.veeqo.com/?utm_source=amazon&utm_medium=website&utm_campaign=footer
+        - heading "Veeqo" [level=5]
+        - text: Shipping Software Inventory Management
+  - list:
+    - listitem:
+      - link "Amazon Business Everything For Your Business":
+        - /url: /business?ref_=footer_retail_b2b
+        - heading "Amazon Business" [level=5]
+        - text: Everything For Your Business
+    - listitem:
+      - link "AmazonGlobal Ship Orders Internationally":
+        - /url: /gp/browse.html?node=230659011&ref_=footer_amazonglobal
+        - heading "AmazonGlobal" [level=5]
+        - text: Ship Orders Internationally
+    - listitem:
+      - link "Amazon Web Services Scalable Cloud Computing Services":
+        - /url: https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter
+        - heading "Amazon Web Services" [level=5]
+        - text: Scalable Cloud Computing Services
+    - listitem:
+      - link "Audible Listen to Books & Original Audio Performances":
+        - /url: https://www.audible.com
+        - heading "Audible" [level=5]
+        - text: Listen to Books & Original Audio Performances
+    - listitem:
+      - link "Box Office Mojo Find Movie Box Office Data":
+        - /url: https://www.boxofficemojo.com/?ref_=amzn_nav_ftr
+        - heading "Box Office Mojo" [level=5]
+        - text: Find Movie Box Office Data
+    - listitem:
+      - link "Goodreads Book reviews & recommendations":
+        - /url: https://www.goodreads.com
+        - heading "Goodreads" [level=5]
+        - text: Book reviews & recommendations
+    - listitem:
+      - link "IMDb Movies, TV & Celebrities":
+        - /url: https://www.imdb.com
+        - heading "IMDb" [level=5]
+        - text: Movies, TV & Celebrities
+  - list:
+    - listitem:
+      - link "IMDbPro Get Info Entertainment Professionals Need":
+        - /url: https://pro.imdb.com?ref_=amzn_nav_ftr
+        - heading "IMDbPro" [level=5]
+        - text: Get Info Entertainment Professionals Need
+    - listitem:
+      - link "Kindle Direct Publishing Indie Digital & Print Publishing Made Easy":
+        - /url: https://kdp.amazon.com
+        - heading "Kindle Direct Publishing" [level=5]
+        - text: Indie Digital & Print Publishing Made Easy
+    - listitem:
+      - link "Prime Video Direct Video Distribution Made Easy":
+        - /url: https://videodirect.amazon.com/home/landing
+        - heading "Prime Video Direct" [level=5]
+        - text: Video Distribution Made Easy
+    - listitem:
+      - link "Shopbop Designer Fashion Brands":
+        - /url: https://www.shopbop.com
+        - heading "Shopbop" [level=5]
+        - text: Designer Fashion Brands
+    - listitem:
+      - link "Woot! Deals and Shenanigans":
+        - /url: https://www.woot.com/
+        - heading "Woot!" [level=5]
+        - text: Deals and Shenanigans
+    - listitem:
+      - link "Zappos Shoes & Clothing":
+        - /url: https://www.zappos.com
+        - heading "Zappos" [level=5]
+        - text: Shoes & Clothing
+    - listitem:
+      - link "Ring Smart Home Security Systems":
+        - /url: https://ring.com
+        - heading "Ring" [level=5]
+        - text: Smart Home Security Systems
+  - list:
+    - listitem:
+      - link "eero WiFi Stream 4K Video in Every Room":
+        - /url: https://eero.com/
+        - heading "eero WiFi" [level=5]
+        - text: Stream 4K Video in Every Room
+    - listitem:
+      - link "Blink Smart Security for Every Home":
+        - /url: https://blinkforhome.com/?ref=nav_footer
+        - heading "Blink" [level=5]
+        - text: Smart Security for Every Home
+    - listitem:
+      - link "Neighbors App Real-Time Crime & Safety Alerts":
+        - /url: https://shop.ring.com/pages/neighbors-app
+        - heading "Neighbors App" [level=5]
+        - text: Real-Time Crime & Safety Alerts
+    - listitem:
+      - link "Amazon Live Stream. Shop. Live":
+        - /url: /live?ref_=nav_ftr_amzn_live_t1
+        - heading "Amazon Live" [level=5]
+        - text: Stream. Shop. Live
+    - listitem:
+      - link "PillPack Pharmacy Simplified":
+        - /url: https://www.pillpack.com
+        - heading "PillPack" [level=5]
+        - text: Pharmacy Simplified
+    - listitem:
+      - link "Amazon Luna Video games from the cloud, no console required":
+        - /url: https://www.amazon.com/luna/landing-page?ref_=tmp_retail_footer
+        - heading "Amazon Luna" [level=5]
+        - text: Video games from the cloud, no console required
+- list:
+  - listitem:
+    - link "Conditions of Use":
+      - /url: /gp/help/customer/display.html?nodeId=508088&ref_=footer_cou
+  - listitem:
+    - link "Privacy Notice":
+      - /url: /gp/help/customer/display.html?nodeId=468496&ref_=footer_privacy
+  - listitem:
+    - link "Consumer Health Data Privacy Disclosure":
+      - /url: /gp/help/customer/display.html?ie=UTF8&nodeId=TnACMrGVghHocjL8KB&ref_=footer_consumer_health_data_privacy
+  - listitem:
+    - link "Your Ads Privacy Choices":
+      - /url: /privacyprefs?ref_=footer_iba
+  - listitem
+- text: © 1996-2025, Amazon.com, Inc. or its affiliates
+```
